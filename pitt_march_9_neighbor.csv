@@ -1,0 +1,701 @@
+id,venue,lat,lon,neighborhood
+0,Zeke s Coffee,40.461357,-79.924568,Shadyside
+1,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+2,Quantum Counseling Services,40.692699,-80.105698,
+3,Temple Baptist Church,40.408634,-79.99115,Bon Air
+4,Temple Baptist Church,40.408634,-79.99115,Bon Air
+5,Grazie Restaurant and Event Center,40.633961,-80.050583,
+6,Heinz College - Hamburg Hall,40.444366,-79.94558,Central Oakland
+7,Carnegie Library of Pittsburgh - Downtown and Business Branch,40.44175,-79.99752,
+8,PUGDOG S Rock and Bead Shop,40.565886,-79.765609,
+9,The White Rabbit Cafe and Patisserie,40.303905,-79.544739,
+10,Cinemark North Hills and XD (McCandless Crossing) ,40.570404,-80.01837,
+11,Microsoft Corporation,40.448093,-80.003136,
+12,Andrew Carnegie Free Library and Music Hall,40.406994,-80.085823,
+13,Starbucks,40.440247,-80.002228,Mount Washington
+14,Lighthouse Point. 500 Chapel Harbor Drive. O Hara Twnshp Pa. 15238,40.485355,-79.886032,Lincoln-Lemington-Belmar
+15,Panera Bread - Bakery Square,40.456543,-79.915108,Squirrel Hill North
+16,Panera Bread 4344 136 Bakery Square,40.438339,-79.997467,South Shore
+17,Lighthouse Point. 500 Chapel Harbor Drive. O Hara Twnshp Pa. 15238,40.485355,-79.886032,Lincoln-Lemington-Belmar
+18,Murrysville Community Library,40.455193,-79.666946,
+19,Bessemer Alliance,40.461296,-79.923386,Shadyside
+20,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+21,Bella Frutteto,40.615174,-80.092667,
+22,Duke s Rib House and Grille,40.394966,-80.06115,
+23,Olive or Twist,40.4432,-80.00244,
+24,En Garde Fencing Club ,40.496241,-79.94392,
+25,Cathedral of Learning (by the 1st floor Elevators),40.444649,-79.952599,West Oakland
+26,Olive or Twist,40.4432,-80.00244,
+27,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+28,L.L.Bean Store at Ross Park Mall,40.54271,-80.00949,
+29,CHS Oakland Community Pantry,40.433662,-79.961472,South Side Flats
+30,La Casa Narcisi Winery,40.613205,-79.900291,
+31,Carnegie Library of Pittsburgh - Downtown and Business,40.441776,-79.997383,
+32,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+33,Latitude 40,40.446178,-80.177849,
+34,Holistic Approach 4 Life,40.328297,-80.12561,
+35,Panera,40.436432,-79.958084,
+36,Summa,40.460442,-79.926735,Shadyside
+37,Crazy Mocha - (412) 521-1056,40.432976,-79.917404,Squirrel Hill South
+38,Magee-Womens Hospital Auditorium Level Zero,40.434307,-79.953354,
+39,Quantum Counseling Services,40.692699,-80.105698,
+40,Lot 17,40.46257,-79.950127,Upper Hill
+41,Crazy Mocha,40.45672,-79.929955,Shadyside
+42,East End Food Co-Op,40.448215,-79.895462,Point Breeze
+43,East End Food Co-Op,40.448452,-79.895866,Point Breeze
+44,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+45,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+46,Smiling Moose,40.428715,-79.984962,Allentown
+47,Smiling Moose,40.428715,-79.984962,Allentown
+48,Adam s Ridge Clubhouse,40.684216,-80.050003,
+49,Pittsburgh Marriott City Center,40.439758,-79.991226,
+50,Marriott City Center - Pittsburgh,40.439758,-79.992439,
+51,Bethel Park Library,40.332137,-80.031073,
+52,A Mother s Boutique,40.6254298,-80.0537051,
+53,Mt. Lebanon Public Library,40.37701,-80.045265,
+54,Carnegie Museum of Art and Natural History,40.444138,-79.949265,Central Oakland
+55,Carnegie Museum of Art and Natural History,40.444138,-79.949265,Central Oakland
+56,Kings Family Restaurant,40.256481,-80.150963,
+57,Hofbr uhaus Pittsburgh,40.427914,-79.965233,South Side Slopes
+58,Claddagh Irish Pub (Southside Works),40.428202,-79.964952,South Side Slopes
+59,Claddagh Irish Pub,40.428202,-79.964952,South Side Slopes
+60,Claddagh Irish Pub,40.428202,-79.964952,South Side Slopes
+61,Panera Bread,40.633533,-80.059784,
+62,M Modal,40.437515,-79.92305,Squirrel Hill South
+63,Performance Bicycle,40.458889,-79.917595,Shadyside
+64,En Garde Fencing Club ,40.496241,-79.94392,
+65,Pittsburgh Technology Council,40.434158,-79.970299,South Side Flats
+66,Pittsburgh Public Theater,40.443027,-80.00106,
+67,Heritage Valley Sewickley,40.543304,-80.177643,
+68,Cost Center,40.4474352,-79.9597794,Terrace Village
+69,The Avenue Theater,40.700504,-80.28228,
+70,Eat N Park ,40.4492,-80.163345,
+71,McLaughlin Run Road Recreation Center Room,40.335861,-80.074348,
+72,Pair Networks,40.429848,-79.969833,South Side Slopes
+73,Youtopia dance studio,40.435703,-79.922905,Squirrel Hill South
+74,Youtopia dance studio,40.435703,-79.922905,Squirrel Hill South
+75,Friends House,40.449139,-79.945808,North Oakland
+76,21st Street Coffee and Tea,40.451702,-79.984444,Strip District
+77,TurnOn Pittsburgh,40.45903,-79.923882,Shadyside
+78,Harris Theater,40.442879,-79.998611,
+79,Galleria,40.356956,-80.05043,
+80,Quantum Counseling Services,40.692699,-80.105698,
+81,Moon Township Public Library,40.475914,-80.174187,
+82,Quantum Counseling Services,40.692699,-80.105698,
+83,Jacksons Restaurant,40.508793,-80.223083,
+84,La Roche College,40.568439,-80.012024,
+85,Summa,40.460442,-79.926735,Shadyside
+86,Immaculate Heart of Mary Church,40.456392,-79.967908,Strip District
+87,St Nicholas Serbian Orthodox,40.404789,-79.757034,
+88,Swisshelm Park Community Center,40.424454,-79.90132,Swisshelm Park
+89,Family Restaurant ,40.384995,-79.978584,Overbrook
+90,Family Restaurant ,40.384995,-79.978584,Overbrook
+91,Family Restaurant ,40.384995,-79.978584,Overbrook
+92,Game Masters,40.541824,-80.02695,
+93,Animal Friends,40.522995,-80.079155,
+94,CAVO Pittsburgh ,40.451527,-79.98497,Strip District
+95,Online Event,40.440624,-79.995888,
+96,Rocky s Route 8,40.543961,-79.963013,
+97,Allegheny Center Alliance Church,40.453106,-80.003494,Allegheny West
+98,Mt Lebanon Tennis Center,40.374264,-80.057274,
+99,Future Tenant,40.443642,-79.998665,Central Business District
+100,Smithfield and Blvd of Allies Garage,40.437782,-80.00016,Mount Washington
+101,Smithfield and Blvd of Allies Garage,40.437782,-80.00016,Mount Washington
+102,The Triplex,40.4557,-79.895767,Point Breeze North
+103,Beechwood Farms Nature Reserve,40.542927,-79.909286,
+104,Performance Bicycle,40.458889,-79.917595,Shadyside
+105,Casa de Cardentey,40.705158,-79.983467,
+106,First Unitarian Church,40.450757,-79.943,North Oakland
+107,Embassy Suites,40.495162,-80.205357,
+108,Coffee Tree Roaster Meeting Room Shadyside,40.451405,-79.932838,Squirrel Hill North
+109,Christ Church at Grove Farm,40.552092,-80.111189,
+110,Northland Public Library,40.571003,-80.034645,
+111,Crazy Mocha,40.433531,-79.923204,Greenfield
+112,Schenley Oval Sportsplex,40.431979,-79.94216,Greenfield
+113,L.L.Bean Store at Ross Park Mall,40.54268,-80.00944,
+114,Smiling Moose,40.428715,-79.984962,Allentown
+115,Smiling Moose,40.428715,-79.984962,Allentown
+116,Kings Family Restaurants,40.616222,-80.093391,
+117,Kings Family Restaurant,40.617134,-80.093559,
+118,Phoenix 18,40.366787,-80.106682,
+119,Schwartz Market,40.428825,-79.98455,Allentown
+120,Schwartz Market,40.429133,-79.984559,Allentown
+121,Game Masters,40.541824,-80.02695,
+122,First Unitarian Church,40.450757,-79.943,North Oakland
+123,Panera Bread,40.436432,-79.958084,
+124,Hartwood Acres Park - Middle Road Parking Lot,40.570553,-79.927246,
+125,Crazy Mocha,40.682093,-80.12342,
+126,Peter s Pub,40.441841,-79.957336,West Oakland
+127,Carnegie Library of Pittsburgh - East Liberty,40.460835,-79.926414,Shadyside
+128,Carnegie Library of Pittsburgh - Downtown and Business Branch,40.44175,-79.99752,
+129,Claddagh Irish Pub,40.428202,-79.964952,South Side Slopes
+130,mad mex,40.458241,-79.92527,Shadyside
+131,Soldiers and Sailors Hall,40.444292,-79.955443,West Oakland
+132,Mad Mex,40.458237,-79.925461,Shadyside
+133,Mad Mex,40.458237,-79.925461,Shadyside
+134,Mad Mex Shadyside,40.458221,-79.925133,Shadyside
+135,Thunderbird Cafe,40.469284,-79.961594,Lower Lawrenceville
+136,The New Bohemian,40.452686,-79.993263,North Shore
+137,The Big Idea Cooperative Bookstore and Cafe,40.46014,-79.946754,Upper Hill
+138,Millvale Community Center,40.480885,-79.972717,
+139,Eighty Acres,40.451435,-79.714752,
+140,Westmoreland Gaming Sportscards and Comics,40.3134036,-79.3895681,
+141,Lynch Field,40.258644,-79.571187,
+142,Carnegie Library Main (Oakland),40.444139,-79.949267,Central Oakland
+143,Squirrel Hill Library Rm. B,40.438122,-79.922546,Squirrel Hill South
+144,Carnegie Library Squirrel Hill,40.438137,-79.922536,Squirrel Hill South
+145,The Inn on Negley,40.453358,-79.931458,Shadyside
+146,Carnegie Library Squirrel Hill,40.438137,-79.922536,Squirrel Hill South
+147,Piper s Pub,40.428591,-79.979517,South Side Slopes
+148,Carnegie Library Squirrel Hill,40.438137,-79.922536,Squirrel Hill South
+149,Papa J s Ristorante,40.40823,-80.085305,
+150,Skibo Small Gym,40.441628,-79.941551,Central Oakland
+151,Crazy Mocha Coffee Company,40.426212,-79.965431,South Side Slopes
+152,Brew on Broadway,40.410015,-80.024681,Beechview
+153,Arcade Comedy Theater,40.4430326,-79.998586,
+154,Arcade Comedy Theater,40.4430326,-79.998586,
+155,Yoga Digs ,40.428734,-79.986038,Allentown
+156,Zeke s Coffee,40.461357,-79.924568,Shadyside
+157,2100 Mosside Boulevard ,40.423576,-79.760391,
+158,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+159,Temple Baptist Church,40.408634,-79.99115,Bon Air
+160,Row House Cinema,40.469887,-79.960838,Lower Lawrenceville
+161,Row House Cinema,40.469887,-79.960838,Lower Lawrenceville
+162,725 Fisher Hall - Duquesne University,40.437618,-79.989601,
+163,Quantum Counseling Services,40.692699,-80.105698,
+164,Primanti Brothers,40.438511,-79.776917,
+165,Cadillac Ranch ,40.423784,-80.041341,
+166,Unitarian Universalist Church of North Hills,40.584347,-80.081696,
+167,Cadilac Ranch,40.458056,-80.128333,
+168,CRAFTON - INGRAM LANES,40.435069,-80.066166,
+169,Pugliano s Italian Grill,40.447395,-79.71302,
+170,Aladdins Eatery,40.513401,-79.879776,
+171,Frick Fine Arts Auditorium,40.444595,-79.959839,Terrace Village
+172,Jacktown Ride and Hunt Club,40.3297,-79.733032,
+173,Jacktown Ride and Hunt Club,40.3297,-79.733032,
+174,Andrew Carnegie Free Library and Music Hall,40.406994,-80.085823,
+175,En Garde Fencing Club ,40.496241,-79.94392,
+176,Panera Bread - Bakery Square,40.456543,-79.915108,Squirrel Hill North
+177,StartUpTown,40.437489,-79.9814,
+178,En Garde Fencing Club ,40.496241,-79.94392,
+179,Beechwood Farms Nature Reserve,40.542927,-79.909225,
+180,Sharp Edge Beer Emporium,40.459939,-79.930554,Shadyside
+181,Cathedral of Learning (by the 1st floor Elevators),40.444649,-79.952599,West Oakland
+182,Greater Pittsburgh Masonic Center,40.528487,-80.143122,
+183,Cruze Bar,40.449604,-79.987617,Central Business District
+184,the Rex Theatre,40.428688,-79.98246,Allentown
+185,Upper St. Clair Library,40.335259,-80.073258,
+186,Volunteers of America,40.494747,-79.923813,Morningside
+187,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+188,Getaway Cafe,40.384331,-80.015935,
+189,Regional Learning Alliance at Cranberry Woods,40.673447,-80.088402,
+190,Temple Baptist Church,40.408634,-79.99115,Bon Air
+191,Sparkledragon s Magical Emporium,40.404533,-80.033188,
+192,Panera,40.436432,-79.958084,
+193,Tera Switch Networks,40.450432,-80.019455,
+194,Crazy Mocha - (412) 521-1056,40.432976,-79.917404,Squirrel Hill South
+195,Magee-Womens Hospital of UPMC Suite 5600,40.437542,-79.960396,
+196,Game Masters,40.541824,-80.02695,
+197,Management Science Associates,40.454826,-79.913498,Squirrel Hill North
+198,Temple Baptist Church,40.408634,-79.99115,Bon Air
+199,Quantum Counseling Services,40.692699,-80.105698,
+200,East End Food Co-Op,40.448215,-79.895462,Point Breeze
+201,NoWait,40.441303,-79.95776,West Oakland
+202,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+203,Kings Family Restaurant,40.61713,-80.093559,
+204,Revv Oakland,40.441185,-79.957092,South Oakland
+205,Pittsburgh Playwrights Theatre Company,40.443378,-79.996666,Central Business District
+206,Pittsburgh Playwrights Theatre Company,40.443378,-79.996666,Central Business District
+207,Helen Wayne Raub Studio Theater Purnell Ctr.,40.44112,-79.941872,Central Oakland
+208,Smiling Moose,40.428715,-79.984962,Allentown
+209,Smiling Moose,40.428715,-79.984962,Allentown
+210,Carnegie Library of Pittsburgh - Downtown and Business Branch,40.44175,-79.99752,
+211,Cafe Kolache,40.696453,-80.301849,
+212,Carnegie Museum of Art and Natural History,40.444138,-79.949265,Central Oakland
+213,Carnegie Museum of Art and Natural History,40.444138,-79.949265,Central Oakland
+214,Jergel s,40.654709,-80.08242,
+215,jergels ,40.654755,-80.081772,
+216,Carnegie Museum of Art,40.443626,-79.950623,Central Oakland
+217,Great Hall College of Fine Arts Building ,40.442493,-79.942551,Central Oakland
+218,Kings Family Restaurant,40.256481,-80.150963,
+219,Panera Bread,40.633533,-80.059784,
+220,Panera Bread,40.633533,-80.059784,
+221,Sharp Edge Bistro,40.444038,-79.997261,Central Business District
+222,Sharp Edge Bistro,40.444,-79.997223,Central Business District
+223,TechShop Pittsburgh,40.456928,-79.915764,Shadyside
+224,En Garde Fencing Club ,40.496241,-79.94392,
+225,Sharp Edge Bistro,40.443962,-79.997208,Central Business District
+226,Cost Center Outdoor IM Fields,40.438339,-79.997467,South Shore
+227,Christina s Restaurant,40.347141,-79.792244,
+228,Holistic Approach 4 Life,40.328297,-80.12561,
+229,Market District Supermarket,40.441742,-80.151283,
+230,Hoss s Steak and Sea House,40.422981,-79.663353,
+231,Bridge Coworking,40.365257,-79.982224,
+232,Panera Bread,40.358051,-80.052071,
+233,Revv Oakland,40.441185,-79.957092,South Oakland
+234,Regent Square Theater,40.433416,-79.894225,Squirrel Hill South
+235,Regent Square Theater,40.433416,-79.894225,Squirrel Hill South
+236,Regent Square Theater,40.433416,-79.894225,Squirrel Hill South
+237,Dobra Tea,40.434963,-79.922806,Squirrel Hill South
+238,L.L.Bean Store at Ross Park Mall,40.543087,-80.009415,
+239,Steel Cactus,40.451412,-79.933632,Squirrel Hill North
+240,Children s Museum,40.452587,-80.007088,North Shore
+241,Quantum Counseling Services,40.692699,-80.105698,
+242,Moon Township Public Library,40.475914,-80.174187,
+243,Wooden Nickel,40.437237,-79.772346,
+244,Quantum Counseling Services,40.692699,-80.105698,
+245,Panera Bread,40.632431,-80.05883,
+246,South Hills Village Mall ,40.343731,-80.056847,
+247,Bicycle Heaven Museum,40.45633,-80.03202,Elliott
+248,Enlightened Healing Energy,40.372467,-80.033928,
+249,Sacred Heart Parish,40.456097,-79.923271,Shadyside
+250,Carnegie Library of Pittsburgh - Homewood Branch,40.455284,-79.899214,Point Breeze
+251,Magee-Womens Hospital of UPMC Suite 2131,40.437542,-79.960396,
+252,Pittsburgh Dance Center,40.461189,-79.947533,Upper Hill
+253,Pittsburgh Dance Center,40.461079,-79.947922,Upper Hill
+254,Sri Yantra Yoga LLC,40.250741,-80.208757,
+255,Carnegie Library of Pittsburgh,40.443508,-79.949593,Central Oakland
+256,Bigham Tavern,40.432457,-80.01503,Duquesne Heights
+257,Crazy Mocha Coffee Company,40.456524,-79.93026,Shadyside
+258,The Hollywood Theater in Dormont,40.396042,-80.035027,
+259,TurnOn Pittsburgh,40.45903,-79.923882,Shadyside
+260,Allegheny Center Alliance Church,40.453106,-80.003494,Allegheny West
+261,Mt Lebanon Tennis Center,40.374264,-80.057274,
+262,Future Tenant,40.443642,-79.998665,Central Business District
+263,CAVO Pittsburgh ,40.451527,-79.98497,Strip District
+264,Pittsburgh Athletic Association,40.444721,-79.954376,West Oakland
+265,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+266,The Pump House,40.409203,-79.895813,
+267,Springdale United Presbyterian,40.541355,-79.778358,
+268,Panera Bread,40.357609,-80.050369,
+269,SouthSide Riverfront Park Entrance,40.431889,-79.980301,South Side Flats
+270,Footprints Farm,39.7210001,-79.6093279,
+271,Carnegie Library Main (Oakland),40.444139,-79.949267,Central Oakland
+272,Crazy Mocha,40.433531,-79.923204,Greenfield
+273,Schenley Oval Sportsplex,40.431979,-79.94216,Greenfield
+274,Andrew Bayne Memorial Library,40.496571,-80.054886,
+275,Market District Express,40.30378,-80.09745,
+276,First Floor Posvar Hall,40.440609,-79.953972,South Oakland
+277,Skibo Gymnasium,40.441753,-79.941574,Central Oakland
+278,Lucky Paws,40.685226,-80.164513,
+279,Dove of Light Healing Ministry,40.154251,-79.794983,
+280,The Hardware Store - Where media professionals startups and nonprofits collaborate,40.421764,-79.99408,Beltzhoover
+281,Panera Bread,40.395706,-80.066353,
+282,The Hardware Store - Where media professionals startups and nonprofits collaborate,40.421764,-79.99408,Beltzhoover
+283,Yoga Digs ,40.428734,-79.986038,Allentown
+284,Bellefield Auditorium ,40.445962,-79.951683,West Oakland
+285,Forbes Tower,40.440445,-79.95755,South Oakland
+286,Bellefield Auditorium ,40.445962,-79.951683,West Oakland
+287,kettlebell fusion fitness,40.446079,-79.763725,
+288,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+289,Panera Bread,40.436008,-79.958076,
+290,Carnegie Library of Pittsburgh - Downtown and Business Branch,40.44175,-79.99752,
+291,Carnegie Library of Pittsburgh - Homewood Branch,40.455284,-79.899214,Point Breeze
+292,Panera Bread,40.456142,-79.937492,Shadyside
+293,Carnegie Library of Pittsburgh - Squirrel Hill Branch,40.438213,-79.922653,Squirrel Hill South
+294,Carnegie Museum of Art,40.444139,-79.949267,Central Oakland
+295,Laird Hall,40.428642,-79.694237,
+296,Harris Theater,40.442795,-79.998558,
+297,Ali Baba,40.445094,-79.948789,Central Oakland
+298,Saint Anthony s Chapel,40.464668,-79.983673,Spring Garden
+299,Colleen s House,40.377941,-80.02829,
+300,Saint Anthony s Chapel,40.464668,-79.983673,Spring Garden
+301,Saint Anthony Chapel,40.464752,-79.983643,Spring Garden
+302,Saint Anthony s Chapel,40.464668,-79.983673,Spring Garden
+303,Saint Anthony Chapel,40.464752,-79.983643,Spring Garden
+304,Willow Restaurant and Lounge,40.521193,-80.076578,
+305,First Unitarian Church of Pittsburgh in Shadyside,40.450916,-79.943053,North Oakland
+306,First Unitarian Church of Pittsburgh in Shadyside,40.450916,-79.943053,North Oakland
+307,latitude 360,40.446178,-80.177849,
+308,Panera Bread ,40.455936,-79.937172,Shadyside
+309,Carnegie Mellon University-McConomy Auditorium,40.443504,-79.941574,Central Oakland
+310,Harris Theater,40.442795,-79.998558,
+311,Byham Theater,40.443848,-80.002548,
+312,The Church Brew Works,40.46244,-79.964394,Strip District
+313,31 RPMs Sports Bar - Grille,40.366302,-80.106628,
+314,Eclipse Lounge,40.466454,-79.964691,Strip District
+315,Cruze Bar,40.449604,-79.987617,Central Business District
+316,Eliza Furnace Trail Parking Lot,40.4261,-79.953394,South Side Slopes
+317,Raccoon Creek State Park,40.506271,-80.390106,
+318,Carnegie Science Center,40.452234,-80.00345,North Shore
+319,TurnOn Pittsburgh,40.45903,-79.923882,Shadyside
+320,Paneras Bread Waterworks Mall,40.48912,-79.89257,
+321,Dobra Tea,40.434963,-79.922806,Squirrel Hill South
+322,Pittsburgh Friends Meeting House,40.449139,-79.945808,North Oakland
+323,Hofbrauhaus Pittsburgh,40.428661,-79.964912,South Side Slopes
+324,Cheesecake Factory,40.427914,-79.965233,South Side Slopes
+325,Crazy Mocha,40.630177,-80.057175,
+326,Enlightened Healing Energy,40.372467,-80.033928,
+327,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+328,Perle,40.441086,-80.002876,South Shore
+329,Soergel Orchards,40.615013,-80.092499,
+330,Animal Friends,40.522213,-80.077316,
+331,Shape Training,40.45863,-79.931137,Shadyside
+332,Carnegie Library Squirrel Hill,40.438137,-79.922536,Squirrel Hill South
+333,Crazy Mocha - (412) 521-1056,40.432976,-79.917404,Squirrel Hill South
+334,Level 20 Lounge,40.336735,-80.023605,
+335,Palate Partners School of Wines and Spirits,40.461971,-79.965454,Strip District
+336,Carnegie Library of Pittsburgh - Main,40.443424,-79.948845,Central Oakland
+337,Carnegie Library Squirrel Hill,40.438137,-79.922536,Squirrel Hill South
+338,Saint Stephen Catholic Church,40.406368,-79.942749,
+339,Schenley Park,40.439304,-79.946434,South Oakland
+340,Carnegie Library Squirrel Hill,40.438137,-79.922536,Squirrel Hill South
+341,Josh and Becky s House,40.377327,-79.967606,
+342,Carnegie Mellon University-McConomy Auditorium,40.443504,-79.941574,Central Oakland
+343,Razzy Fresh,40.445651,-79.949497,Central Oakland
+344,Absolute Ballroom Dancing,40.457782,-79.909891,Point Breeze
+345,Panera Bread,40.456512,-79.915154,Squirrel Hill North
+346,Regent Square Theater,40.433416,-79.894225,Squirrel Hill South
+347,Zeke s Coffee,40.461357,-79.924568,Shadyside
+348, CCAC Boyce Campus,40.452187,-79.75291,
+349,Birmingham Bridge Tavern,40.424572,-79.964493,South Side Slopes
+350,Cheesecake Factory,40.427914,-79.965233,South Side Slopes
+351,Temple Baptist Church,40.408634,-79.99115,Bon Air
+352,Cannon Coffee,40.393463,-80.020142,
+353,Kresge Theater,40.443504,-79.941574,Central Oakland
+354,Olive or Twist,40.4432,-80.00244,
+355,Olive or Twist,40.4432,-80.00244,
+356,Olive or Twist,40.4432,-80.00244,
+357,Pittsburgh Playwrights Theatre Company,40.443378,-79.996666,Central Business District
+358,CRAFTON - INGRAM LANES,40.435069,-80.066166,
+359,Snapology,40.349045,-80.05175,
+360,Bonnie and Clyde s,40.632542,-80.058952,
+361,Squirrel Hill Library,40.438122,-79.922546,Squirrel Hill South
+362,The White Rabbit Cafe and Patisserie,40.303905,-79.544739,
+363,LunaMetrics,40.431194,-79.980644,South Side Slopes
+364,AlphaLab Gear,40.46228,-79.923996,Shadyside
+365,Andrew Carnegie Free Library and Music Hall,40.406994,-80.085823,
+366,Panera Bread - Bakery Square,40.456543,-79.915108,Squirrel Hill North
+367,Benedum Center For the Performing Arts,40.44261,-79.99923,
+368,En Garde Fencing Club ,40.496241,-79.94392,
+369,The old Newtown Grill now Teca,40.542133,-80.206337,
+370,Social,40.470001,-79.949997,Lower Lawrenceville
+371,Carnegie Mellon University-McConomy Auditorium,40.443504,-79.941574,Central Oakland
+372,Eat-N-Park,40.448605,-80.16214,
+373,Chatham University Eddy Theater,40.447242,-79.923445,Squirrel Hill North
+374,En Garde Fencing Club ,40.496241,-79.94392,
+375,King s Family Restaurant,40.539986,-79.830399,
+376,The Livermore,40.460354,-79.925323,Shadyside
+377,First Unitarian Church of Pittsburgh in Shadyside,40.450916,-79.943053,North Oakland
+378,TurnOn Pittsburgh,40.45903,-79.923882,Shadyside
+379,Steel Cactus,40.428696,-79.979332,South Side Slopes
+380,Bethel Park Library,40.332137,-80.031073,
+381,William Pitt Union Dining Room A,40.444271,-79.953293,West Oakland
+382,Just Harvest A Center For Action Against Hunger,40.430126,-79.99675,Mount Washington
+383,Temple Baptist Church,40.408634,-79.99115,Bon Air
+384,Allegheny Wine Mixer Inc,40.482544,-79.951599,Central Lawrenceville
+385,social,40.45705,-79.915756,Shadyside
+386,Hollywood Gardens,40.701012,-80.282425,
+387,Crazy Mocha - (412) 521-1056,40.432976,-79.917404,Squirrel Hill South
+388,Panera,40.436432,-79.958084,
+389,shaler public library,40.52829,-79.964287,
+390,Magee-Womens Hospital Conference Rooms A and B Level Zero,40.437542,-79.960396,
+391,Hofbrauhaus Pittsburgh,40.423227,-79.957462,South Side Slopes
+392,Quantum Counseling Services,40.692699,-80.105698,
+393,The Getaway Cafe,40.384632,-80.015648,
+394,Crazy Mocha,40.45672,-79.929955,Shadyside
+395,Carnegie Lbry-Pittsburgh-Homewood,40.455009,-79.899277,Point Breeze
+396,Carnegie Lbry-Pittsburgh-Homewood,40.455009,-79.899277,Point Breeze
+397,Carnegie Library of Pittsburgh - Homewood Branch,40.455284,-79.899214,Point Breeze
+398,Doubletree Hotel,40.509119,-80.224573,
+399,Vincent s of Greentree,40.421661,-80.049942,
+400,Mount Lebanon Public Library,40.377195,-80.045384,
+401,Getaway Cafe,40.384331,-80.015935,
+402,Lot 17,40.46257,-79.950127,Upper Hill
+403,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+404,Pleasant Hills Public Library,40.3337197,-79.9620175,
+405,Rock Bottom Brewery and Restaurant,40.407738,-79.918668,Glen Hazel
+406,Rock Bottom Brewery and Restaurant,40.407738,-79.918668,Glen Hazel
+407,Rock Bottom Brewery and Restaurant,40.407738,-79.918668,Glen Hazel
+408,Hack Pittsburgh,40.438244,-79.978737,
+409,Playdate 4 kids,40.40349,-80.04072,
+410,Max and Erma s ,40.394016,-80.062973,
+411,Mt. Lebanon Public Library,40.37701,-80.045265,
+412,Carnegie Library of Pittsburgh - Downtown and Business Branch,40.44175,-79.99752,
+413,Carnegie Museum of Art and Natural History,40.444138,-79.949265,Central Oakland
+414,Carnegie Museum of Art and Natural History,40.444138,-79.949265,Central Oakland
+415,Olive or Twist,40.4432,-80.00244,
+416,Olive or Twist,40.4432,-80.00244,
+417,Olive Or Twist,40.443005,-80.002403,
+418,Panera Bread,40.633533,-80.059784,
+419,William Penn Tavern,40.451477,-79.934036,Squirrel Hill North
+420,Roland s Seafood Grill,40.450714,-79.984444,Strip District
+421,En Garde Fencing Club ,40.496241,-79.94392,
+422,SPACE,40.442715,-79.99868,
+423,Omnyx Office,40.447727,-79.992393,Central Business District
+424,Pittsburgh Supercomputing Center,40.445522,-79.94915,Central Oakland
+425,Schenley Oval Sportsplex,40.431979,-79.94216,Greenfield
+426,Andrew Carnegie Free Library and Music Hall,40.407709,-80.085392,
+427,Market District Supermarket,40.441742,-80.151283,
+428,Riverview Community Action Corporation,40.51794,-79.84634,
+429,StartUptown Paramount Film Exchange,40.437489,-79.9814,
+430,Andrew Carnegie Free Library and Music Hall,40.406994,-80.085823,
+431,Sparkledragon s Magical Emporium,40.404533,-80.033188,
+432,Carnegie Mellon University-McConomy Auditorium,40.443504,-79.941574,Central Oakland
+433,Youtopia dance studio,40.435703,-79.922905,Squirrel Hill South
+434,IBM Squirrel Hill,40.437515,-79.92305,Squirrel Hill South
+435,Soldiers And Sailors Memorial Hall,40.444065,-79.95536,West Oakland
+436,Friends House,40.449139,-79.945808,North Oakland
+437,Frick Fine Arts Auditorium,40.444595,-79.959839,Terrace Village
+438,TechShop Pittsburgh,40.456963,-79.915718,Shadyside
+439,Riverside Landings,40.515968,-79.848396,
+440,TechShop Pittsburgh,40.456928,-79.915764,Shadyside
+441,Harris Theater,40.442879,-79.998611,
+442,Coffee Tree Roasters,40.451375,-79.932852,Squirrel Hill North
+443,Kresge Theater,40.443504,-79.941574,Central Oakland
+444,David L. Lawrence Convention Center,40.444309,-80.00206,
+445,Northland Library ,40.571003,-80.034645,
+446,Quantum Counseling Services,40.692699,-80.105698,
+447,Moon Township Public Library,40.475914,-80.174187,
+448,Just Harvest A Center For Action Against Hunger,40.430126,-79.99675,Mount Washington
+449,Quantum Counseling Services,40.692699,-80.105698,
+450,Volunteers of America,40.494747,-79.923813,Morningside
+451,The Westin Convention Center Pittsburgh Hotel,40.444115,-79.995132,Central Business District
+452,Church of the Resurrection,40.453789,-79.761253,
+453,Market District Express,40.30378,-80.09745,
+454,Shining Light Prenatal Education,40.466358,-79.96476,Strip District
+455,Shining Light Prenatal Education,40.466358,-79.96476,Strip District
+456,Carnegie Library of Pittsburgh - Homewood Branch,40.455284,-79.899214,Point Breeze
+457,Benedum Center For the Performing Arts,40.44261,-79.99923,
+458,Eat N Park ,40.517914,-80.219757,
+459,Panera Bread,40.429352,-79.813049,
+460,PPC Library,40.455322,-79.921288,Shadyside
+461,Frick Fine Arts Auditorium,40.444595,-79.959839,Terrace Village
+462,First Unitarian Church,40.450757,-79.943,North Oakland
+463,Rumfish Grille ,40.369473,-80.10508,
+464,Allegheny Center Alliance Church,40.453106,-80.003494,Allegheny West
+465,Hollywood Theater,40.39618,-80.035239,
+466,Cattivo,40.472509,-79.961687,Lower Lawrenceville
+467,Stinky s Bar and Grill,40.477592,-79.957649,Central Lawrenceville
+468,Stinky s Bar and Grill,40.477592,-79.957649,Central Lawrenceville
+469,One Oxford Centre,40.438076,-79.9978,South Shore
+470,Performance Bicycle,40.458889,-79.917595,Shadyside
+471,Monroeville Public Library,40.430062,-79.752569,
+472,The Westin Convention Center Pittsburgh,40.444168,-79.99485,Central Business District
+473,Coffee Tree Roaster Meeting Room Shadyside,40.451405,-79.932838,Squirrel Hill North
+474,Claddagh Pub,40.429303,-79.972425,South Side Slopes
+475,Dog Central,40.564289,-79.958214,
+476,Carnegie Library of Pittsburgh - Main,40.443424,-79.948845,Central Oakland
+477,Crazy Mocha,40.433531,-79.923204,Greenfield
+478,Schenley Oval Sportsplex,40.431979,-79.94216,Greenfield
+479,Cannon Coffee,40.393463,-80.020142,
+480,Bicycle Heaven Museum,40.456245,-80.03205,Elliott
+481,The Cloakroom,40.460598,-79.92588,Shadyside
+482,Smithfield United Church,40.441959,-79.997261,
+483,Carnegie Library of Pittsburgh - Homewood Branch,40.455284,-79.899214,Point Breeze
+484,Carnegie Library of Pittsburgh,40.438061,-79.922653,Squirrel Hill South
+485,CMU McConomy Auditorium,40.444466,-79.942072,Central Oakland
+486,Carnegie Library - Squirrel Hill Room A,40.438213,-79.922653,Squirrel Hill South
+487,Church Brew Works,40.462429,-79.964394,Strip District
+488,Loving Hut,40.448456,-80.158007,
+489,Fox Chapel Yacht Club,40.47,-79.95,Lower Lawrenceville
+490,Fox Chapel Yacht Club,40.47,-79.95,Lower Lawrenceville
+491,Fox Chapel Yacht Club,40.47,-79.95,Lower Lawrenceville
+492,Rivertowne Brewing Company,40.420868,-79.635277,
+493,West View VFW,40.517697,-80.030284,
+494,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+495,Fox Chapel Yacht Club - Baja Bar and Grill,40.486952,-79.877235,Lincoln-Lemington-Belmar
+496,Carnegie Mellon University-McConomy Auditorium,40.443504,-79.941574,Central Oakland
+497,The Brew Gentlemen Beer Co.,40.404293,-79.870125,
+498,Steel Cactus,40.451412,-79.933632,Squirrel Hill North
+499,Frick Fine Arts Auditorium,40.444595,-79.959839,Terrace Village
+500,Obey House,40.44281,-80.052124,
+501,Animal Friends,40.522213,-80.077316,
+502,Dobra Tea,40.434963,-79.922806,Squirrel Hill South
+503,Andrew Carnegie Free Library and Music Hall,40.406994,-80.085823,
+504,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+505,Panera Bread - Waterworks Plaza,40.486623,-79.889904,Lincoln-Lemington-Belmar
+506,Shape Training,40.45863,-79.931137,Shadyside
+507,Westmoreland Gaming Sportscards and Comics,40.3134036,-79.3895681,
+508,Sunny Bridge Natural Foods Inc,40.289692,-80.113068,
+509,Carnegie Mellon Intramural Fields,40.443362,-79.938253,Squirrel Hill South
+510,TechShop Pittsburgh,40.456928,-79.915764,Shadyside
+511,TechShop Pittsburgh,40.456963,-79.91572,Shadyside
+512,Crazy Mocha - (412) 521-1056,40.432976,-79.917404,Squirrel Hill South
+513,Carnegie Library Squirrel Hill,40.438137,-79.922536,Squirrel Hill South
+514,Holiday Inn Express - Waterfront,40.413677,-79.903908,
+515,Eat N Park,40.502056,-80.221909,
+516,Kelly Strayhorn Theatre,40.46172,-79.925697,Shadyside
+517,Carnegie Library Squirrel Hill,40.438137,-79.922536,Squirrel Hill South
+518,CMU McConomy Auditorium,40.444466,-79.94207,Central Oakland
+519,Carnegie Library Squirrel Hill,40.438137,-79.922536,Squirrel Hill South
+520,Josh and Becky s House,40.377327,-79.967606,
+521,Skibo Coffee House,40.444473,-79.941986,Central Oakland
+522,Absolute Ballroom Dancing,40.457782,-79.909891,Point Breeze
+523,Carnegie Music Hall,40.443628,-79.950626,Central Oakland
+524,Zeke s Coffee,40.461357,-79.924568,Shadyside
+525,Stay n Play Beth El,40.393116,-80.063522,
+526,Cabaret At Theater Square,40.443089,-80.001007,
+527,StartUpTown,40.436005,-79.981636,South Side Flats
+528,725 Fisher Hall - Duquesne University,40.437618,-79.989601,
+529,Quantum Counseling Services,40.692699,-80.105698,
+530,Dobra Tea,40.434963,-79.922806,Squirrel Hill South
+531,Dormont Library,40.394169,-80.035957,
+532,CRAFTON - INGRAM LANES,40.435069,-80.066166,
+533,Kresge Theater,40.443504,-79.941574,Central Oakland
+534,Colonial Grille Restaurant and Taproom,40.332508,-79.710724,
+535,Ballroom A University Club,40.444096,-79.956894,West Oakland
+536,Andrew Carnegie Free Library and Music Hall,40.406994,-80.085823,
+537,Panera Bread - Bakery Square,40.456543,-79.915108,Squirrel Hill North
+538,En Garde Fencing Club ,40.496241,-79.94392,
+539,Benedum Center For the Performing Arts,40.44261,-79.99923,
+540,The BeerHive,40.452087,-79.98274,Strip District
+541,Revv Oakland,40.441185,-79.957092,South Oakland
+542,En Garde Fencing Club ,40.496241,-79.94392,
+543,Cathedral of Learning (by the 1st floor Elevators),40.444649,-79.952599,West Oakland
+544,Cathedral of Learning (by the 1st floor Elevators),40.444649,-79.952599,West Oakland
+545,Way Wellness Center 1150 Freeport Road Fox Chapel 15238,40.539669,-79.872086,
+546,TurnOn Pittsburgh,40.45903,-79.923882,Shadyside
+547,Mr. Smalls Theatre,40.480961,-79.972328,
+548,Steel Cactus,40.428696,-79.979332,South Side Slopes
+549,Smiling Moose,40.428715,-79.984962,Allentown
+550,Online Event,40.440624,-79.995888,
+551,Quantum Counseling Services,40.692699,-80.105698,
+552,Round Corner Cantina,40.466677,-79.964374,Strip District
+553,Sterling Yoga,40.395933,-80.034589,
+554,TechShop Pittsburgh,40.456928,-79.915764,Shadyside
+555,Chatham University,40.451275,-79.925491,Squirrel Hill North
+556,Crazy Mocha - (412) 521-1056,40.432976,-79.917404,Squirrel Hill South
+557,Panera,40.436432,-79.958084,
+558,Quantum Counseling Services,40.692699,-80.105698,
+559,Roland s Seafood Grill and Iron Landing,40.450714,-79.984444,Strip District
+560,Porter Hall 125C Carnegie Mellon University,40.441734,-79.945915,Central Oakland
+561,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+562,Dormont Library,40.394169,-80.035957,
+563,Buckhead Saloon,40.432542,-80.003711,Mount Washington
+564,Buckhead Saloon,40.432542,-80.003711,Mount Washington
+565,PUGDOG S Rock and Bead Shop,40.565886,-79.765609,
+566,Roland s Seafood Grill,40.450714,-79.984444,Strip District
+567,Carnegie Library of Pittsburgh - Main,40.443424,-79.948845,Central Oakland
+568,Phipps Conservatory and Botanical Gardens,40.439167,-79.94738,South Oakland
+569,Market District Express,40.30378,-80.09745,
+570,Archie s,40.428131,-79.971779,South Side Slopes
+571,Archie s,40.428131,-79.971779,South Side Slopes
+572,The Library Pittsburgh,40.428196,-79.972839,South Side Slopes
+573,Archie s,40.428131,-79.971779,South Side Slopes
+574,Panera Bread,40.633533,-80.059784,
+575,En Garde Fencing Club ,40.496241,-79.94392,
+576,Social,40.456566,-79.9161,Shadyside
+577,Koenig Field,40.432568,-79.888092,
+578,Carnegie Library Lawrenceville,40.467636,-79.959229,Lower Lawrenceville
+579,Eat and Park,40.487,-79.891792,Lincoln-Lemington-Belmar
+580,TechShop,40.45636,-79.915092,Squirrel Hill North
+581,The Avenue Theater,40.700504,-80.28228,
+582,McLaughlin Run Road Recreation Center Room,40.335861,-80.074348,
+583,McLaughlin Run Road Recreation Center Room,40.335861,-80.074348,
+584,Youtopia dance studio,40.435703,-79.922905,Squirrel Hill South
+585,Elks Lodge,40.451824,-80.000793,North Shore
+586,Elks Lodge,40.451824,-80.000793,North Shore
+587,Children s Museum,40.45294,-80.00681,North Shore
+588,James Street Gastropub and Speakeasy,40.454327,-80.000999,Allegheny West
+589,Panera Bread - Robinson,40.449253,-80.173676,
+590,Simmons Farms,40.269716,-80.08202,
+591,Quantum Counseling Services,40.692699,-80.105698,
+592,Tres Amigos Mexican,40.646149,-79.709923,
+593,Kaya,40.451656,-79.984489,Strip District
+594,AIM Artists in Mission,40.464909,-79.940598,Bloomfield
+595,Future Tenant,40.443642,-79.998665,Central Business District
+596,AIM Artists in Mission,40.464909,-79.940598,Bloomfield
+597,South Hills Village,40.342506,-80.055893,
+598,Online Event,40.440624,-79.995888,
+599,Online Event,40.440624,-79.995888,
+600,Hard Rock Cafe,40.433884,-80.005005,Mount Washington
+601,Brillobox,40.46563,-79.954803,Lower Lawrenceville
+602,Performance Bicycle,40.458889,-79.917595,Shadyside
+603,The Triplex,40.4557,-79.895767,Point Breeze North
+604,Bridgeport City Park,35.8766491,-90.6007949,
+605,Panera Bread,40.357609,-80.050369,
+606,Carnegie Library of Pittsburgh - East Liberty Branch,40.460884,-79.926399,Shadyside
+607,Dobra Tea,40.435524,-79.922836,Squirrel Hill South
+608,Koenig Field,40.432568,-79.888092,
+609,Crazy Mocha,40.433531,-79.923204,Greenfield
+610,Eastminster Presbyterian Church,40.463379,-79.923729,East Liberty
+611,Craigs home,40.54076,-80.096405,
+612,Shape Training,40.45863,-79.931137,Shadyside
+613,Panera Bread,40.395706,-80.066353,
+614,Carnegie Library of Pittsburgh - Squirrel Hill Branch,40.438213,-79.922653,Squirrel Hill South
+615,Arcade Comedy Theater,40.4430326,-79.998586,
+616,Stephen Foster Community Center,40.46777,-79.958496,Lower Lawrenceville
+617,Pie Traynor Field Parking Lot,40.588665,-80.00666,
+618,Byham Theater,40.443848,-80.002548,
+619,Rex Theater,40.428684,-79.982414,Allentown
+620,Knuckleheads Bar,40.544968,-80.031273,
+621,South Park,40.292603,-79.997589,
+622,Southside Riverfront Park,40.426523,-79.980798,Allentown
+623,North Park Lake,40.597488,-79.997032,
+624,North Park Lake,40.597488,-79.997032,
+625,Poetry Therapy,40.458691,-79.936859,Bloomfield
+626,Crazy Mocha - (412) 521-1056,40.432976,-79.917404,Squirrel Hill South
+627,South Side Riverfront Park,40.432181,-79.980113,South Side Flats
+628,South Side Riverfront Park,40.432181,-79.980113,South Side Flats
+629,South Side Riverfront Park,40.432181,-79.980113,South Side Flats
+630,Mitchell s Fish Market,40.41054,-79.915697,
+631,Schenley Park tennis courts,40.431979,-79.94216,Greenfield
+632,Phone Conference Only,40.438339,-79.997467,South Shore
+633,Zeke s Coffee,40.461357,-79.924568,Shadyside
+634,The Union Project,40.471529,-79.926278,Garfield
+635,Baker Hall A-51,40.443504,-79.941574,Central Oakland
+636,Trapuzzano Italian Chophouse,40.45158,-79.932526,Squirrel Hill North
+637,Trinity Christian School,40.427481,-79.854491,
+638,Crazy Mocha - (412) 521-1056,40.432976,-79.917404,Squirrel Hill South
+639,Market Square,40.441096,-80.001375,South Shore
+640,Sunnyhill Unitarian Universalist Church,40.365093,-80.048958,
+641,Unitarian Universalist Church of North Hills,40.584347,-80.081696,
+642,North Hills Grill,40.521019,-80.02594,
+643,Pugliano s Italian Grill,40.447395,-79.71302,
+644,The White Rabbit Cafe and Patisserie,40.303905,-79.544739,
+645,Andrew Carnegie Free Library and Music Hall,40.406994,-80.085823,
+646,En Garde Fencing Club ,40.496241,-79.94392,
+647,Panera Bread - Bakery Square,40.456543,-79.915108,Squirrel Hill North
+648,The Getaway Cafe,40.384632,-80.015648,
+649,Avani Institute,40.292664,-80.103767,
+650,TechShop,40.45636,-79.915092,Squirrel Hill North
+651,Steel Cactus,40.428696,-79.979332,South Side Slopes
+652,Dormont Library,40.394169,-80.035957,
+653,La Dorita ,40.4932953,-79.913744,Morningside
+654,Cathedral of Learning (by the 1st floor Elevators),40.444649,-79.952599,West Oakland
+655,En Garde Fencing Club ,40.496241,-79.94392,
+656,Cathedral of Learning (by the 1st floor Elevators),40.444649,-79.952599,West Oakland
+657,Room 232 Cathedral of Learning,40.444595,-79.959839,Terrace Village
+658,Olive or Twist,40.4432,-80.00244,
+659,Olive or Twist,40.4432,-80.00244,
+660,L.L.Bean Store at Ross Park Mall,40.54281,-80.00945,
+661,Mario s South Side Saloon,40.428684,-79.982941,Allentown
+662,Mario s South Side Saloon,40.428684,-79.982941,Allentown
+663,CHS Oakland Community Pantry,40.433662,-79.961472,South Side Flats
+664,Le Thai Caf ,40.544781,-79.972366,
+665,Carnegie Library of Pittsburgh - Downtown and Business,40.441776,-79.997383,
+666,Quantum Counseling Services,40.692699,-80.105698,
+667,Performance Kayak ,40.199703,-79.769264,
+668,Sterling Yoga,40.395933,-80.034589,
+669,Crazy Mocha - (412) 521-1056,40.432976,-79.917404,Squirrel Hill South
+670,Buckhead Saloon (in Station Square),40.433949,-80.005486,Mount Washington
+671,UPMC Technology Development Center ,40.456627,-79.91497,Squirrel Hill North
+672,Pittsburgh Glass Center,40.464127,-79.933017,Bloomfield
+673,Shenley Park,40.43834,-79.946465,South Oakland
+674,Quantum Counseling Services,40.692699,-80.105698,
+675,Italian Village Pizza,40.271793,-80.127556,
+676,Carnegie Library of Homewood,40.455284,-79.899216,Point Breeze
+677,Tele-Tracking Technologies Inc,40.439117,-80.00061,Mount Washington
+678,Lot 17,40.46257,-79.950127,Upper Hill
+679,Crazy Mocha,40.45672,-79.929955,Shadyside
+680,Al s Cafe,40.312354,-80.065841,
+681,Sparkledragon s Magical Emporium,40.404533,-80.033188,
+682,Sparkledragon s Magical Emporium,40.404533,-80.033188,
+683,Carnegie Mellon University-McConomy Auditorium,40.443504,-79.941574,Central Oakland
+684,Wilkins School Community Center,40.430318,-79.893478,Swisshelm Park
+685,IBM Squirrel Hill,40.437515,-79.92305,Squirrel Hill South
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
