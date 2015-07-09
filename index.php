@@ -46,17 +46,74 @@ else
 
      //get all events for this member
      
-     $response = $meetup->getOpenEvents(array(
-    	'state' => 'PA',
-    	'city' => 'Pittsburgh',
-    	'country' => 'US',
-    	'status' => 'past',
-	));
+ //     $response = $meetup->getOpenEvents(array(
+ //    	'state' => 'PA',
+ //    	'city' => 'Pittsburgh',
+ //    	'country' => 'US',
+ //    	'status' => 'past',
+	// ));
 
-	// total number of items matching the get request
-	$total_count = $response->meta->total_count;
-	echo $total_count . '<br>';
+	// // total number of items matching the get request
+	// $total_count = $response->meta->total_count;
+ //    $json_format = json_encode($response);
 
+ //    $fp = fopen(date('Y-m-d') . '_pitt.json', 'w');
+ //    fwrite($fp, $json_format);
+ //    fclose($fp);
+ //    //echo $json_format;
+	// echo $total_count . ' for Pitt <br>';
+
+
+ //    $response2 = $meetup->getOpenEvents(array(
+ //        'state' => 'MD',
+ //        'city' => 'Baltimore',
+ //        'country' => 'US',
+ //        'status' => 'past',
+ //    ));
+
+ //    // total number of items matching the get request
+ //    $total_count2 = $response2->meta->total_count;
+ //    $json_format2 = json_encode($response2);
+
+ //    $fp2 = fopen(date('Y-m-d') . '_baltimore.json', 'w');
+ //    fwrite($fp2, $json_format2);
+ //    fclose($fp2);
+ //    echo $total_count2 . ' for Baltimore <br>';
+
+
+/* Searching for Groups in each city */
+    $group_response = $meetup->getGroups(array(
+        'state' => 'PA',
+        'city' => 'Pittsburgh',
+        'country' => 'US',
+        'status' => 'past',
+    ));
+
+    $total_count = $group_response->meta->total_count;
+    $json_format = json_encode($group_response);
+    echo $total_count . ' for Pitt <br>';
+    
+    $fp2 = fopen('Group_' . date('Y-m-d') . '_pitt.json', 'w');
+    fwrite($fp2, $json_format);
+    fclose($fp2);
+
+    $group_response = $meetup->getGroups(array(
+        'state' => 'MD',
+        'city' => 'Baltimore',
+        'country' => 'US',
+        'status' => 'past',
+    ));
+
+    $total_count = $group_response->meta->total_count;
+    $json_format = json_encode($group_response);
+    echo $total_count . ' for Baltimore <br>';
+    
+    $fp2 = fopen('Group_' . date('Y-m-d') . '_baltimore.json', 'w');
+    fwrite($fp2, $json_format);
+    fclose($fp2);
+    
+
+/*
 	foreach ($response->results as $event) 
 	{
 		$eventname = preg_replace('/[^a-zA-Z0-9_ %\[\]\.\(\)%&-]/s', ' ', $event->name);
@@ -65,7 +122,7 @@ else
 
 	    echo '"' . $eventname . '","' . $event->venue->lat . '","' . $event->venue->lon . '","' . $venuename . '","' . $address . '","' . date('Y-m-d H:i', $event->time / 1000) . '":newline';
 	}
-
+*/
 }
 
 ?>
