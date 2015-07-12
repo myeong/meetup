@@ -32150,8 +32150,8 @@
         "waitlist_count": 0,
         "created": 1434639940000,
         "rating": {
-            "count": 0,
-            "average": 0
+            "count": 1,
+            "average": 5
         },
         "maybe_rsvp_count": 0,
         "description": "<p>The new location at Spoonwood Brewing worked out well! Let's do it again!<br\/>Spoonwood has a full menu (the pizza is super yum!) and it's a brewery, so they offer a wide selection of beers that are brewed in house! (and non-alcoholic drinks as well of course) www.spoonwoodbrewing.com<br\/>Whether this is your first time joining us, or you're a regular - all are welcome!! Pack up your project and come on out! Whether you knit, crochet, do needlepoint - bring your craft of choice and come enjoy good food (and beer!) and conversation!<br\/>Hope to see you there!<br\/>Note: Reservation will be under \"Darcie\"<\/p>",
@@ -32160,7 +32160,7 @@
         "name": "Knit Night at Spoonwood Brewing!",
         "id": "223333588",
         "time": 1436396400000,
-        "updated": 1436408550000,
+        "updated": 1436479375000,
         "group": {
             "join_mode": "open",
             "created": 1377904570000,
@@ -32438,9 +32438,9 @@
         "description": "Searches for recent and upcoming public events hosted by Meetup groups. Its search window  is the past one month through the next three months, and is subject to change. Open Events is optimized to search for current events by location, category, topic, or text, and only lists Meetups that have **3 or more RSVPs**. The number or results returned with each request is not guaranteed to be the same as the page size due to secondary filtering. If you're looking for a particular event or events within a particular group, use the standard [Events](\/meetup_api\/docs\/2\/events\/) method.",
         "lon": "",
         "title": "Meetup Open Events v2",
-        "url": "https:\/\/api.meetup.com\/2\/open_events?and_text=False&country=us&offset=0&city=Pittsburgh&format=json&limited_events=False&access_token=fe3ee0f37ba3fe4a77509bc307b78507&state=pa&page=800&radius=25.0&status=past&desc=False",
+        "url": "https:\/\/api.meetup.com\/2\/open_events?and_text=False&country=us&offset=0&city=Pittsburgh&format=json&limited_events=False&access_token=9f64b157760156289c0dfdf151d3366d&state=pa&page=800&radius=25.0&status=past&desc=False",
         "id": "",
-        "updated": 1436475781712,
+        "updated": 1436496571246,
         "lat": ""
     }
 }

@@ -41,78 +41,22 @@ else
      $_SESSION['refresh_token'] = $response->refresh_token;
      $_SESSION['expires'] = time() + intval($response->expires_in); //use if >= intval($_SESSION['expires']) to check
 
-     //get all groups for this member
-     //$response = $meetup->getGroups('member_id' => 'Myeong');
-
-     //get all events for this member
-     
- //     $response = $meetup->getOpenEvents(array(
- //    	'state' => 'PA',
- //    	'city' => 'Pittsburgh',
- //    	'country' => 'US',
- //    	'status' => 'past',
-	// ));
-
-	// // total number of items matching the get request
-	// $total_count = $response->meta->total_count;
- //    $json_format = json_encode($response);
-
- //    $fp = fopen(date('Y-m-d') . '_pitt.json', 'w');
- //    fwrite($fp, $json_format);
- //    fclose($fp);
- //    //echo $json_format;
-	// echo $total_count . ' for Pitt <br>';
-
-
- //    $response2 = $meetup->getOpenEvents(array(
- //        'state' => 'MD',
- //        'city' => 'Baltimore',
- //        'country' => 'US',
- //        'status' => 'past',
- //    ));
-
- //    // total number of items matching the get request
- //    $total_count2 = $response2->meta->total_count;
- //    $json_format2 = json_encode($response2);
-
- //    $fp2 = fopen(date('Y-m-d') . '_baltimore.json', 'w');
- //    fwrite($fp2, $json_format2);
- //    fclose($fp2);
- //    echo $total_count2 . ' for Baltimore <br>';
+         
+/* Get events from each city */
+    // echo getEvents($meetup, 'PA', 'Pittsburgh', 'US');
+    // echo getEvents($meetup, 'MD', 'Baltimore', 'US');
+    // echo getEvents($meetup, 'NY', 'New York', 'US');
+    // echo getEvents($meetup, 'MA', 'Boston', 'US');
 
 
 /* Searching for Groups in each city */
-    $group_response = $meetup->getGroups(array(
-        'state' => 'PA',
-        'city' => 'Pittsburgh',
-        'country' => 'US',
-        'status' => 'past',
-    ));
-
-    $total_count = $group_response->meta->total_count;
-    $json_format = json_encode($group_response);
-    echo $total_count . ' for Pitt <br>';
+    // echo getGroups($meetup, 'PA', 'Pittsburgh', 'US');
+    // echo getGroups($meetup, 'MD', 'Baltimore', 'US');
+    // echo getGroups($meetup, 'NY', 'New York', 'US');
+    // echo getGroups($meetup, 'MA', 'Boston', 'US');
     
-    $fp2 = fopen('Group_' . date('Y-m-d') . '_pitt.json', 'w');
-    fwrite($fp2, $json_format);
-    fclose($fp2);
-
-    $group_response = $meetup->getGroups(array(
-        'state' => 'MD',
-        'city' => 'Baltimore',
-        'country' => 'US',
-        'status' => 'past',
-    ));
-
-    $total_count = $group_response->meta->total_count;
-    $json_format = json_encode($group_response);
-    echo $total_count . ' for Baltimore <br>';
-    
-    $fp2 = fopen('Group_' . date('Y-m-d') . '_baltimore.json', 'w');
-    fwrite($fp2, $json_format);
-    fclose($fp2);
-    
-
+    echo getTopicCategory($meetup);
+    echo getTopic($meetup);
 /*
 	foreach ($response->results as $event) 
 	{
@@ -125,4 +69,71 @@ else
 */
 }
 
+function getTopicCategory($meetup){
+    $response = $meetup->getTopicCategories(array());
+
+    // total number of items matching the get request
+    $total_count = $response->meta->total_count;
+    $json_format = json_encode($response);
+
+    $fp = fopen('TopicsCategory_' . date('Y-m-d') . '.json', 'w');
+    fwrite($fp, $json_format);
+    fclose($fp);
+    
+    return $total_count . ' topic categories <br>';
+}
+
+function getTopic($meetup){
+    $response = $meetup->getTopics(array());
+
+    // total number of items matching the get request
+    $total_count = $response->meta->total_count;
+    $json_format = json_encode($response);
+
+    $fp = fopen('Topics_' . date('Y-m-d') . '.json', 'w');
+    fwrite($fp, $json_format);
+    fclose($fp);
+    
+    return $total_count . ' topics <br>';
+}
+
+function getEvents($meetup, $state, $city, $country){
+    $response = $meetup->getOpenEvents(array(
+        'state' => $state,
+        'city' => $city,
+        'country' => $country,
+        'status' => 'past',
+    ));
+
+    // total number of items matching the get request
+    $total_count = $response->meta->total_count;
+    $json_format = json_encode($response);
+
+    $fp = fopen('Events_' . date('Y-m-d') . '_' . $city . '.json', 'w');
+    fwrite($fp, $json_format);
+    fclose($fp);
+    
+    return $total_count . 'events for ' . $city .' <br>';
+}
+
+
+function getGroups($meetup, $state, $city, $country){
+    $group_response = $meetup->getGroups(array(
+        'state' => $state,
+        'city' => $city,
+        'country' => $country,
+        'status' => 'past',
+    ));
+
+    $total_count = $group_response->meta->total_count;
+    $json_format = json_encode($group_response);
+       
+    $fp2 = fopen('Group_' . date('Y-m-d') . '_' . $city . '.json', 'w');
+    fwrite($fp2, $json_format);
+    fclose($fp2);
+
+    return $total_count . 'groups for ' . $city .' <br>';
+}
+
 ?>
+

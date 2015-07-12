@@ -33143,7 +33143,7 @@
         "status": "past"
     }],
     "meta": {
-        "next": "https:\/\/api.meetup.com\/2\/open_events?and_text=False&country=us&offset=1&city=Baltimore&format=json&limited_events=False&access_token=a3c54baeaa8056fe321a4f7c0a387597&state=md&page=800&radius=25.0&status=past&desc=False",
+        "next": "https:\/\/api.meetup.com\/2\/open_events?and_text=False&country=us&offset=1&city=Baltimore&format=json&limited_events=False&access_token=9f64b157760156289c0dfdf151d3366d&state=md&page=800&radius=25.0&status=past&desc=False",
         "method": "OpenEvents",
         "total_count": 1505,
         "link": "https:\/\/api.meetup.com\/2\/open_events",
@@ -33151,9 +33151,9 @@
         "description": "Searches for recent and upcoming public events hosted by Meetup groups. Its search window  is the past one month through the next three months, and is subject to change. Open Events is optimized to search for current events by location, category, topic, or text, and only lists Meetups that have **3 or more RSVPs**. The number or results returned with each request is not guaranteed to be the same as the page size due to secondary filtering. If you're looking for a particular event or events within a particular group, use the standard [Events](\/meetup_api\/docs\/2\/events\/) method.",
         "lon": "",
         "title": "Meetup Open Events v2",
-        "url": "https:\/\/api.meetup.com\/2\/open_events?and_text=False&country=us&offset=0&city=Baltimore&format=json&limited_events=False&access_token=a3c54baeaa8056fe321a4f7c0a387597&state=md&page=800&radius=25.0&status=past&desc=False",
+        "url": "https:\/\/api.meetup.com\/2\/open_events?and_text=False&country=us&offset=0&city=Baltimore&format=json&limited_events=False&access_token=9f64b157760156289c0dfdf151d3366d&state=md&page=800&radius=25.0&status=past&desc=False",
         "id": "",
-        "updated": 1436476668830,
+        "updated": 1436496574132,
         "lat": ""
     }
 }

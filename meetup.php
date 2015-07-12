@@ -71,6 +71,16 @@ class Meetup
         return $this->get('/2/events', $parameters);
     }
 
+    public function getTopicCategories(array $parameters = array()) 
+    {
+        return $this->get('/2/topic_categories', $parameters);
+    }
+
+    public function getTopics(array $parameters = array()) 
+    {
+        return $this->get('/topics', $parameters);
+    }
+
     public function getOpenEvents(array $parameters = array()) 
     {
         return $this->get('/2/open_events', $parameters);
