@@ -146,9 +146,12 @@ class Meetup
     *
     * @return mixed A json object containing response data
    */      
-    public function getNext()
-    {   	
-    	return $this->hasNext() ? $this->api($this->_response->meta->next, array(), self::GET) : null;
+    public function getNext($response) {
+        if (!isset($response) || !isset($response->meta->next))
+        {
+            throw new Exception("Invalid response object.");
+        }
+        return $this->get_url($response->meta->next);
     }
    /**
     * Is there more data to retrieve?
@@ -478,6 +481,70 @@ class Meetup
     	}
    	
     	return $this->_response;
+    }
+
+    protected function get_url($url) {
+    
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, array("Accept-Charset: utf-8"));
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+        $content = curl_exec($ch);
+        
+        if (curl_errno($ch)) {
+            $error = curl_error($ch);
+            curl_close($ch);
+            
+            throw new Exception("Failed retrieving  '" . $url . "' because of ' " . $error . "'.");
+        }
+        
+        $response = json_decode($content);
+        $status = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        
+        curl_close($ch);
+        
+        if ($status != 200) {
+                        
+            if (isset($response->errors[0]->message)) {
+                $error = $response->errors[0]->message;
+            } else {
+                $error = 'Status ' . $status;
+            }
+            
+            throw new Exception("Failed retrieving  '" . $url . "' because of ' " . $error . "'.");
+        }
+        if (isset($response) == false) {
+        
+            switch (json_last_error()) {
+                case JSON_ERROR_NONE:
+                    $error = 'No errors';
+                break;
+                case JSON_ERROR_DEPTH:
+                    $error = 'Maximum stack depth exceeded';
+                break;
+                case JSON_ERROR_STATE_MISMATCH:
+                    $error = ' Underflow or the modes mismatch';
+                break;
+                case JSON_ERROR_CTRL_CHAR:
+                    $error = 'Unexpected control character found';
+                break;
+                case JSON_ERROR_SYNTAX:
+                    $error = 'Syntax error, malformed JSON';
+                break;
+                case JSON_ERROR_UTF8:
+                    $error = 'Malformed UTF-8 characters, possibly incorrectly encoded';
+                break;
+                default:
+                    $error = 'Unknown error';
+                break;
+            }
+    
+            throw new Exception("Cannot read response by  '" . $url . "' because of: '" . $error . "'.");
+        }
+        
+        return $response;
     }
 }
 ?>

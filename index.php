@@ -111,15 +111,19 @@ function getEvents($meetup, $state, $city, $country){
     $json_format = json_encode($response);
 
     $fp = fopen('Events_' . date('Y-m-d') . '_' . $city . '_' . $file_index .'.json', 'w');
-    fwrite($fp, $json_format);
+    fwrite($fp, $json_format);  
     fclose($fp);
+    sleep(1);
 
-    while ($meetup->hasNext()){
-        $response = $meetup->getNext();
+    while ($meetup->hasNext() != null){
+        if ($response->meta->next == '') break;
+        $response = $meetup->getNext($response); 
+        $json_format = json_encode($response);       
         $file_index += 1;
         $fp = fopen('Events_' . date('Y-m-d') . '_' . $city . '_' . $file_index .'.json', 'w');
         fwrite($fp, $json_format);
         fclose($fp);
+        sleep(1);
     }
     
     return $total_count . 'events for ' . $city .' <br>';
@@ -133,13 +137,26 @@ function getGroups($meetup, $state, $city, $country){
         'country' => $country,
         'status' => 'past',
     ));
+    $file_index = 0;
 
     $total_count = $group_response->meta->total_count;
     $json_format = json_encode($group_response);
        
-    $fp2 = fopen('Group_' . date('Y-m-d') . '_' . $city . '.json', 'w');
+    $fp2 = fopen('Group_' . date('Y-m-d') . '_' . $city . '_' . $file_index . '.json', 'w');
     fwrite($fp2, $json_format);
     fclose($fp2);
+    sleep(1);
+
+    while ($meetup->hasNext() != null){
+        if ($group_response->meta->next == '') break;
+        $group_response = $meetup->getNext($group_response); 
+        $json_format = json_encode($group_response); 
+        $file_index += 1;
+        $fp2 = fopen('Group_' . date('Y-m-d') . '_' . $city . '_' . $file_index . '.json', 'w');
+        fwrite($fp2, $json_format);
+        fclose($fp2);
+        sleep(1);
+    }
 
     return $total_count . 'groups for ' . $city .' <br>';
 }
