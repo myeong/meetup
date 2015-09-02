@@ -43,17 +43,17 @@ else
 
          
 /* Get events from each city */
-    // echo getEvents($meetup, 'PA', 'Pittsburgh', 'US');
-    // echo getEvents($meetup, 'MD', 'Baltimore', 'US');
-    // echo getEvents($meetup, 'NY', 'New York', 'US');
-    // echo getEvents($meetup, 'MA', 'Boston', 'US');
+    echo getEvents($meetup, 'PA', 'Pittsburgh', 'US');
+    echo getEvents($meetup, 'MD', 'Baltimore', 'US');
+    echo getEvents($meetup, 'NY', 'New York', 'US');
+    echo getEvents($meetup, 'MA', 'Boston', 'US');
 
 
 /* Searching for Groups in each city */
-    // echo getGroups($meetup, 'PA', 'Pittsburgh', 'US');
-    // echo getGroups($meetup, 'MD', 'Baltimore', 'US');
-    // echo getGroups($meetup, 'NY', 'New York', 'US');
-    // echo getGroups($meetup, 'MA', 'Boston', 'US');
+    echo getGroups($meetup, 'PA', 'Pittsburgh', 'US');
+    echo getGroups($meetup, 'MD', 'Baltimore', 'US');
+    echo getGroups($meetup, 'NY', 'New York', 'US');
+    echo getGroups($meetup, 'MA', 'Boston', 'US');
     
     echo getTopicCategory($meetup);
     echo getTopic($meetup);
@@ -104,14 +104,23 @@ function getEvents($meetup, $state, $city, $country){
         'country' => $country,
         'status' => 'past',
     ));
+    $file_index = 0;
 
     // total number of items matching the get request
     $total_count = $response->meta->total_count;
     $json_format = json_encode($response);
 
-    $fp = fopen('Events_' . date('Y-m-d') . '_' . $city . '.json', 'w');
+    $fp = fopen('Events_' . date('Y-m-d') . '_' . $city . '_' . $file_index .'.json', 'w');
     fwrite($fp, $json_format);
     fclose($fp);
+
+    while ($meetup->hasNext()){
+        $response = $meetup->getNext();
+        $file_index += 1;
+        $fp = fopen('Events_' . date('Y-m-d') . '_' . $city . '_' . $file_index .'.json', 'w');
+        fwrite($fp, $json_format);
+        fclose($fp);
+    }
     
     return $total_count . 'events for ' . $city .' <br>';
 }
