@@ -42,21 +42,35 @@ else
      $_SESSION['expires'] = time() + intval($response->expires_in); //use if >= intval($_SESSION['expires']) to check
 
          
-/* Get events from each city */
-    echo getEvents($meetup, 'PA', 'Pittsburgh', 'US');
-    echo getEvents($meetup, 'MD', 'Baltimore', 'US');
-    echo getEvents($meetup, 'NY', 'New York', 'US');
-    echo getEvents($meetup, 'MA', 'Boston', 'US');
+// /* Get events from each city */
+//     echo getEvents($meetup, 'PA', 'Pittsburgh', 'US');
+//     echo getEvents($meetup, 'MD', 'Baltimore', 'US');
+//     echo getEvents($meetup, 'NY', 'New York', 'US');
+//     echo getEvents($meetup, 'MA', 'Boston', 'US');
 
 
-/* Searching for Groups in each city */
-    echo getGroups($meetup, 'PA', 'Pittsburgh', 'US');
-    echo getGroups($meetup, 'MD', 'Baltimore', 'US');
-    echo getGroups($meetup, 'NY', 'New York', 'US');
-    echo getGroups($meetup, 'MA', 'Boston', 'US');
+//  Searching for Groups in each city 
+//     echo getGroups($meetup, 'PA', 'Pittsburgh', 'US');
+//     echo getGroups($meetup, 'MD', 'Baltimore', 'US');
+//     echo getGroups($meetup, 'NY', 'New York', 'US');
+//     echo getGroups($meetup, 'MA', 'Boston', 'US');
     
-    echo getTopicCategory($meetup);
-    echo getTopic($meetup);
+//     echo getTopicCategory($meetup);
+//     echo getTopic($meetup);
+
+    $event_ids = array();
+    $file = fopen("data/neigh_id.csv","r");
+
+    while(!feof($file))
+    {
+        $event_ids[] = fgetcsv($file);
+    }
+
+    fclose($file);     
+
+/* Get RSVP data for a give event ID */
+    echo getRSVPs($meetup, $event_ids);
+
 /*
 	foreach ($response->results as $event) 
 	{
@@ -67,6 +81,46 @@ else
 	    echo '"' . $eventname . '","' . $event->venue->lat . '","' . $event->venue->lon . '","' . $venuename . '","' . $address . '","' . date('Y-m-d H:i', $event->time / 1000) . '":newline';
 	}
 */
+}
+
+function getRSVPs($meetup, $eid){
+    $output = array();
+    $file_index = 0;
+    $total_count = 0;
+
+    foreach($eid as $event_id){
+        $response = $meetup->getRSVPs(array(
+            'event_id' => $edi,
+            'rsvp' => 'yes',        
+        ));
+
+        foreach ($response as $item){
+            $output($item->rsvp_id) = $item;
+        }
+        $total_count += $response->meta->total_count;
+
+        while ($meetup->hasNext() != null){
+            if ($response->meta->next == '') break;
+            $response = $meetup->getNext($response); 
+            $file_index += 1;
+            foreach ($response as $item){
+                $output($item->rsvp_id) = $item;
+            }
+            $total_count += $response->meta->total_count;
+            sleep(1);
+        }
+    }
+    
+    // total number of items matching the get request
+    
+    $json_format = json_encode($output);
+
+    $fp = fopen('RSVP_' . date('Y-m-d') . '_' . $file_index .'.json', 'w');
+    fwrite($fp, $json_format);  
+    fclose($fp);
+    sleep(1);
+    
+    return $total_count . ' RSVPs pulled <br>';
 }
 
 function getTopicCategory($meetup){
