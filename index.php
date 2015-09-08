@@ -55,7 +55,7 @@ else
 //     echo getGroups($meetup, 'NY', 'New York', 'US');
 //     echo getGroups($meetup, 'MA', 'Boston', 'US');
     
-//     echo getTopicCategory($meetup);
+    // echo getTopicCategory($meetup);
 //     echo getTopic($meetup);
 
     $event_ids = array();
@@ -63,10 +63,10 @@ else
 
     while(!feof($file))
     {
-        $event_ids[] = fgetcsv($file);
+        $event_ids[] = fgetcsv($file)[0];
     }
 
-    fclose($file);     
+    fclose($file);    
 
 /* Get RSVP data for a give event ID */
     echo getRSVPs($meetup, $event_ids);
@@ -84,41 +84,42 @@ else
 }
 
 function getRSVPs($meetup, $eid){
-    $output = array();
-    $file_index = 0;
+    $output = array();    
     $total_count = 0;
 
     foreach($eid as $event_id){
+        
         $response = $meetup->getRSVPs(array(
-            'event_id' => $edi,
-            'rsvp' => 'yes',        
+            'event_id' => $event_id,            
         ));
 
         foreach ($response as $item){
-            $output($item->rsvp_id) = $item;
+            //print($output);
+            $output[$item->rsvp_id] = $event_id . ',' . $item->member->member_id . ',' . $item->member->member_city . "\r\n";
         }
         $total_count += $response->meta->total_count;
 
         while ($meetup->hasNext() != null){
             if ($response->meta->next == '') break;
             $response = $meetup->getNext($response); 
-            $file_index += 1;
+            
             foreach ($response as $item){
-                $output($item->rsvp_id) = $item;
+                $output[$item->rsvp_id] = $item;
             }
             $total_count += $response->meta->total_count;
             sleep(1);
         }
+        sleep(50);
+        
     }
     
     // total number of items matching the get request
     
-    $json_format = json_encode($output);
+    //$json_format = json_encode($output);
 
-    $fp = fopen('RSVP_' . date('Y-m-d') . '_' . $file_index .'.json', 'w');
-    fwrite($fp, $json_format);  
-    fclose($fp);
-    sleep(1);
+    $fp = fopen('RSVP_' . date('Y-m-d') . '.csv', 'w');
+    fwrite($fp, $output);  
+    fclose($fp);    
     
     return $total_count . ' RSVPs pulled <br>';
 }
