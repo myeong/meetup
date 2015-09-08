@@ -3,10 +3,10 @@
   <title></title>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Pitt_final_coor20150906031052339" name="Pitt_final_coor">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="Pitt_final_coor20150906031052339" name="Pitt_final_coor">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Neighborhood20150906025952367" name="Neighborhood">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="Neighborhood20150906025952367" name="Neighborhood">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="PA_Counties_clip20150906025202858" name="PA_Counties_clip">
@@ -18,7 +18,7 @@
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="cb_2014_us_cbsa_5m20150906025243756" name="cb_2014_us_cbsa_5m">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Checked" id="tl_2011_42_cousub20150906025156450" name="tl_2011_42_cousub">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="tl_2011_42_cousub20150906025156450" name="tl_2011_42_cousub">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Checked" id="OpenLayers_plugin_layer20150906025055740" name="Bing Road">
@@ -29,10 +29,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>-8990833.68656006827950478</xmin>
-      <ymin>4906993.29382437840104103</ymin>
-      <xmax>-8727502.49184266105294228</xmax>
-      <ymax>5123504.95793265476822853</ymax>
+      <xmin>-8909078.13655748218297958</xmin>
+      <ymin>4926713.07777696754783392</ymin>
+      <xmax>-8900849.03672256320714951</xmax>
+      <ymax>4933479.06728035118430853</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -93,14 +93,14 @@
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Pitt_final_coor" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Pitt_final_coor" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Pitt_final_coor20150906031052339" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="Pitt_final_coor20150906031052339" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Neighborhood" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Neighborhood" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Neighborhood20150906025952367" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="Neighborhood20150906025952367" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="PA_Counties_clip" showFeatureCount="0">
@@ -118,9 +118,9 @@
         <legendlayerfile isInOverview="0" layerid="cb_2014_us_cbsa_5m20150906025243756" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="tl_2011_42_cousub" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="tl_2011_42_cousub" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="tl_2011_42_cousub20150906025156450" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="tl_2011_42_cousub20150906025156450" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Bing Road" showFeatureCount="0">
