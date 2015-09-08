@@ -41,21 +41,61 @@ else
      $_SESSION['refresh_token'] = $response->refresh_token;
      $_SESSION['expires'] = time() + intval($response->expires_in); //use if >= intval($_SESSION['expires']) to check
 
-         
-/* Get events from each city */
-    echo getRSVPs($meetup, 'PA', 'Pittsburgh', 'US');
-    echo getRSVPs($meetup, 'MD', 'Baltimore', 'US');
+    
+    $event_ids = array();
+    $file = fopen("data/neigh_id.csv","r");
 
-/*
-	foreach ($response->results as $event) 
-	{
-		$eventname = preg_replace('/[^a-zA-Z0-9_ %\[\]\.\(\)%&-]/s', ' ', $event->name);
-		$venuename =  preg_replace('/[^a-zA-Z0-9_ %\[\]\.\(\)%&-]/s', ' ', $event->venue->name);
-		$address =  preg_replace('/[^a-zA-Z0-9_ %\[\]\.\(\)%&-]/s', ' ', $event->venue->address_1);
+    while(!feof($file))
+    {
+        $event_ids[] = fgetcsv($file);
+    }
 
-	    echo '"' . $eventname . '","' . $event->venue->lat . '","' . $event->venue->lon . '","' . $venuename . '","' . $address . '","' . date('Y-m-d H:i', $event->time / 1000) . '":newline';
-	}
-*/
+    fclose($file);     
+
+/* Get RSVP data for a give event ID */
+    echo getRSVPs($meetup, $event_ids);
+    
+
+}
+
+function getRSVPs($meetup, $eid){
+    $output = array();
+    $file_index = 0;
+    $total_count = 0;
+
+    foreach($eid as $event_id){
+        $response = $meetup->getRSVPs(array(
+            'event_id' => $edi,
+            'rsvp' => 'yes',        
+        ));
+
+        foreach ($response as $item){
+            $output($item->rsvp_id) = $item;
+        }
+        $total_count += $response->meta->total_count;
+
+        while ($meetup->hasNext() != null){
+            if ($response->meta->next == '') break;
+            $response = $meetup->getNext($response); 
+            $file_index += 1;
+            foreach ($response as $item){
+                $output($item->rsvp_id) = $item;
+            }
+            $total_count += $response->meta->total_count;
+            sleep(1);
+        }
+    }
+    
+    // total number of items matching the get request
+    
+    $json_format = json_encode($output);
+
+    $fp = fopen('RSVP_' . date('Y-m-d') . '_' . $file_index .'.json', 'w');
+    fwrite($fp, $json_format);  
+    fclose($fp);
+    sleep(1);
+    
+    return $total_count . ' RSVPs pulled <br>';
 }
 
 function getTopicCategory($meetup){

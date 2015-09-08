@@ -85,6 +85,11 @@ class Meetup
     {
         return $this->get('/2/open_events', $parameters);
     }
+
+    public function getRSVPs(array $parameters = array()) 
+    {
+        return $this->get('/2/rsvps', $parameters);
+    }
    /**
     * Stub for fetching groups
     *
