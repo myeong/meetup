@@ -7,10 +7,10 @@ if( !isset($_GET['code']) )
     //authorize and go back to URI w/ code
     $meetup = new Meetup();
     $meetup->authorize(array(
-        // 'client_id'     => 't97l196jncae6ljsgvejukp5b8',
-        //'redirect_uri'  => 'http://meetup.myeonglee.com',  
-        "client_id"     => '27rl5urk95fgd40ehavhp4jhid',
-        "redirect_uri"  => 'http://myeonglee.com/meetup2',    
+        'client_id'     => 't97l196jncae6ljsgvejukp5b8',
+        'redirect_uri'  => 'http://meetup.myeonglee.com',  
+        // "client_id"     => '27rl5urk95fgd40ehavhp4jhid',
+        // "redirect_uri"  => 'http://myeonglee.com/meetup2',    
         )
     );
 }
@@ -19,12 +19,12 @@ else
     //assuming we came back here...
     $meetup = new Meetup(
         array(
-            // "client_id"     => 't97l196jncae6ljsgvejukp5b8',
-            // "client_secret" => 'ma98kbnuerp7fkhpcapo2eg56q',
-            //"redirect_uri"  => 'http://meetup.myeonglee.com',
-            "client_id"     => '27rl5urk95fgd40ehavhp4jhid',
-            "client_secret" => 'l6mr9ga1u62mgk8emfn3u8s0k9',
-            "redirect_uri"  => 'http://myeonglee.com/meetup2',
+            "client_id"     => 't97l196jncae6ljsgvejukp5b8',
+            "client_secret" => 'ma98kbnuerp7fkhpcapo2eg56q',
+            "redirect_uri"  => 'http://meetup.myeonglee.com',
+            // "client_id"     => '27rl5urk95fgd40ehavhp4jhid',
+            // "client_secret" => 'l6mr9ga1u62mgk8emfn3u8s0k9',
+            // "redirect_uri"  => 'http://myeonglee.com/meetup2',
             "code"          => $_GET['code'], //passed back to us from meetup
         )
     );
