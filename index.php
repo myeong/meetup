@@ -47,59 +47,59 @@ else
      $_SESSION['expires'] = time() + intval($response->expires_in); //use if >= intval($_SESSION['expires']) to check
 
          
-// /* Get events from each city */
-//     echo getEvents($meetup, 'PA', 'Pittsburgh', 'US');
-//     echo getEvents($meetup, 'MD', 'Baltimore', 'US');
-//     echo getEvents($meetup, 'NY', 'New York', 'US');
-//     echo getEvents($meetup, 'MA', 'Boston', 'US');
+/* Get events from each city */
+    echo getEvents($meetup, 'PA', 'Pittsburgh', 'US');
+    echo getEvents($meetup, 'MD', 'Baltimore', 'US');
+    echo getEvents($meetup, 'NY', 'New York', 'US');
+    echo getEvents($meetup, 'MA', 'Boston', 'US');
 
 
-//  Searching for Groups in each city 
-//     echo getGroups($meetup, 'PA', 'Pittsburgh', 'US');
-//     echo getGroups($meetup, 'MD', 'Baltimore', 'US');
-//     echo getGroups($meetup, 'NY', 'New York', 'US');
-//     echo getGroups($meetup, 'MA', 'Boston', 'US');
+ // Searching for Groups in each city 
+    echo getGroups($meetup, 'PA', 'Pittsburgh', 'US');
+    echo getGroups($meetup, 'MD', 'Baltimore', 'US');
+    echo getGroups($meetup, 'NY', 'New York', 'US');
+    echo getGroups($meetup, 'MA', 'Boston', 'US');
     
-    // echo getTopicCategory($meetup);
-//     echo getTopic($meetup);
+    echo getTopicCategory($meetup);
+    echo getTopic($meetup);
 
 /* Pulling RSVP data from Event IDs */
-    $event_ids = array();
-    $file = fopen("data/neigh_id.csv","r");
-    //$file = fopen("data/test.csv","r");
-    $i = 0;
+//     $event_ids = array();
+//     $file = fopen("data/neigh_id.csv","r");
+//     //$file = fopen("data/test.csv","r");
+//     $i = 0;
 
-    while(!feof($file))
-    {
-        $event_ids[$i] = fgetcsv($file)[0];
-        $i += 1;
-    }
+//     while(!feof($file))
+//     {
+//         $event_ids[$i] = fgetcsv($file)[0];
+//         $i += 1;
+//     }
 
-    fclose($file);    
-    $i = 0;
-    $round = 0;
-    $chunk = '';
-    print('Size: ' . strval(sizeof($event_ids)) . '</br>');
-    // print_r($event_ids);
+//     fclose($file);    
+//     $i = 0;
+//     $round = 0;
+//     $chunk = '';
+//     print('Size: ' . strval(sizeof($event_ids)) . '</br>');
+//     // print_r($event_ids);
 
-/* Get RSVP data for a give event ID */
-    for ($i=0; $i<sizeof($event_ids); $i++) {
-        $chunk .= strval($event_ids[$i]);
+// /* Get RSVP data for a give event ID */
+//     for ($i=0; $i<sizeof($event_ids); $i++) {
+//         $chunk .= strval($event_ids[$i]);
 
-        if ($i!=0 && $i % 100 == 0) {            
-            echo getRSVPs($meetup, $chunk, $round);            
-            $chunk = '';
-            $round += 1;
+//         if ($i!=0 && $i % 100 == 0) {            
+//             echo getRSVPs($meetup, $chunk, $round);            
+//             $chunk = '';
+//             $round += 1;
             
-        } elseif ($i == sizeof($event_ids) - 1) {            
-            echo getRSVPs($meetup, $chunk, $round);            
-            $chunk = '';
-            $round += 1;
+//         } elseif ($i == sizeof($event_ids) - 1) {            
+//             echo getRSVPs($meetup, $chunk, $round);            
+//             $chunk = '';
+//             $round += 1;
                       
-        } else {
-            $chunk .= ',';             
-        }        
-    } 
+//         } else {
+//             $chunk .= ',';             
+//         }        
+//     } 
     
 /*
 	foreach ($response->results as $event) 
