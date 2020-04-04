@@ -1,0 +1,1106 @@
+"Index","Venue.ID","Event.Venue","Event.City","Event.Address","Event.Lon","Event.Lat"
+"1",0,1405887,"Razzy Fresh","Pittsburgh"," 300 S. Craig St.",-79.949497,40.445651
+"2",1,23558137,"Crazy Mocha Coffee Company","Pittsburgh"," 2809 E Carson St",-79.965431,40.426212
+"3",2,1477047,"Panera Bread","Oakland"," 3800 Forbes Avenue",-79.956929,40.44156
+"4",3,1056614,"Wightman School Community Building","Pittsburgh"," 5604 Solway Street",-79.926748,40.442868
+"5",4,1074457,"Cathedral of Learning ","Pittsburgh"," University of Pittsburgh",-79.959778,40.436726
+"6",5,24013067,"Wightman School Community Building","Pittsburgh"," 5604 Solway St",-79.926727,40.442986
+"7",6,23691216,"Revv Oakland","Pittsburgh"," 3710 Forbes Ave.",-79.957092,40.441185
+"8",7,23999255,"RE360 World Headquarters ","Pittsburgh"," 829 Industry Street",-79.992828,40.421104
+"9",8,20771402,"Jam on Walnut","Pittsburgh"," Corner of Filbert St. and Walnut Street",-79.932976,40.451439
+"10",9,1085669,"The Cabana Bar","Wexford"," Oxford Club",-80.054848,40.626677
+"11",10,816398,"Coffee Tree Roaster / Meeting Room / Shadyside","Pittsburgh"," 5524 Walnut St",-79.932838,40.451405
+"12",11,674917,"Panera Bread","Wexford"," 12071 Perry Hwy",-80.059784,40.633533
+"13",12,12495712,"Panera Bread","Pittsburgh"," 3401 Boulevard of the Allies",-79.958191,40.43631
+"14",13,11251872,"Tan Lac Vien","Pittsburgh"," 2114 Murray Ave (Squirrel Hill)",-79.923264,40.433186
+"15",14,14215392,"ONLINE - WEBINAR","Pittsburgh"," Comfort of your Home or Office",-79.995888,40.440624
+"16",15,17778672,"Panera Bread","Pittsburgh"," 1900 Greentree Road",-80.066353,40.395706
+"17",16,861615,"Fairview Park South Fayette Twp","Bridgeville"," Greenwood Dr. and Lawnshadow Dr.",-80.128343,40.333846
+"18",17,120810,"Harris Grill","Pittsburgh"," 5747 Ellsworth Avenue",-79.93,40.450001
+"19",18,674828,"Crazy Mocha","Pittsburgh"," 5830 Ellsworth Ave",-79.929955,40.45672
+"20",19,24143509,"Mondo Italiano","Pittsburgh"," 7604 Charleston Avenue",-79.89283,40.430172
+"21",20,738078,"Wilkins School Community Center","Pittsburgh"," 7604 Charleston Ave",-79.893478,40.430318
+"22",21,7670402,"Senator John Heinz History Center","Pittsburgh"," 1212 Smallman Street",-79.992615,40.446491
+"23",22,377244,"Benedum Center","Pittsburgh"," 719 Liberty Avenue",-79.989998,40.450001
+"24",23,24143497,"Bloomfield Post Office","Pittsburgh"," 5182 Liberty Avenue",-79.94142,40.45707
+"25",24,13138812,"PUGDOG'S Rock and Bead Shop","New Kensington"," 933 Fifth Avenue",-79.765609,40.565886
+"26",25,1226521,"Kunkle Park","Apollo"," 285 Pine Run Church Rd.",-79.604248,40.547119
+"27",26,948011,"South Side Riverfront Park","Pittsburgh"," 1 South 18th Street",-79.980113,40.432181
+"28",27,969038,"White Oak Dog Park","White Oak"," 15131 White Oak Park",-79.820946,40.356025
+"29",28,12956142,"Bernard Dog Run","Pittsburgh"," 40th St Lawrenceville Trl",-79.967049,40.471539
+"30",29,112937,"Heritage Park (Monroeville Dog Park)","Monroeville"," 2364 Saunders Station Road",-79.740486,40.416378
+"31",30,23747461,"El Milagro","Pittsburgh"," 1542 Beechview Ave",-80.024765,40.411114
+"32",31,1161333,"Cocina Mendoza Mexican Restaurant","Castle Shannon "," 300 Mt. Lebanon Blvd.",-80.034774,40.368731
+"33",32,14701002,"Casa Reyna","Pittsburgh"," 2031 Penn Avenue",-79.983452,40.451618
+"34",33,23942660,"AJ's Burger & Peruvian Rotisserie Chicken","Pittsburgh"," 422 Semple St",-79.954361,40.436604
+"35",34,23802318,"Schenley Park - Camp David Lawrence Pavilion","Pittsburgh"," 5410 Bartlett St",-79.932846,40.434605
+"36",35,24192160,"McCormick & Schmick's","Pittsburgh"," 301 Fifth Avenue",-79.999702,40.440929
+"37",36,563624,"Chicken Latino","Pittsburgh"," 155 21st St. (Strip District) Pittsburgh PA",-79.982964,40.45155
+"38",37,18517682,"Pittsburgh Juice Company","Pittsburgh"," 3418 Penn Avenue",-79.966438,40.462868
+"39",38,23722927,"South Side Works Cinemas LP","Pittsburgh"," 425 Cinema Dr",-79.965073,40.427895
+"40",39,8040282,"Steve\'s Place","Apollo"," 641 Canal Road",-79.560028,40.566906
+"41",40,6642862,"North Park Lake","Pittsburgh"," Corner of Pearce Mill Road and Babcock Blvd.",-79.997032,40.597488
+"42",41,23831562,"Millvale Riverfront Park Parking","15209"," 70 River Front Drive",-79.969124,40.47515
+"43",42,3774262,"Roaring Run Trail ","Apollo"," Canal Road",-79.559685,40.563766
+"44",43,18630612,"Carnegie Library of Pittsburgh - Main","Pittsburgh"," 4400 Forbes ",-79.948845,40.443424
+"45",44,24138037,"Panera Bread","Bridgeville "," 1025 Washington Pike Bridgeville PA 15017",-80.108086,40.365986
+"46",45,18225742,"Panera Bread","Pittsburgh"," 3401 Blvd Of The Allies",-79.958076,40.436008
+"47",46,8687792,"Biddle's Escape","Pittsburgh"," 401 Biddle Avenue",-79.892113,40.438137
+"48",47,24078122,"Panera Bread","Pittsburgh"," 3800 Forbes Ave",-79.956444,40.44154
+"49",48,6598742,"Brew on Broadway","Pittsburgh"," 1557 Broadway Avenue",-80.024681,40.410015
+"50",49,24067793,"Schenley Plaza","Pittsburgh"," 4100 Forbes Ave",-79.95192,40.44355
+"51",50,23877731,"The Outdoor Classroom","Pittsburgh"," 1531 Mayview Rd",-80.11061,40.336674
+"52",51,2096281,"The Tent at Schenley Plaza in Oakland","Pittsburgh"," Off Forbes Avenue near the Carnegie Library of Pittsburgh",-80.005302,40.453037
+"53",52,158916,"Ritters Diner Inc","Pittsburgh"," 5221 Baum Blvd",-79.941635,40.45604
+"54",53,19584142,"McGinnis Sisters Special Food Stores","Monroeville "," 4311 Northern Pike",-79.752747,40.43412
+"55",54,17223972,"Carnegie Library of Pittsburgh - Downtown & Business Branch","Pittsburgh"," 612 Smithfield Street",-79.997398,40.441811
+"56",55,1438873,"Schwartz Market","Pittsburgh"," 1317 East Carson St.",-79.984559,40.429133
+"57",56,23410252,"Hollywood Lanes","Pittsburgh"," 2961 W Liberty Ave",-80.035835,40.393921
+"58",57,4643142,"East Liberty Presbyterian Church","Pittsburgh"," 116 South Highland Avenue",-79.925354,40.460972
+"59",58,19765222,"Mexi Casa","Pittsburgh"," 3001 W Liberty Ave",-80.036903,40.393036
+"60",59,23934258,"Giant Eagle 2nd floor meeting room","Bridgeville"," 3239 Washington Pike ",-80.119026,40.340977
+"61",60,7821902,"Stephen Foster Community Center","Pittsburgh"," 286 Main Street",-79.958496,40.46777
+"62",61,10559182,"The Big Idea Cooperative Bookstore & Cafe","Pittsburgh"," 4812 Liberty Avenue",-79.946754,40.46014
+"63",62,24024786,"Allegheny Commons East","Pittsburgh"," 255 E Ohio St",-80.003014,40.453072
+"64",63,18095142,"East End Brewing Company","Pittsburgh"," 147 Julius St",-79.911499,40.458885
+"65",64,1267847,"Unitarian Universalist Church of North Hills","Pittsburgh"," 2359 West Ingomar Road ",-80.081696,40.584347
+"66",65,24077799,"Mellon Park","Pittsburgh "," Corner of 5th and Shady Ave Shadyside ",-79.920715,40.452885
+"67",66,754565,"Western Pennsylvania Humane Society","Pittsburgh"," 1101 Western Ave",-80.020084,40.451172
+"68",67,23995722,"Southside Works Cinema","Pittsburgh"," 425 Cinema Dr",-79.965309,40.427784
+"69",68,23612354,"Murrysville Community Library","Murrysville"," 4130 Sardis Rd",-79.666946,40.455193
+"70",69,23883039,"extraVEGANza Pgh","Pittsburgh"," 1317 E Carson Street",-79.984566,40.429131
+"71",70,1450785,"Loving Hut","Pittsburgh"," 5474 Campbells Run Road",-80.158007,40.448456
+"72",71,1254629,"First Unitarian Church","Pittsburgh"," 605 Morewood Avenue",-79.943,40.450757
+"73",72,558189,"Tana Ethiopian Cuisine","Pittsburgh"," 5929 Baum Blvd",-79.92682,40.46045
+"74",73,1122073,"Piper's Pub","Pittsburgh"," (Southside)",-79.97662,40.420841
+"75",74,15597412,"Tan Lac Vien Vietnamese Bistro","Pittsburgh"," 2114 Murray Avenue",-79.923264,40.433186
+"76",75,978650,"Panera Bread","Oakland"," 3800 Forbes Avenue",-79.95681,40.441555
+"77",76,12921352,"Lindsey's House","Canonsburg PA 15317"," 135 Vista Drive",-80.204437,40.282993
+"78",77,731596,"Sharp Edge Beer Emporium","Pittsburgh"," 302 S St Clair St",-79.930554,40.459939
+"79",78,938297,"Al's Cafe","Bethel Park"," 435 McMurray Road",-80.065841,40.312354
+"80",79,24102008,"Outback Steakhouse","Moon Township"," 1400 Market Place Bvld",-80.179184,40.457462
+"81",80,24075973,"Max And Erma\'s","Pittsburgh"," 130 Andrew Drive",-80.17587,40.451733
+"82",81,23736080,"Ground Round","Coraopolis"," 5980 University Blvd",-80.21772,40.520031
+"83",82,13254552,"Blvd Pub and Kitchen","Canonsburg"," 114 Southpointe Blvd.",-80.162399,40.277706
+"84",83,822670,"Applebee's - Robinson","Pittsburgh"," 6570 Steubenville Pike",-80.16129,40.448326
+"85",84,24104397,"Market District Giant Eagle","Wexford"," 155 Towne Center Drive",-80.054298,40.632034
+"86",85,23769367,"Bartram House Bakery","Wexford"," 2000 Village Run Drive",-80.05677,40.633598
+"87",86,835698,"Houlihans","Pittsburgh"," 100 Robinson Centre Drive",-80.160244,40.455791
+"88",87,1594958,"California Pizza Kitchen Ross Park Mall","Pittsburgh"," 1000 Ross Park Mall Drive Pittsburgh PA 15237",-80.007385,40.539204
+"89",88,6838692,"Schenley Plaza (in front of The Porch Restaurant)","PA"," Pittsburgh",-79.995888,40.440624
+"90",89,1015384,"Panera Bread","Pittsburgh"," 400 Penn Center Blvd",-79.811892,40.428055
+"91",90,22170312,"Gaetano's Restaurant","Pittsburgh"," 1617 Banksville Rd",-80.031731,40.409874
+"92",91,23704317,"Lin's Garden","Gibsonia"," 5560 William Flynn Hwy",-79.940247,40.633209
+"93",92,20348552,"Tres Amigos Mexican","Natrona Heights"," 18 Highlands Mall",-79.709923,40.646149
+"94",93,570488,"Mitchell's Fish Market","Pittsburgh"," 1500 Washington Rd.",-80.050385,40.355923
+"95",94,24018257,"Eat N Park - Fox Chapel","Pittsburgh"," 849 Freeport Rd",-79.891785,40.487
+"96",95,23530350,"Bravo's Cucina Italiana","Pittsburgh"," 211 Summit Park Drive Pittsburgh PA 15275",0,0
+"97",96,23949897,"Steel Cactus Mexican Restaurant and Cantina","Pittsburgh"," 1831 E Carson Street ( south side )",-79.979324,40.428879
+"98",97,889145,"Willow Restaurant and Lounge","Pittsburgh "," 634 Camp Horne Road",-80.076578,40.521193
+"99",98,23704137,"Emiliano's","Gibsonia"," 5375 William Flynn Hwy",-79.944771,40.619308
+"100",99,18444232,"Olives and Peppers","Bakerstown"," 6052 William Flynn Hwy",-79.933891,40.660416
+"101",100,23964667,"Houlihans","Pittsburgh"," 1500 Washington Road",-80.051872,40.357716
+"102",101,23530353,"Jacksons Restaurant","Coraopolis"," 8402 University Blvd",-80.223083,40.508793
+"103",102,23703940,"Matteo's","Lawrenceville"," 3615 Butler St",-79.96505,40.465736
+"104",103,856403,"Wooden Nickel","Monroeville"," 4006 Berger Ln",-79.772346,40.437237
+"105",104,1403851,"Papa J's Ristorante","Carnegie"," 200 East Main Street",-80.085305,40.40823
+"106",105,9126032,"Allegheny Wine Mixer Inc","Pittsburgh"," 5326 Butler Street",-79.951599,40.482544
+"107",106,16266372,"Aladdins Eatery","Fox Chapel"," Waterworks Plaza Freeport Road",-79.879776,40.513401
+"108",107,21776612,"Chatham University Sanger Hall","Pittsburgh"," Woodland Road",-79.910728,40.52663
+"109",108,1584182,"Chatham University","Pittsburgh"," 1 Woodland Road",-79.925491,40.451275
+"110",109,783159,"Regent Square Theater","Pittsburgh"," 1035 S Braddock Ave",-79.894225,40.433416
+"111",110,814077,"Carnegie Library of Pittsburgh - Homewood Branch","Pittsburgh"," 7101 Hamilton Ave",-79.899214,40.455284
+"112",111,6229922,"Harris Theater","Pittsburgh"," 809 Liberty Ave.",-79.998558,40.442795
+"113",112,674849,"Melwood Screening Room","Pittsburgh"," 477 Melwood Ave",-79.95312,40.455513
+"114",113,1054771,"Hollywood Theater","Dormont"," 1449 Potomac Avenue",-80.035239,40.39618
+"115",114,4869282,"The Hollywood Theatre","Pittsburgh"," 1449 Potomac Ave Pittsburgh PA 15216",-80.03524,40.396179
+"116",115,9877572,"Waterworks Cinemas","Pittsburgh"," 930 Freeport Road",-79.889725,40.488403
+"117",116,9084142,"Carnegie Mellon University-McConomy Auditorium","Pittsburgh"," 5000 Forbes Avenue ",-79.941574,40.443504
+"118",117,23740790,"Row House Cinema","Pittsburgh"," 4115 Butler St",-79.960838,40.469887
+"119",118,335676,"Moon Park","Coraopolis"," 1350 Ewing Rd",-80.18604,40.491043
+"120",119,1055186,"Dormont Pool","Dormont"," 1801 Dormont Avenue",-80.043927,40.397388
+"121",120,969027,"South Park","South Park"," Offleash Upper Parking Lot",-79.997589,40.292603
+"122",121,674839,"Animal Friends","Pittsburgh"," 562 Camp Horne Rd",-80.079155,40.522995
+"123",122,836419,"The Waterfront","Homestead"," Waterfront Dr W",-79.919512,40.406871
+"124",123,6814352,"North Park","McCandless Township"," McCandless Township Pennsylvania",-80.029968,40.583481
+"125",124,8350162,"Hartwood Acres Concert Area","Pittsburgh"," 200 Hartwood Acres",-79.911003,40.569515
+"126",125,24044351,"Kelly Park","Oakdale"," 55 Steen Hollow Road",-80.169502,40.391678
+"127",126,689526,"PNC PARK","Pittsburgh"," North Shore",-80.013532,40.445305
+"128",127,1092762,"Camp Bow Wow","Pittsburgh"," 971 Killarney Dr.",-80.006336,40.374626
+"129",128,17111332,"Woody's Dog Wash & Boutique","Pittsburgh"," 5843 Brownsville Road",-79.986343,40.327496
+"130",129,14048792,"Roberto Clemente Bridge Pittsburgh PA 15222","Pittsburgh"," Roberto Clemente Bridge Pittsburgh PA 15222",-80.003166,40.445183
+"131",130,4971712,"SouthSide Works Cinema","Pittsburgh"," 425 Cinema Drive",-79.96505,40.428066
+"132",131,24053586,"Unitarian Universalist Church of the North Hills","Pittsburgh"," 2359 West Ingomar Rd",-80.08183,40.584385
+"133",132,23781324,"Fredo's Deli","Pittsburgh"," 1451 Potomac Ave",-80.035248,40.396339
+"134",133,11892872,"Phipps Conservatory","Pittsburgh 15213"," One Schenley Park",-79.949791,40.434441
+"135",134,14516412,"The Grandview Saloon","Pittsburgh"," 1212 Grandview Avenue",-80.018555,40.438122
+"136",135,10654802,"CAVO Pittsburgh ","Pittsburgh"," 1916 Smallman St. (The Strip District)",-79.98497,40.451527
+"137",136,23826462,"Howl at the Moon","Pittsburgh"," 125 7th St",-80.000488,40.443779
+"138",137,1308714,"Schenley Park tennis courts","Pittsburgh"," Overlook Drive",-79.94216,40.431979
+"139",138,24131401,"Primantis Brothers in the Strip","Pittsburgh"," 46 18th Street",-79.985535,40.450741
+"140",139,11442842,"Bronze Hood Lounge","McKees Rocks"," 5920 Steubenville Pike",-80.142403,40.448868
+"141",140,20804532,"Buckhead Saloon (in Station Square)","Pittsburgh"," 225 West Station Square Drive",-80.005486,40.433949
+"142",141,1545901,"AMF Mt Lebanon Lanes","Pittsburgh"," 1601 Washington Road",-80.049225,40.353638
+"143",142,23626200,"Carnegie Science Center","Pittsburgh"," 1 Allegheny Ave",-80.017372,40.446075
+"144",143,20780262,"Wigle Barrelhouse and Whiskey Garden","Pittsburgh"," 1055 Spring Garden Ave",-79.993423,40.459293
+"145",144,2576351,"Duke\'s Rib House & Grille","Scott Township"," 1910 Cochran Road",-80.06115,40.394966
+"146",145,18164272,"Laser Storm","Pittsburgh"," 7715 Mcknight Rd",-80.017685,40.546852
+"147",146,20510472,"Steel Cactus","Pittsburgh"," 5505 Walnut Street",-79.933632,40.451412
+"148",147,1854861,"La Casa Narcisi Winery","Gibsonia"," 4578 Gibsonia Road Route 910",-79.900291,40.613205
+"149",148,674812,"Double Wide Grill","Pittsburgh"," 2339 E Carson St",-79.972336,40.428295
+"150",149,23642275,"Painting with a Twist","Pittsburgh"," 250 Mount Lebanon Blvd. Pittsburgh PA 15234",0,0
+"151",150,11666052,"Prior\'s Tap and Tavern","Pittsburgh"," 540 Weyman Road",-80.000687,40.35939
+"152",151,12816712,"Coach\'s Bottleshop & Grille","Pittsburgh"," 3105 Banksville Road",-80.044571,40.399273
+"153",152,911421,"Hofbrauhaus Pittsburgh","Pittsburgh"," 2705 S. Water Street",-79.957462,40.423227
+"154",153,8337782,"Millvale River Front Park","Millvale"," 70 Riverfront Drive",-79.980501,40.461108
+"155",154,1136838,"Cadillac Ranch ","Pittsburgh"," 1060 Settlers Ridge Center Drive",-80.041341,40.423784
+"156",155,937447,"Redbeards Bar","Pittsburgh"," 211 Shiloh St",-80.007369,40.430364
+"157",156,15594022,"Carnegie Park","Pittsburgh"," Forsythe Road For directions contact 412-853-0515",-79.995888,40.440624
+"158",157,727351,"Quaker Steak and Lube","Pittsburgh"," 110 Andrew Dr",-80.176316,40.449835
+"159",158,852775,"Hard Rock Cafe","Pittsburgh"," Station Square",-80.003711,40.432542
+"160",159,8129432,"Tilted Kilt","Pittsburgh"," 353 North Shore Drive Pittsburgh PA 15212",-80.010818,40.445938
+"161",160,721440,"Lower Frick Park Parking Lot","Pittsburgh"," 1000 Lancaster Ave",-79.898384,40.431808
+"162",161,24187292,"Sullivan Field","Pittsburgh"," 3601 Liberty Ave. Pittsburgh PA 15201",-79.963905,40.461864
+"163",162,23998769,"Swede Hill Park","Greensburg"," 311 Willow Crossing Road",-79.56413,40.277355
+"164",163,997661,"Flagstaff Hill","Pittsburgh"," 4800 Frew Street",-79.948149,40.440809
+"165",164,23923760,"Riverview Park","Pittsburgh"," 139 Mairdale Ave",-80.021164,40.490067
+"166",165,4759112,"Schenley Oval Sportsplex","Pittsburgh"," Overlook Drive 15207",-79.94216,40.431979
+"167",166,22100192,"Cost Center Outdoor IM Fields","Pittsburgh"," Robinson Street Extension",-79.997467,40.438339
+"168",167,23797045,"Hempfield Parks & Athletic Complex","Greensburg"," 220 Forbes Trail Road",-79.557869,40.350212
+"169",168,7588462,"Koenig Field","Pittsburgh"," 401 Greendale Avenue",-79.888092,40.432568
+"170",169,23592287,"Southpointe Fieldhouse","Canonsburg"," 104 Cecil-Henderson Road",-80.160194,40.304428
+"171",170,8626252,"Jergel's Rhythm Grille","Warrendale"," 285 Northgate Drive",-80.080658,40.654568
+"172",171,3017921,"Adam's Ridge Clubhouse","Mars"," 100 Adams Ridge Boulevard",-80.050003,40.684216
+"173",172,24173140,"The Camelot Banquet Hall","Warrendale"," 260 Northgate Dr.",-80.079674,40.65451
+"174",173,23976966,"Deer Lakes Park","West Deer Twp"," 109 Mahaffey Rd",-79.828491,40.620811
+"175",174,740042,"North Park","Gibsonia"," 1330 Wildwood Road",-79.979666,40.594669
+"176",175,24033346,"St. Agnes Center of Carlow University","Pittsburgh"," 3333 Fifth Avenue",-79.963692,40.438213
+"177",176,674836,"Benedum Center For the Performing Arts","Pittsburgh"," 719 Liberty Ave",-79.99923,40.44261
+"178",177,3963902,"Pittsburgh Dance Center","Pittsburgh"," 4765 Liberty Ave.",-79.947922,40.461079
+"179",178,9933862,"Pittsburgh Playwrights Theatre Company","Pittsburgh "," 937 Liberty Avenue",-79.996666,40.443378
+"180",179,1108438,"Our Lady Of the Angels","Pittsburgh"," 225 37th Street ",-79.963923,40.465831
+"181",180,24053265,"Genesius Theater on the Duquesne University Campus","Pittsburgh"," Locust Street",-79.98939,40.43682
+"182",181,1013607,"The Space Upstairs","Pittsburgh"," 214 North Lexington Street",-79.899085,40.449691
+"183",182,674802,"New Hazlett Theater","Pittsburgh"," 6 Allegheny Square E",-80.003494,40.452225
+"184",183,8659062,"Frick Park Blue Slide Playground","Pittsburgh"," Beechwood Blvd. at Nicholson St.",-79.915207,40.430264
+"185",184,24038997,"St. Therese of Lisieux Church","Munhall"," 1 Saint Therese Ct.",-79.901573,40.387962
+"186",185,955603,"August Wilson Center","Pittsburgh"," 980 Liberty Avenue ",-79.996123,40.443417
+"187",186,24024710,"Allegheny Commons Park West Park","Pittsburgh"," West North & Palo Alto",-80.010582,40.454731
+"188",187,24142157,"Saturday at Mellon Institute Auditorium (4400 Fifth Ave) Sunday at Frick Art & Historical Center (7227 Reynolds St) Pittsbur","Pittsburgh"," Saturday at Mellon Institute Auditorium (4400 Fifth Ave) Sunday at Frick Art & Historical Center (7227 Reynolds St) Pittsbur",-79.995888,40.440624
+"189",188,6434262,"Cabaret At Theater Square","Pittsburgh"," 655 Penn Avenue",-80.001007,40.443089
+"190",189,22802542,"Future Tenant","Pittsburgh"," 819 Penn Ave",-79.998665,40.443642
+"191",190,23475652,"Bricolage","Pittsburgh"," 937 Liberty Ave",-79.996658,40.443264
+"192",191,24063288,"The Artists\' Gallery","Pittsburgh"," 31 North Balph Ave",-80.055374,40.496185
+"193",192,11825272,"Pittsburgh Public Theater (Downtown)","Pittsburgh"," O\'Reilly Theater 621 Penn Avenue",-79.885071,40.443966
+"194",193,17956022,"Byham Theater","Pittsburgh"," 101 6th St",-80.002548,40.443848
+"195",194,19695892,"The Trust Arts Education Center","Pittsburgh"," 805 Liberty Ave",-79.998634,40.442822
+"196",195,20158732,"East End Cooperative Ministry ","Pittsburgh"," 6140 Station Street (Penn Circle North) East Liberty",-79.997467,40.438339
+"197",196,18838672,"latitude 360","Pittsburgh"," 200 Quinn Dr Pittsburgh PA 15275",-80.177849,40.446178
+"198",197,2539771,"Walnut Street in Shadyside","Pittsburgh"," Walnut Street",-79.93341,40.45142
+"199",198,4708992,"Frick Art & Historical Center","Pittsburgh"," 7227 Reynolds Street",-79.90229,40.446594
+"200",199,24095341,"Andrew Carnegie Free Library & Music Hall","Carnegie"," 300 Beechwood Avenue",-80.085869,40.406841
+"201",200,19515162,"Grist House Brewery","Millvale"," 10 Sherman Street",-79.972046,40.478786
+"202",201,10657782,"Hambone\'s","Pittsburgh"," 4207 Butler Street",-79.960457,40.470444
+"203",202,1059488,"The Oaks Theater","Oakmont"," 310 Allegheny River Boulevard",-79.842896,40.515626
+"204",203,23909084,"Tall Trees Amphitheater - Monroeville Community Park West","monroeville"," 2447 Tilbrook Road",-79.76342,40.420403
+"205",204,763021,"Heinz Hall","Pittsburgh"," 600 Penn Ave",-80.002187,40.442724
+"206",205,24103460,"All Saints Church","Etna"," 19 Wilson Street",-79.949867,40.503819
+"207",206,879741,"First Unitarian Church of Pittsburgh in Shadyside","Pittsburgh"," Corner of Morewood and Ellsworth",-79.943053,40.450916
+"208",207,12533622,"Kresge Theatre College of Fine Arts","Pittsburgh"," Carnegie Mellon University",-79.94301,40.441658
+"209",208,24068648,"Squirrel Hill Farmers' Market","Pittsburgh"," 5753 Bartlett Street (Bartlett/Beacon Parking Lot)",-79.923996,40.436008
+"210",209,23676949,"Unitarian Universalist Church of the North Hills","Pittsburgh"," 2359 W Ingomar Rd",-80.079445,40.583988
+"211",210,12733572,"Millvale Community Center","Millvale"," 416 Lincoln Avenue",-79.972717,40.480885
+"212",211,24154310,"New Sun Rising Offices","Millvale"," 220 North Avenue",-79.97438,40.48122
+"213",212,17499532,"Cavo","Pittsburgh"," 1916 Smallman St",-79.985107,40.451435
+"214",213,10279342,"Tele-Seminar","Pittsburgh"," In the comfort of your own home. (teleconference number will be provided upon registration)",-79.995888,40.440624
+"215",214,308361,"Coffee Tree Roasters","Pittsburgh"," 5524 Walnut St",-79.932852,40.451375
+"216",215,23585477,"Zeke's Coffee (new location)","Pittsburgh"," 6015 Penn Ave",-79.923988,40.461502
+"217",216,14167812,"Mellon Park ","Pittsburgh"," 5th Ave & Shady Ave",-79.920715,40.452885
+"218",217,833058,"Big Dog Coffee","Pittsburgh"," 2717 Sarah St",-79.966716,40.425941
+"219",218,17499542,"Cavo","Pittsburgh"," 1916 Smallman St",-79.985107,40.451435
+"220",219,24013737,"The Tea Loft","Pittsburgh"," 3812 William Flinn Hwy Building 4 2nd floor",-79.957314,40.555496
+"221",220,23917876,"Embody Healing LLC","Pittsburgh"," 2609 Brownsville Road",-79.978386,40.385338
+"222",221,24184871,"SparkleDragon\'s Magical Emporium","Pittsburgh"," 2120 Broadway Ave",-80.030434,40.404484
+"223",222,23771672,"Way Wellness Center","Fox Chapel"," 1150 Freeport Road",-79.879341,40.487827
+"224",223,24158661,"Elks Lodge","Bethel Park Pa. 15102"," 2425 South Park Road",-80.023041,40.329342
+"225",224,6532322,"Shining Light Prenatal Education","Pittsburgh"," 3701 Butler Street",-79.96476,40.466358
+"226",225,23596545,"Avani Institute","Canonsburg"," 3055 Washington Rd",-80.103767,40.292664
+"227",226,23883769,"First Unitarian Church","Pittsburgh"," 605 Morewood Ave",-79.942993,40.45068
+"228",227,1154790,"First United Methodist Church","Pittsburgh"," 5401 Centre Avenue",-79.938581,40.455928
+"229",228,23586831,"Playdate 4 kids","Pittsburgh"," 2898 Banksville Road",-80.04072,40.40349
+"230",229,23670776,"Enlightened Healing Energy","Pittsburgh"," 466 Castle Shannon Boulevard",-80.033928,40.372467
+"231",230,22446562,"Sparkledragon\'s Magical Emporium","Pittsburgh"," 2120 Broadway Ave",-80.033188,40.404533
+"232",231,14838612,"Online Event","Pittsburgh"," Online",-80.000076,40.442169
+"233",232,24131243,"Cora Lee Cupcakes","Lower Burrell"," 2881 Leechburg Rd",-79.724854,40.58952
+"234",233,17841722,"Carnegie Library - Squirrel Hill Room A","Pittsburgh"," 5801 Forbes Avenue",-79.922653,40.438213
+"235",234,20785082,"Ola's Herb Shop","Pittsburgh"," 5824 Forbes Ave Ste 2",-79.921867,40.438061
+"236",235,24071135,"Lawther's Medicine Wheel","Tarentum"," 783 Rt 908 Ext",-79.759773,40.601456
+"237",236,23662715,"Staghorn Home & Garden Cafe","Pittsburgh"," 517 Greenfield Ave",-79.941826,40.425671
+"238",237,23825584,"Holy Trinity Greek Orthodox Church","Pittsburgh"," 985 Providence Blvd (Opposite 9000 Babcock Boulevard)",-79.979095,40.686523
+"239",238,23625436,"Doubletree Cranberry (was 4 Points Sheraton N.)","Mars"," 901 Sheraton Dr",-80.09689,40.67315
+"240",239,24153444,"West Mifflin Fire Hall","Pittsburgh"," 3722 Rodeo Dr West Mifflin PA 15122",-79.914986,40.353367
+"241",240,23935278,"Chatham Commons","Cranberry Twp"," 5000 Stein Drive",0,0
+"242",241,24147961,"Unity Center","Pittsburgh"," 201 South Winebiddle Street",-79.94229,40.46396
+"243",242,23771661,"My Home","Lower Burrell","1",0,0
+"244",243,23698667,"Homestead Labyrinth","Homestead"," 880 waterfront Dr. ",-79.895859,40.409176
+"245",244,15182542,"Donato's Fox Chapel","Pittsburgh"," 46 Fox Chapel Road",-79.883049,40.488579
+"246",245,24103445,"Grace Community Church","Cranberry Township"," 9160 Marshall Rd",-80.097916,40.719913
+"247",246,1383936,"Doubletree Hotel","Moon Township"," 8402 University Blvd.",-80.224573,40.509119
+"248",247,24070496,"Moon Township Police Station","Moon Township"," Corner of Beaver Grade Rd. and Thorn Run Rd.",-80.207542,40.505455
+"249",248,1095802,"South Park Dog Park","South Park"," Buffalo Drive",-79.995861,40.305406
+"250",249,706800,"Lucky Paws","Freedom"," 2273 Lovi Rd",-80.164513,40.685226
+"251",250,1246313,"(Upper) Frick Park Dog Park","Pittsburgh"," Beechwood Blvd",-79.917442,40.450623
+"252",251,6634392,"North Park Dog Park","Allison Park"," Pearce Mill Road",-80.008224,40.606716
+"253",252,17606382,"Mt Lebanon Public Library","Pittsburgh"," 16 Castle Shannon Blvd",-80.045219,40.377373
+"254",253,24090568,"Jergel's Rhythm Grille ","Warrendale"," 103 Slade Ln",-80.082214,40.65469
+"255",254,14192352,"Frick Art & Historical Center","Pittsburgh"," 7227 Reynolds Street",-79.901299,40.448486
+"256",255,283798,"Thunderbird Cafe","Pittsburgh"," 4023 Butler St",-79.96153,40.469307
+"257",256,998130,"ESSpa Kozmetika Organic Skincare & Spa","Pittsburgh"," 17 Brilliant Avenue",-79.901321,40.48931
+"258",257,686157,"Colonial Grille","Irwin"," 333 Main St",-79.710684,40.332601
+"259",258,24073177,"Firepit Wood Fired Grill","Irwin"," 8933 Route 30",-79.691055,40.32016
+"260",259,23849762,"Dave & Buster's","Homestead"," 180 Waterfront Dr E",-79.914917,40.410522
+"261",260,674810,"Friends Meeting House","Pittsburgh"," 4836 Ellsworth Ave",-79.94622,40.44937
+"262",261,10137112,"Online Event","Pittsburgh"," Internet",-79.995888,40.440624
+"263",262,24133755,"The Artist\'s Gallery","Bellevue"," 31 North Balph Avenue",-80.055328,40.496159
+"264",263,1570751,"Vincent's of Greentree","Pittsburgh"," 333 Mansfield Avenue",-80.049942,40.421661
+"265",264,1043879,"Allegheny Cemetery","Pittsburgh"," 4734 Butler Street ",-79.95767,40.47459
+"266",265,14588162,"Carrie Furnaces","Rankin"," Rankin PA",-79.878464,40.407497
+"267",266,674855,"Vincent's Greentree","Pittsburgh"," 333 Mansfield Ave",-80.05061,40.42152
+"268",267,3113461,"Italian Village Pizza","McMurray"," 3905 Washington Road",-80.127556,40.271793
+"269",268,23918422,"Armstrong Field","Pittsburgh"," 13th Street/Sarah",0,0
+"270",269,23935061,"Junction Hollow Field","Pittsburgh"," Boundary St",0,0
+"271",270,1238543,"FlagStaff Hill","Oakland"," 1 Schenley Park ",-79.954377,40.442048
+"272",271,23647886,"Carmella's Plates & Pints","Pittsburgh"," 1908 E Carson St",-79.978737,40.428658
+"273",272,16905892,"Butcher and The Rye","Pittsburgh"," 212 6th Street",-80.002068,40.442333
+"274",273,1575754,"Marriott City Center - Pittsburgh","Pittsburgh"," 112 Washington Place",-79.992439,40.439758
+"275",274,1134091,"Cheesecake Factory","Pittsburgh"," Southside Works",-79.965233,40.427914
+"276",275,8387302,"Houlihan\'s","Pittsburgh"," 1500 Washington Rd",-80.050346,40.357605
+"277",276,14757012,"Rumfish Grille","Bridgeville"," 1155 Washington Pike (Great Southern Shopping Center)",-80.110054,40.356182
+"278",277,22627552,"Shaler Area Middle School","Glenshaw"," 1800 Mount Royal Blvd",-79.9636,40.526718
+"279",278,1099760,"Legacy Lanes","Pittsburgh"," 5024 Curry Rd",-79.995625,40.349767
+"280",279,24048748,"Atria\'s","Pittsburgh"," 103 Federal St",-80.004074,40.447712
+"281",280,8773432,"Mitchell's Fish Market","Pittsburgh"," 1500 Washington Road",-80.050346,40.357605
+"282",281,19225842,"Walnut Grill","Bridgeville"," 1595 Washington Pike",-80.094536,40.382366
+"283",282,1324446,"Atria's","Mt. Lebanon"," 110 Beverly Road",-80.04688,40.39378
+"284",283,24145935,"Glen's Custard","Springdale"," 400 Pittsburgh Street",-79.788208,40.540985
+"285",284,3742912,"Josephine St & S 21st St Pittsburgh PA 15203","Pittsburgh"," Josephine St & S 21st St Pittsburgh PA 15203",-79.976605,40.424941
+"286",285,1344683,"Crazy Mocha - (412) 521-1056","Pittsburgh"," Squirrel Hill (corner of Hobart & Murray)",-79.917404,40.432976
+"287",286,10091662,"Carnegie Library of Pittsburgh - East Liberty Branch","Pittsburgh"," 130 South Whitfield Street",-79.926399,40.460884
+"288",287,10681362,"Soergel Orchards","Wexford"," 2573 Brandt School Road",-80.092499,40.615013
+"289",288,24071905,"Wexford Health + Wellness Pavilion","Wexford 15090"," 12311 Perry Highway",-80.063583,40.635849
+"290",289,10910102,"Pittsburgh Tech Council","Pittsburgh"," 2000 Technology Drive #100 ",-79.970299,40.434158
+"291",290,13720702,"Township of Upper St. Clair Library","Upper St. Clair"," 1820 McLaughlin Run Road",-80.074104,40.335747
+"292",291,4915282,"McLaughlin Run Road Recreation Center Room","Upper St Clair"," 1770 McLaughlin Run Road",-80.074348,40.335861
+"293",292,24061896,"Highland Park Volleyball Courts","Pittsburgh"," Lake Drive",-79.911377,40.479172
+"294",293,23485143,"Butcher and the Rye","Pittsburgh"," 212 6th St",-79.936012,40.495636
+"295",294,1362732,"Silky's","Pittsburgh"," 1731 Murray Avenue",-79.922821,40.437069
+"296",295,1219097,"Iceoplex at Southpointe ","Canonsburg"," 114 Southpointe Blvd. ",-80.171205,40.298311
+"297",296,24037901,"American Serbian Club of Pittsburgh","Pittsburgh"," 2524 Sarah St",-79.969261,40.426594
+"298",297,19939642,"AlphaLab Gear","Pittsburgh"," 6024 Broad Street",-79.923996,40.46228
+"299",298,24013247,"Alphalab","Pittsburgh"," 6024 Broad St. 3rd Floor",-79.923996,40.46228
+"300",299,19617192,"TechShop Pittsburgh","Pittsburgh"," 192 Bakery Sqaure Blvd",-79.915718,40.456963
+"301",300,706466,"Carnegie Mellon University","Pittsburgh"," 5000 Forbes Ave",-79.942892,40.444579
+"302",301,24151238,"BloomBoard","Pittsburgh"," 5410 Walnut Street Suite 200",-79.93536,40.45082
+"303",302,12407112,"The Hardware Store - Where media professionals startups and nonprofits collaborate","Pittsburgh"," 744 E. Warrington Ave.",-79.99408,40.421764
+"304",303,24021701,"Hotel Monaco - Sheffield Ballroom","Pittsburgh"," 620 William Penn Place",-79.996384,40.44157
+"305",304,24106427,"Hartwood Acres Park ","Pittsburgh"," (GPS: 4070 Middle Road Allison Park PA. 15101",-79.995888,40.440624
+"306",305,487882,"El Campesino","Canonsburg"," 4175 Washington Rd.",-80.13265,40.263077
+"307",306,795889,"Gaetano's Restaurant","Pittsburgh"," 1617 Banksville Rd",-80.031599,40.409787
+"308",307,6195892,"40th Street Bridge Lawrenceville","Pittsburgh"," 40th Street",-79.960884,40.46759
+"309",308,24042969,"St. John's Lutheran Cemetery","Pittsburgh"," Spring Hill - City View Buente Street 15212",0,0
+"310",309,1368063,"Squaw Valley Park","Fox Chapel "," Fox Chapel Road",-79.87956,40.525473
+"311",310,313464,"Arsenal Park","Pittsburgh"," 40th St",-79.96139,40.46793
+"312",311,1396263,"Frank Curto Park","Pittsburgh"," Bigelow Blvd",-79.975934,40.451418
+"313",312,729514,"National Aviary","Pittsburgh"," W Commons",-80.007393,40.451449
+"314",313,2211961,"ECKANKAR Center of Western PA ","Monroeville"," 4290 Old William Penn Hwy ",-79.778069,40.442753
+"315",314,1035990,"Diesel Club Lounge","Pittsburgh"," 1601 E. Carson Street",-79.982594,40.429036
+"316",315,1120340,"Absolute Ballroom Dancing","Pittsburgh"," 6617 Hamilton Ave",-79.909891,40.457782
+"317",316,23488720,"Steel Cactus","Pittsburgh"," 1831 E Carson St",-79.979332,40.428696
+"318",317,18344942,"Skybar Pittsburgh","Pittsburgh"," 1601 East Carson Street Sky Level",-79.982552,40.428871
+"319",318,3865112,"Ross Township Municipal Center","Pittsburgh"," 1000 Ross Municipal Road",-80.007423,40.51635
+"320",319,1423688,"Sharon Community Presbyterian Church","Moon Township"," 522 Carnot Road",-80.220627,40.513222
+"321",320,1558061,"Heritage Valley Sewickley","Sewickley"," 720 Blackburn Road",-80.177643,40.543304
+"322",321,981790,"Mount Lebanon Public Library","Pittsburgh"," 16 Castle Shannon Blvd ",-80.045384,40.377195
+"323",322,17012432,"Carnegie Library of Pittsburgh - Downtown & Business Branch","Pittsburgh"," 612 Smithfield Street",-79.99752,40.44175
+"324",323,16440832,"Dormont Library","Pittsburgh"," 2950 W Liberty Ave Pittsburgh PA 15216",-80.035957,40.394169
+"325",324,674831,"Andy Warhol Museum ","Pittsburgh"," 117 Sandusky St",-80.002678,40.448498
+"326",325,24032123,"Independance Twp. Community Center","Aliquippa 15001"," 116 School Rd. ",-80.327858,40.543999
+"327",326,952689,"Monroeville Public Library","Monroeville "," 4000 Gateway Campus Boulevard",-79.752569,40.430062
+"328",327,9023432,"Bicycle Heaven Museum","Pittsburgh"," 1800 Preble & Columbus Ave in the RJ Casey Industrial Park",-80.03286,40.456837
+"329",328,24102403,"corner of Washington Road and Academy Avenue","Pittsburgh"," Mt Lebanon",-80.039612,40.367741
+"330",329,3789242,"Elks Lodge","Pittsburgh"," 400 Cedar Avenue",-80.000793,40.451824
+"331",330,293803,"Frick Art & Historical Center/ Gardens","Pittsburgh"," 7227 Reynolds St",-79.90286,40.446342
+"332",331,23249832,"Yoga Digs ","Pittsburgh"," 1224 E Carson St. 3rd floor (use 13th st entrance)",-79.986038,40.428734
+"333",332,986923,"Riverview Park","Pittsburgh"," 1 Riverview Ave",-80.014664,40.484368
+"334",333,376852,"MARILYN\'S","Wexford"," 9848 COVERED WAGON CT",-80.045403,40.591145
+"335",334,18632532,"Youtopia dance studio","Pittsburgh"," 1918 Murray Avenue",-79.922905,40.435703
+"336",335,1102185,"Carnegie Music Hall","Pittsburgh"," 4400 Forbes Ave",-79.950626,40.443628
+"337",336,24186324,"East Liberty Presbyterian Church","Pittsburgh"," 116 S. Highland Avenue",-79.925591,40.461006
+"338",337,24137944,"Rodef Shalom Congregation","Pittsburgh"," 4905 5th Avenue Pittsburgh PA 15213",-79.943367,40.447903
+"339",338,24167149,"Alumni Hall Connolly Ballroom","Pittsburgh"," The University of Pittsburgh",-79.953171,40.444256
+"340",339,12909212,"Dobra Tea","Pittsburgh"," 1937 Murray Ave Pittsburgh Pennsylvania",-79.922806,40.434963
+"341",340,24009567,"Mellon Square Park","Pittsburgh"," 529 -540 Smithfield St",-79.997467,40.438339
+"342",341,295623,"Schenley Plaza","Pittsburgh"," 4100 Forbes Ave",-79.95211,40.443535
+"343",342,1017057,"Hartwood Acres Amphitheater","Allison Park"," 4000 Middle Road",-79.928058,40.569818
+"344",343,1080982,"Keystone Oaks High School","Pittsburgh"," 1000 Kelton Ave",-80.03451,40.388942
+"345",344,24094014,"Under the tent at Schenley Plaza","Pittsburgh"," 4100 Forbes Ave Pittsburgh PA 15260",-79.952126,40.443531
+"346",345,808122,"The Galleria","Mt. Lebanon"," Washington Rd",-80.049419,40.369177
+"347",346,14797382,"Children\'s Museum of Pittsburgh","Pittsburgh"," 10 Children\'s Way",-80.006416,40.452835
+"348",347,15469772,"Boyce-Mayview Park","Upper St. Clair"," 1531 Mayview Road",-80.110542,40.336761
+"349",348,3814592,"AMC Loews Waterfront 22","West Homestead"," 300 Waterfront Drive West",-79.918976,40.407063
+"350",349,4454242,"Soldiers And Sailors Memorial Hall","Pittsburgh"," 4141 Fifth Avenue",-79.95536,40.444065
+"351",350,23538792,"Schwartz Living Market","Pittsburgh"," 1317 East Carson Street",-79.984566,40.429134
+"352",351,23961730,"Mellon Park ","Pittsburgh"," Shady Ave & 5th",-79.920738,40.452892
+"353",352,1114957,"Elk\'s Lodge 339","Pittsburgh"," 400 Cedar Avenue",-80.000799,40.451826
+"354",353,20911842,"James Street","Pittsburgh"," 422 Foreland Street",-80.001274,40.454563
+"355",354,23499698,"Pittsburgh New Church","Pittsburgh"," 299 Le Roi Rd",-79.903923,40.44762
+"356",355,23786211,"The Fitness Barre","Cranberry Twp."," 132 Graham Park Dr. Ste. 100 Cranberry Twp. PA 16066",0,0
+"357",356,977544,"Carnegie Museum of Art","Pittsburgh"," 4400 Forbes Ave",-79.949267,40.444139
+"358",357,23988024,"Multi-Family and local church included","McKees Rocks"," Corner of Ella St and Shingiss Streets",-80.057388,40.465542
+"359",358,23874665,"HYATT house Pittsburgh-South Side","Pittsburgh"," 2795 S Water St",-79.963982,40.428028
+"360",359,23683436,"Room A115 Crabtree Hall School of Public Health","Pittsburgh"," The University of Pittsburgh",-79.953972,40.440609
+"361",360,5602632,"Assembly Room - William Pitt Union","Pittsburgh"," 3959 5th Avenue",-79.955009,40.443687
+"362",361,21116272,"Arcade Comedy Theater","Pittsburgh"," 811 Liberty Aveune 15222",0,0
+"363",362,708815,"South Park Amphitheatre","South Park"," Brownsville Rd",-80.007857,40.290488
+"364",363,21653462,"Carnegie Library of Pittsburgh - Allegheny ","Pittsburgh"," 1230 Federal Street",-80.006615,40.456394
+"365",364,24025425,"824: The Consignment Shop","Pittsburgh"," 824 Brookline Blvd",-80.019531,40.393013
+"366",365,23892914,"The Outdoor Classroom","Pittsburgh"," 1531 Mayview Rd ",-80.110611,40.336674
+"367",366,872309,"Frick Fine Arts Auditorium","Pittsburgh"," University of Pittsburgh",-79.959839,40.444595
+"368",367,23752680,"Carnegie Library of Pittsburgh - Main","Pittsburgh"," 4400 Forbes Avenue",-79.948845,40.443424
+"369",368,15309262,"Arsenal Park","Pittsburgh"," 39th Street",-79.962784,40.466797
+"370",369,23834479,"The Homewood Cemetery","Pittsburgh"," 1599 South Dallas Avenue",0,0
+"371",370,945930,"Cedar Creek Park","Rostraver"," Route 51",-79.802686,40.175531
+"372",371,24066471,"Frick Park","Pittsburgh"," Beechwood Blvd and Nicholson Street",-79.915222,40.430298
+"373",372,24077791,"Mellon Park","Pittsburgh "," Corner Of 5th and Shady Ave",-79.920715,40.452885
+"374",373,5581882,"Room 125 Frick Fine Arts Building","Pittsburgh"," University of Pittsburgh",-79.959839,40.444595
+"375",374,24152495,"Nordy\'s Place William Pitt Union","Pittsburgh"," The University of Pittsburgh",-79.953171,40.444256
+"376",375,23624929,"Youtopia Studio","Squirrel Hill"," 1918 Murray Ave",-79.922905,40.435703
+"377",376,995195,"Brookline Library ","Pittsburgh"," 708-710 Brookline Blvd.",-80.02137,40.394427
+"378",377,6759402,"Dons\' place","Bridgeville "," 447 Montgomery ave",-80.095688,40.373882
+"379",378,1929781,"Our Lady of the Angels Parish","Pittsburgh"," 225 37th Street",-79.963943,40.465851
+"380",379,24051015,"Big Knob Grange","Rochester"," 336 Grange Rd",-80.216537,40.72319
+"381",380,1060183,"Primanti Brothers","Pittsburgh"," 46 18th St",-79.985589,40.450736
+"382",381,13934212,"Algonquin Grove - Settler\'s Cabin Park","Pittsburgh"," 1225 Greer Rd.",-80.161545,40.434818
+"383",382,24059211,"Carnegie Library-Downtown Branch","Pittsburgh"," 612 Smithfield St",-79.997383,40.441776
+"384",383,1006725,"Schenley Park Flagstaff Hill","Pittsburgh"," 4500 Schenley Dr.",-79.947199,40.440169
+"385",384,24067670,"Frick Fine Arts Building Coister","Pittsburgh"," The University of Pittsburgh",-79.953972,40.440609
+"386",385,12595442,"Frick Environmental Center ","Pittsburgh"," 2005 Beechwood Boulevard",-79.909081,40.43597
+"387",386,12289292,"CMU McConomy Auditorium","Pittsburgh"," 5032 Forbes Avenue",-79.942072,40.444466
+"388",387,18691112,"Alumi Concert Hall","Pittsburgh"," CMU",-79.941872,40.44112
+"389",388,23611170,"Porter Hall 100","Pittsburgh"," 100 Frew Street",-79.941994,40.440399
+"390",389,23524084,"Phipps Conservatory and Botanical Gardens","Pittsburgh"," 1 Schenley Park",-79.952049,40.434238
+"391",390,18710302,"Room 602 Cathedral of Learning","Pittsburgh"," The University of Pittsburgh",-79.953972,40.440609
+"392",391,4816402,"Northland Public Library","Pittsburgh"," 300 Cumberland Road",-80.034645,40.571003
+"393",392,20841982,"46th and Butler ","Pittsburgh"," 46th and Butler ",-79.958817,40.47279
+"394",393,1630673,"Bushy Run Battlefield","Jeanette"," 1253 Bushy Run Rd.",-79.623558,40.353489
+"395",394,723199,"Highland Park","Pittsburgh"," N Highland Ave & Reservoir Dr",-79.915873,40.478916
+"396",395,6725102,"PNC Park","Pittsburgh"," 115 Federal Street",-80.005669,40.446945
+"397",396,15534812,"Dukes Station III","Pittsburgh"," 1910 Cochran Road",-80.062973,40.394016
+"398",397,3035311,"Southside Riverfront Park","Pittsburgh"," South 18th Street",-79.980798,40.426523
+"399",398,24035056,"Bellefield Hall","Pittsburgh"," 340 S Bellefield Ave",-79.951347,40.445282
+"400",399,23997447,"Castle Shannon Fire Department Fire Hall","Pittsburgh"," 3600 Library Rd",-80.017593,40.365307
+"401",400,24206245,"Light Up Night Parade","Irwin"," 6th Street",-79.706917,40.330219
+"402",401,5107642,"Carnegie Museum of Art Theater","Pittsburgh"," 4400 Forbes Ave",-79.950623,40.443626
+"403",402,24077814,"Grants Shelter South Park","South Park"," E Park Dr. ",-79.994881,40.322826
+"404",403,23583711,"Irma Freeman Center for Imagination","Pittsburgh"," 5006 Penn Ave ",-79.943771,40.465092
+"405",404,23981318,"Point Park College","Pittsburgh"," University Center 414 Wood Street",0,0
+"406",405,24052605,"817R Cathedral of Learning","Pittsburgh"," University of Pittsburgh",-79.953972,40.440609
+"407",406,858565,"Buckhead Saloon","Pittsburgh"," 225 Station Square",-80.003711,40.432542
+"408",407,23813675,"Carnegie Library of Pittsburgh","Pittsburgh"," 612 Smithfield St",-79.997383,40.441776
+"409",408,5351532,"Murrysville Community Center","Pittsburgh"," 3091 Carson Ave. Murrysville 15668",-79.694313,40.425285
+"410",409,810447,"Redbeards Bar","Pittsburgh"," 201 Shiloh St",-80.00739,40.430716
+"411",410,8062982,"Tilted Kilt Pub & Eatery","Pittsburgh"," 353 North Shore Drive",-80.010818,40.445938
+"412",411,24106050,"Squirrel Hill Branch of the Carnegie Library","Pittsburgh"," 5801 Forbes Avenue",-79.92263,40.438454
+"413",412,24132999,"St Mary of the Mount Parish","Pittsburgh"," Mt Washington",-80.011574,40.42767
+"414",413,12034602,"Kresge Theater","Pittsburgh"," Carnegie Mellon University",-79.941574,40.443504
+"415",414,931277,"Bellefield Auditorium ","Pittsburgh"," 315 S. Bellefield Ave ",-79.951683,40.445962
+"416",415,24198197,"Heinz Hall Regency Rooms","Pittsburgh"," 6th and Penn Aves",-80.002167,40.442722
+"417",416,24216603,"EQT Plaza","Pittsburgh"," Liberty Avenue",-79.976349,40.455307
+"418",417,854288,"The Union Project","Pittsburgh"," 801 N. Negley Ave.",-79.926278,40.471529
+"419",418,24076333,"Settlers Cabin","Pittsburgh"," Ridge Road",-79.858467,40.419937
+"420",419,674813,"Heinz History center","Pittsburgh"," 1212 Smallman St",-79.9929,40.44648
+"421",420,20190062,"Green Tree Municipal Center Park","Pittsburgh"," 10 West Manilla Avenue",-80.047058,40.418758
+"422",421,24181034," soldiers and sailers","Pittsburgh"," fitth and bigellow blvd",-79.954842,40.444298
+"423",422,23605057,"Iceoplex at Southpointe","Canonsburg"," 114 Southpointe Blvd",-80.160919,40.27462
+"424",423,674857,"Mullaney\'s Harp and Fiddle","Pittsburgh"," 2329 Penn Ave",-79.98126,40.452984
+"425",424,24194981,"Equilibrium Pittsburgh Pilates Studio","Wexford"," 10925 Perry Highway",-80.055679,40.61726
+"426",425,9519742,"National Aviary","Pittsburgh"," 700 Arch Street",-80.008881,40.452343
+"427",426,21659022,"Henry Heymann Theater","Pittsburgh"," 4301 Forbes Ave ",-79.950516,40.444019
+"428",427,949143,"The Cabana Bar at the Oxford Club","Wexford"," 100 Village Club Drive ",-80.052842,40.633237
+"429",428,24012359,"South Park Amphitheater","Pittsburgh"," McCorkle Road and Brownsville Road",-79.995415,40.302334
+"430",429,5431112,"2017 Cathedral of Learning","Pittsburgh"," University of Pittsburth",-79.959,40.444141
+"431",430,22996552,"The Maker Theater","Pittsburgh"," 5950 Ellsworth Ave",-79.925491,40.458763
+"432",431,23690449,"Grist House Brewing","Pittsburgh"," 10 E Sherman St",-79.972046,40.478786
+"433",432,18616592,"Hack Pittsburgh","Pittsburgh"," 1936 Fifth Ave",-79.978737,40.438244
+"434",433,556179,"Carson City Saloon","Pittsburgh"," 1401 E. Carson Street",-79.98416,40.42882
+"435",434,24220517,"Carnegie Library of Pittsburgh - Main","Pittsburgh"," 4400 Forbes Avenue",-79.949913,40.443195
+"436",435,738722,"Hard Rock Cafe","Pittsburgh"," W Station Square Dr",-80.011029,40.436614
+"437",436,833132,"Mattress Factory","Pittsburgh"," 500 Sampsonia Way",-80.012404,40.456794
+"438",437,6195992,"Roberto Clemente Memorial Park","Pittsburgh"," Pittsburgh PA",-80.021034,40.447826
+"439",438,20715682,"Alphabet City Tent","Pittsburgh"," 320 Sampsonia Way",-80.011147,40.457176
+"440",439,7435612,"Brillobox","Pittsburgh"," 4104 Penn Avenue",-79.95475,40.465668
+"441",440,24216613,"Drew Mathieson Center","Pittsburgh"," 1600 Metropolitan Street",-80.030602,40.455532
+"442",441,11089472,"Ross Township Community Center","Pittsburgh"," 1000 Ross Municipal Drive",-80.006271,40.516071
+"443",442,24135283,"Allegheny County","Pittsburgh","15222",-79.993401,40.447525
+"444",443,5251472,"David L. Lawrence Convention Center","Pittsburgh"," 1000 Fort Duquesne Boulevard",-79.995941,40.445377
+"445",444,24003869,"New Hazlett Theater","Pittsburgh"," 6 Allegheny Sq",-80.006554,40.45224
+"446",445,8458692,"The Hop House","Pittsburgh"," 2749 Noblestown Road",-80.066444,40.421051
+"447",446,18288442,"4217 Posvar Hall","Pittsburgh"," The University of Pittsburgh",-79.953972,40.440609
+"448",447,23732286,"2315 Doherty Hall Carnegie Mellon University","Pittsburgh"," 5000 Forbes Ave",-79.942047,40.444118
+"449",448,17316662,"Carnegie Science Center","Pittsburgh"," 1 Allegheny Avenue",-80.017593,40.446014
+"450",449,21508182,"Rum Runners","Pittsburgh"," 3385 Babcock Blvd",-80.021797,40.536888
+"451",450,24051060,"Panera Bread","Pittsburgh"," 136 Bakery Square Blvd",-79.915154,40.456512
+"452",451,4384222,"East Liberty Presbyterian Church","Pittsburgh"," 116 South Highland Avenue",-79.925354,40.460972
+"453",452,1901291,"Market Square","Pittsburgh"," Market Street",-80.003006,40.440025
+"454",453,1212461,"University Club","Pittsburgh"," 123 University Place",-79.956902,40.444099
+"455",454,24137979,"End of Donner Street ","Boston"," Donner Street",-79.827484,40.310974
+"456",455,24035049,"First Baptist Church of Pittsburgh","Pittsburgh"," 159 N Bellefield Ave",-79.952789,40.447842
+"457",456,23834334,"Hartwood Acres","Pittsburgh"," 200 Hartwood Acres",-79.905731,40.565067
+"458",457,1540813,"Cannon Coffee","Pittsburgh"," 802 Brookline Boulevard",-80.020142,40.393463
+"459",458,23968613,"Carnegie Library of Pittsburgh - Main","Pittsburgh"," 4400 Forbes Avenue",0,0
+"460",459,9086712,"Frick Park (Blue Slide Playground)","Squirrel Hill"," Beechwood Blvd & Nicholson St",-79.915207,40.430264
+"461",460,24209316,"Yoga Digs","Pittsburgh"," 993 Greentree Rd. ",-80.045021,40.417686
+"462",461,24187822,"Cathedral of Learning Commons","Pittsburgh"," The University of Pittsburgh",-79.953171,40.444256
+"463",462,23587569,"105 Mervis Hall Kartz Business School","Pittsburgh"," The University of Pittsburgh",-79.953972,40.440609
+"464",463,23815072,"Joe\'s Bar and Grill","West Mifflin"," 4814 Buttermilk Hollow Rd",-79.909576,40.358185
+"465",464,23583880,"Sampson\'s Mills Presbyterian Church","White Oak"," 1665 Lincoln Way",-79.815643,40.345718
+"466",465,23765536,"Biddle\'s Escape","Pittsburgh"," 401 Biddle Ave (Regent Square) 15221",0,0
+"467",466,8438002,"North Park Pigeon Shelter","Allison Park"," McKinney Rd",-80.02826,40.61394
+"468",467,10872092,"RAMADA GREENSBURG HOTEL AND CONFERENCE CENTER","Greensburg"," 100 Ramada Inn Drive",-79.538925,40.301456
+"469",468,23752694,"Carnegie Library of Pittsburgh - Main","Pittsburgh"," 4400 Forbes Avenue",-79.948845,40.443424
+"470",469,5159022,"Alumni Concert Hall Carnegie Mellon University","Pittsburgh"," Carnegie Mellon U",-79.945038,40.444664
+"471",470,24095211,"North Park Parish Hill Shelter","Allison Park"," Walter Road",-80.01492,40.60237
+"472",471,24065051,"332 Cathedral of Learning","Pittsburgh"," The University of Pittsburgh",-79.953972,40.440609
+"473",472,23972671,"Parish Hill","Pittsburgh"," North Park",-80.01491,40.60234
+"474",473,24095286,"The Waterfront","Pittsburgh"," 185 W. Waterfront Drive Homestead PA 15120",-79.918137,40.408905
+"475",474,965994,"Pittsburgh Zoo and PPG Aquarium","Pittsburgh"," One Wild Place",-79.920021,40.483208
+"476",475,6466802,"Sidelines Bar & Grill","Pittsburgh"," 621 Evergreen Avenue",-79.972321,40.485489
+"477",476,23603543,"Sparkledragon\'s Magical Emporium","Pittsburgh"," 2120 Broadway Ave",-80.033188,40.404533
+"478",477,24057042,"129 Victoria Hall","Pittsburgh"," The University of Pittsburgh",0,0
+"479",478,1321213,"Lakeview Grove-North Park","Allison Park"," North Ridge Lane ",-80.006732,40.608727
+"480",479,5184822,"James Street Gastropub & Speakeasy","Pittsburgh"," 422 Foreland Street",-80.000999,40.454327
+"481",480,20785402,"City Theatre","Pittsburgh"," 1300 Bingham St",-79.985237,40.429359
+"482",481,18206022,"Winchester Thurston School","Pittsburgh"," 555 Morewood Ave",-79.943138,40.451195
+"483",482,24110221,"Market Street Grocery","Pittsburgh"," 435 Market Street",-80.00248,40.441196
+"484",483,1435867,"Cattivo","Pittsburgh"," 146 44th. St.",-79.961687,40.472509
+"485",484,9877242,"Carnegie Library of Pittsburgh - Brookline Branch","Pittsburgh"," 708 Brookline Boulevard",-80.021362,40.394524
+"486",485,24173444,"Carnegie Library of Pittsburgh - Beechview","Pittsburgh"," 1910 Broadway Avenue",-80.02774,40.407024
+"487",486,684981,"Carnegie Library Main (Oakland)","Pittsburgh"," 4400 Forbes Ave",-79.949267,40.444139
+"488",487,24065228,"McKean Lot","Pittsburgh"," 5050 Liberty Avenue",-79.944336,40.459099
+"489",488,23974939,"Carnegie Library of Pittsburgh - East Liberty","Pittsburgh"," 130 S Whitfield St",-79.926414,40.460835
+"490",489,9846542,"Commons Room Cathedral of Learning","Pittsburgh"," The University of Pittsburgh",-79.959839,40.444595
+"491",490,6394202,"Rachel Carson Trail","Near Pittsburgh"," Different start points",-79.995888,40.440624
+"492",491,23718869,"Ballroom A University Club","Pittsburgh"," 123 University Place",-79.956894,40.444096
+"493",492,24040705,"Neu Kirche Contemporary Art Center","Pittsburgh"," 1000 Madison Avenue",-79.99762,40.456715
+"494",493,24187818,"Pitt Nationality Rooms","Pittsburgh"," The University of Pittsburgh",-79.953171,40.444256
+"495",494,19960802,"Hitchhiker Brewing Company","Mount Lebanon"," 190 Castle Shannon Boulevard",-80.040382,40.377621
+"496",495,23961905,"Voodoo Brewery","Homestead"," 205 E 9th Ave",-79.909836,40.406574
+"497",496,24071693,"Eat \'N Park - Waterworks/Aspinwall","Pittsburgh"," 849 Freeport Rd",-79.891792,40.48703
+"498",497,18508412,"Lower Lounge William Pitt Union","Pittsburgh"," The University of Pittsburgh",-79.953972,40.440609
+"499",498,24028053,"CLP-Woods Run","Pittsburgh"," 1201 Woods Run Ave.",-80.030357,40.476238
+"500",499,13446692,"Rodef Shalom Congregation","Pittsburgh"," 4905 Fifth Avenue",-79.943314,40.44796
+"501",500,18975172,"Cranberry Sports Grille","Cranberry Twp"," 1294 Freedom Rd",-80.110771,40.68462
+"502",501,881726,"Rock Bottom Brewery & Restaurant","Homestead"," 171 E. Bridge St.",-79.918668,40.407738
+"503",502,23946691,"Nicky\'s Thai Kitchen","Pittsburgh"," 856 Western Ave",-80.016182,40.452099
+"504",503,23954718,"monroeville public library","Monroeville"," 4000 Gateway Campus Blvd.",-79.755966,40.429394
+"505",504,23967017,"Church Brew Works","Pittsburgh"," 3525 Liberty Ave",-79.964394,40.46244
+"506",505,23985730,"Flagstaff Hill","Pittsburgh"," Schenley Park",-79.949791,40.434441
+"507",506,19946762,"Patron Mexican Grill","Pittsburgh"," 135 S Highland Ave",-79.924995,40.460056
+"508",507,12458192,"Dorba Tea","Pittsburgh"," 1937 Murray Avenue",-79.922806,40.434963
+"509",508,16657262,"Naya Cuisine","Pittsburgh"," 2018 Murray Ave",-79.923012,40.434193
+"510",509,1261943,"Silk Elephant Restaurant","Pittsburgh"," 1712 Murray Avenue",-79.922972,40.437581
+"511",510,24009426,"The Yard Gastropub","Pittsburgh"," 736 Bellefonte St",-79.934036,40.451477
+"512",511,1063928,"Hough\'s Sports Bar","Pittsburgh"," 563 Greenfield Ave",-79.940277,40.426213
+"513",512,359436,"Market Square","Pittsburgh"," 5 Market Square",-80.002556,40.440346
+"514",513,19592112,"Edgeworth Club","Sewickley"," 511 East Dr",-80.18721,40.54636
+"515",514,19772992,"Moon Run Fire Company","Pittsburgh"," 5624 Steubenville Pike",-80.11705,40.45023
+"516",515,997536,"Millvale River Front Park","Millvale"," 70 River Front Drive",-79.971167,40.473103
+"517",516,1038240,"Panera Bread (Shadyside)","Pittsburgh"," 5430 Centre Avenue",-79.937332,40.456172
+"518",517,10964302,"James Street Gastropub & Speakeasy","Pittsburgh"," 422 Foreland Street",-80.001251,40.454563
+"519",518,698205,"Carnegie Museum of Art and Natural History","Pittsburgh"," 4400 Forbes Ave",-79.949265,40.444138
+"520",519,793132,"The Royal Place","Pittsburgh"," 2660 Library Rd",-80.001712,40.379138
+"521",520,14057742,"The Beer Market","Pittsburgh"," 110 Federal Street",-80.003983,40.44796
+"522",521,7105872,"Westwood Golf Club","West Mifflin"," 825 Commonwealth Avenue",-79.882477,40.376675
+"523",522,4452202,"Phipps Conservatory","Pittsburgh"," 1 Schenley Drive",-79.947487,40.439091
+"524",523,24215580,"Baden American Legion ","Baden"," 271 State Street ",-80.323013,40.687176
+"525",524,24053220,"Wigle Whiskey Barrelhouse","Pittsburgh"," 1055 Spring Garden Ave",-79.993423,40.459293
+"526",525,10685832,"The Sports Grille at Cranberry","Cranberry"," 1294 Freedom Road",-80.110649,40.684097
+"527",526,7557902,"Comtra Theatre","Cranberry Twp"," 20540 Rte 19",-80.103912,40.713955
+"528",527,23614232,"Spoonwood Brewing Company ","Bethel Park"," 5981 Baptist Road",-80.01411,40.34528
+"529",528,8526282,"Hard Rock Cafe"," Pittsburgh 15219"," 230 W. Station Square Drive",-80.005005,40.433884
+"530",529,15833482,"China Buffet King","Pittsburgh"," 2249 Noblestown Road",-80.05249,40.428593
+"531",530,24143888,"Taglio Pizza","Pittsburgh"," 123 S Highland Avenue",-79.924911,40.460789
+"532",531,1703991,"Kennywood Park","West Mifflin"," 4800 Kennywood Blvd",-79.866249,40.387749
+"533",532,18634442,"Club Cafe","Pittsburgh"," 56 S 12th St",-79.986404,40.428963
+"534",533,23538896,"Bellefield Hall","Pittsburgh"," 315 S. Bellefield Ave",-79.95134,40.4454
+"535",534,23994157,"Waterworks Cinemas","Pittsburgh"," 923 Freeport Road",-79.888931,40.486702
+"536",535,13214112,"The Hardware Store","Pittsburgh"," 744 E. Warrington Ave. ",-79.99408,40.421764
+"537",536,1003830,"Fox Chapel Yacht Club - Baja Bar and Grill","Pittsburgh"," 1366 Old Freeport Road",-79.877235,40.486952
+"538",537,1286898,"Cedar Creek Park ","Belle Vernon"," 305 Port Royal Drive",-79.797353,40.168537
+"539",538,18940752,"Pittsburgh Dance Center","Pittsburgh"," 4765 Liberty Avenue",-79.947533,40.461189
+"540",539,16873602,"Carnegie Science Center","Pittsburgh"," 1 Allegheny Avenue",-80.018097,40.445675
+"541",540,24031310,"Village Tavern and Trattoria","Pittsburgh"," 424 S Main St",-80.033798,40.441303
+"542",541,20434812,"Monroeville Convention Center","Monroeville 15146"," 209 Mall Plaza Boulevard",-79.789192,40.433418
+"543",542,23989632,"Oxford Athletic Club","Wexford"," 100 Village Club Dr",-80.050629,40.632927
+"544",543,24072615,"Double Wide Grill","Pittsburgh"," 100 Adams Shoppes Mars PA 16046",-80.056427,40.687416
+"545",544,18064542,"Rivers Casino","Pittsburgh"," 777 Casino Dr",-80.020859,40.447392
+"546",545,1156895,"Frick Park Blue Slide Playground Entrance","Pittsburgh"," 2005 Beechwood Boulevard",-79.908868,40.436302
+"547",546,1139555,"Bricolage","Pittsburgh"," 937 Liberty Avenue",-79.996664,40.443377
+"548",547,24092916,"Salvation Army Community Center","Pittsburgh"," 1060 McNeilly Road",-80.026253,40.389313
+"549",548,718429,"Starlite","Blawnox"," Freeport Rd",-79.860798,40.494005
+"550",549,882044,"Carnegie Library Squirrel Hill","Pittsburgh"," 5801 Forbes Avenue",-79.922536,40.438137
+"551",550,19383442,"Max's Allegheny Tavern","Pittsburgh"," 537 Suismon St",-79.999733,40.455265
+"552",551,3293682,"Kiku Japanese Restaurant","Pittsburgh"," 225 West Station Square Drive",-80.005051,40.433773
+"553",552,1565820,"Eliza Furnace Trail Parking Lot","Pittsburgh"," Eliza Furnace Trail",-79.953394,40.4261
+"554",553,1547551,"Liberty Elementary School","Pittsburgh"," 601 Filbert Street",-79.933609,40.453491
+"555",554,2265061,"Giant Eagle","Pittsburgh"," 2021 Wharton St",-79.977776,40.432045
+"556",555,24022132,"Innovu LLC","Pittsburgh"," 100 West Station Square Dr. Suite 500 (Landmarks Building)",-80.003815,40.433418
+"557",556,1685281,"Matrix Solutions LLC","Pittsburgh"," 901 Pennsylvania Avenue",-80.018265,40.455486
+"558",557,11287412,"Branding Brand","Pittsburgh"," 2313 E. Carson St. Suite 100",-79.972458,40.428406
+"559",558,14677392,"updog yoga studio","Bridgeville"," 1840 Mayview Road",-80.118187,40.318474
+"560",559,23992513,"Passive Park","Dormont "," Intersection of West Liberty and Hillsdale Aves",-80.036407,40.393459
+"561",560,24105991,"Fox Chapel Area High School (OUTSIDE in front of the administrative entrance door","Pittsburgh"," 611 Field Club Road",-79.86805,40.518475
+"562",561,10105052,"North Park Pie Traynor Field Parking lot","Allison Park"," 40.58746 -79.99034",-79.94426,40.60347
+"563",562,17154352,"Carnegie Library Squirrel Hill Room B","Pittsburgh"," 5801 Forbes Avenue",-79.922546,40.438122
+"564",563,23866835,"The Pittsburgh Art Of Living Center ","Verona"," 722 Allegheny River Boulevard 15147",-79.843361,40.505508
+"565",564,12153052,"Room A Carnegie library of Pittsburgh Squirrel Hill","5801 Forbes Avenue Pittsburgh"," Carnegie library of Pittsburgh - Squirrel Hill Branch",-79.922661,40.438526
+"566",565,23560271,"Bridge Coworking","Pittsburgh"," 4141 Brownsville Road Suite 5",-79.982224,40.365257
+"567",566,3343672,"Hoss's Steak & Sea House","Murrysville"," 4813 William Penn Highway",-79.663353,40.422981
+"568",567,3128631,"Grace Episcopal Church","Pittsburgh"," 319 West Sycamore Street",-80.011368,40.432426
+"569",568,24064407,"Braddock\'s American Brasserie","Pittsburgh"," 107 6th St",-80.002586,40.443668
+"570",569,874396,"Harris Grill","Pittsburgh"," 5747 Ellsworth Ave ",-79.931259,40.455925
+"571",570,3780152,"Local Bar + Kitchen","Pittsburgh"," 1515 East Carson Street",-79.982803,40.429001
+"572",571,20537552,"Marty\'s Market","Pittsburgh"," 2301 Smallman St",-79.982162,40.45359
+"573",572,6014232,"Friends House","Pittsburgh"," 4836 Ellsworth Avenue",-79.945808,40.449139
+"574",573,24110127,"Burgatory","Murrysville"," 100 Blue Spruce Way",-79.700874,40.427315
+"575",574,1318251,"Nesbit's Lanes","Pittsburgh"," 3501 Leechburg Rd",-79.763651,40.504942
+"576",575,19523112,"The Wooden Door Winery","New Kensington"," 4087 Greenwood Rd",-79.677574,40.60037
+"577",576,377249,"Bella Luna Trattoria","Monroeville"," 5060 William Penn Hwy",-79.70598,40.428116
+"578",577,23977888,"Mike\'s Place","Pittsburgh"," Mt. Washington ",-80.010666,40.426743
+"579",578,5881012,"The Wolfe Den","Imperial"," 3544 Fox Chase Dr",-80.21978,40.451031
+"580",579,4230082,"Monroeville Convention Center","Monroeville"," 209 Mall Boulevard",-79.790154,40.432671
+"581",580,13127742,"Beach at Raccoon Creek State Park","Clinton"," Raccoon Park Road (Between Roadside East and Boat Rental Area",-80.40253,40.502163
+"582",581,8061402,"Kelly's Irish Pub","Bridgewater"," 1458 Riverside Drive",-80.299126,40.710629
+"583",582,24178750,"Beaver Heritage Museum","Beaver"," 1 River Road",-80.296135,40.696785
+"584",583,11030052,"Raccoon Creek State Park","Hookstown"," 3000 Pennsylvania 18",-80.42531,40.503017
+"585",584,5473912,"Sewickley Public Library","Sewickley"," 500 Thorn Street",-80.181492,40.538679
+"586",585,10168912,"Mt. Lebanon Public Library","Pittsburgh"," 16 Castle Shannon Blvd",-80.045264,40.377009
+"587",586,5137982,"Fox Chapel","Fox Chapel"," Boyd Community Center",-79.879773,40.513402
+"588",587,12238522,"Little Lake Theatre","Canonsburg"," 500 Lakeside Drive",-80.132675,40.267925
+"589",588,8602502,"Bravo! Cucina Italiana","Pittsburgh"," 1500 Washington Road",-80.050346,40.357605
+"590",589,23813042,"Lake Little Theatre","Canonsburg"," 500 Lakeside Dr",-80.133003,40.269016
+"591",590,1279190,"Bob Evans","Bridgeville"," 1025 WASHINGTON PIKE",-80.107028,40.366028
+"592",591,16280402,"The Meadows Racetrack & Casino","Washington"," 210 Racetrack Road",-80.202484,40.220531
+"593",592,23680042,"Galleria","Pittsburgh"," 1500 Washington Rd",-80.05043,40.356956
+"594",593,1104022,"Bethel Park Community Center ","Bethel Park"," 5151 Park Avenue",-80.029228,40.331112
+"595",594,7999232,"Trinity Christian School","Forest Hillls"," 299 Ridge Avenue",-79.854491,40.427481
+"596",595,2570651,"Beulah Presbyterian Church","Pittsburgh"," 2500 McCrady Road",-79.847076,40.446053
+"597",596,1005490,"Cranberry Community Park","Cranberry Twp"," Ernie Mashuda Dr ",-80.107038,40.711842
+"598",597,24152647,"Upper St Clair Tennis Court","Pittsburgh"," 1750 McLaughlin Run Rd",-80.078514,40.339947
+"599",598,23471156,"Mt Lebanon Tennis Center","Pittsburgh"," 900 Cedar Blvd",-80.057274,40.374264
+"600",599,1787541,"Moore Park","Pittsburgh"," 1900 block of Pioneer Ave",-80.015526,40.403713
+"601",600,216309,"Forward Lanes","Pittsburgh"," 5844 Forward Ave",-79.92202,40.42939
+"602",601,23628270,"Spaghetti Warehouse","Pittsburgh"," 2601 Smallman St",-79.979485,40.455452
+"603",602,23810448,"Highland Park Tennis Courts","Pittsburgh"," 6798 Stanton Ave",-79.910736,40.475098
+"604",603,987285,"Bangkok Balcony","Pittsburgh"," 5846 Forbes Ave. Squirrel Hill",-79.921325,40.437857
+"605",604,7249992,"Google Pittsburgh","Pittsburgh"," 6425 Penn Avenue #700",-79.916824,40.457195
+"606",605,10633072,"IBM Squirrel Hill","Pittsburgh"," 1710 Murray Avenue",-79.92305,40.437515
+"607",606,23562219,"Cool Springs Sports Complex","Pittsburgh"," 1530 Hamilton Rd",-80.014275,40.352734
+"608",607,10573372,"Buckhead Saloon","Pittsburgh"," 225 West Station Square Drive",-79.995888,40.440624
+"609",608,6783622,"Monroeville Sports Center","Monroeville"," 855 MacBeth Dr",-79.755844,40.425426
+"610",609,20661892,"L.L.Bean Store at Ross Park Mall","Pittsburgh"," 1000 Ross Park Mall Drive",-80.00944,40.542656
+"611",610,10077362,"Pie Traynor Field Parking Lot","Allison Park"," S Ridge Rd",-80.00666,40.588665
+"612",611,15991352,"Allegheny Station T-Stop","Pittsburgh"," North Shore Drive",-80.01789,40.448063
+"613",612,24179271,"L.L.Bean Trailer at North Park Lake","Pittsburgh"," Corner of Pearce Mill Road and Babcock Blvd.",-79.996948,40.597492
+"614",613,14648632,"Hartwood Acres Park - Middle Road Parking Lot","Allison Park"," Intersection of Middle Rd and Woodland Rd",-79.92728,40.570587
+"615",614,12822202,"Millvale Riverfront Park","Pittsburgh"," 70 River Front Drive",-79.97268,40.471233
+"616",615,1419284,"Carson Street Deli","Pittsburgh"," 1507 E Carson St",-79.983063,40.428852
+"617",616,3668172,"The BeerHive","Pittsburgh"," 2117 Penn Avenue",-79.98274,40.452087
+"618",617,21814002,"Panera Bread - Bakery Square","Pittsburgh"," 136 Bakery Square Blvd (aka 6425 Penn Ave)",-79.915108,40.456543
+"619",618,21861202,"Panera Bread #4344 136 Bakery Square","Pittsburgh"," (aka 6425 Penn Ave)",-79.997467,40.438339
+"620",619,6682462,"Sri Yantra Yoga LLC","Houston"," 10 Cherry Ave",-80.208757,40.250741
+"621",620,734936,"Riverview Park","Pittsburgh"," Riverview Ave",-80.019478,40.48073
+"622",621,7282662,"Monroeville Sports Center","Monroeville"," 855 MacBeth Dr",-79.755844,40.425426
+"623",622,24093935,"Cool Springs","Bethel Park"," 1530 Hamilton Rd. ",-80.014656,40.354115
+"624",623,24030089,"Tessaro's ","Pittsburgh"," 4601 Liberty Avenue",-79.950638,40.462788
+"625",624,10794842,"Smokey Bones ","Tarentum"," 1030 Pittsburgh Mills Boulevard",-79.799576,40.570499
+"626",625,1478030,"Cranberry Cinema","Cranberry Township"," 20111 Route 19 ",-80.106137,40.683956
+"627",626,24031921,"Curry On Murray","Pittsburgh"," 2121 Murray Ave",-79.923035,40.433144
+"628",627,24064024,"Pittsburgh Playhouse","Pittsburgh"," 222 Craft Ave",-79.962624,40.436722
+"629",628,730778,"Penn Brewery","Pittsburgh"," 800 Vinial St",-79.991354,40.456737
+"630",629,23698306,"Cinemark North Hills and XD McCandless Crossings RT 19","Pittsburgh"," 851 Providence Blvd",-80.087639,40.37714
+"631",630,946879,"Green Forest Cafe Brazilian Resaurant and Lounge","Penn Hills "," 655 Rodi Road",-79.827838,40.446745
+"632",631,758454,"Cinemagic Manor Theater","Pittsburgh"," 1729 Murray Ave",-79.922964,40.437173
+"633",632,1371207,"Cinemark 18 - Pittsburgh Mills Mall","Tarentum"," 425 Pittsburgh Mills Circle",-79.7965,40.573616
+"634",633,24176933,"Olive Garden","Tarentum Pa. 15084"," 1010 Pittsburgh Mills Blvd.",-79.798615,40.570087
+"635",634,10380362,"Roland's Seafood Grill & Iron Landing","Pittsburgh"," 1904 Penn Avenue",-79.984444,40.450714
+"636",635,5446872,"Pittsburgh Zoo","Pittsburgh"," 1 Wild Place",-79.920517,40.483517
+"637",636,11333962,"21st Street Coffee and Tea","Pittsburgh"," 2002 Smallman St",-79.984444,40.451702
+"638",637,6743682,"The Porch","Pittsburgh"," 221 Schenley Drive",-79.953224,40.442894
+"639",638,8990902,"Pittsburgh Technology Council","Pittsburgh"," 2000 Technology Drive #100",-79.970299,40.434158
+"640",639,8110922,"Microsoft Corporation","Pittsburgh"," 30 Isabella St # 202",-80.003136,40.448093
+"641",640,13426032,"Lisa and Alex\'s home","Pittsburgh"," 5848 Aylesboro Avenue",-79.921173,40.439598
+"642",641,1043807,"Crazy Mocha","Pittsburgh"," 2100 Murray Ave",-79.923204,40.433531
+"643",642,9870632,"Skibo Gymnasium","Pittsburgh"," 5098 Tech Street",-79.941574,40.441753
+"644",643,21675962,"CEI Headquarters","Pittsburgh"," 1000 Omega Drive Suite 1150",-80.123016,40.446457
+"645",644,8708152,"Microsoft Corporation","Pittsburgh"," 30 Isabella St # 202",-80.003136,40.448093
+"646",645,19548532,"Jacktown Ride and Hunt Club","Irwin"," 11369 Center Hwy",-79.733032,40.3297
+"647",646,24110688,"Beaver Area Memorial Library","Beaver"," 100 College Avenue",-80.301956,40.692268
+"648",647,8986742,"Holistic Approach 4 Life","Bridgeville"," 850 Boyce Road Suite 10",-80.12561,40.328297
+"649",648,23727288,"Sparkledragon\'s Magical Emporium","Pittsburgh"," 2120 Broadway Ave",-80.033188,40.404533
+"650",649,24011787,"Giant Eagle","Bridgeville"," 3029 Washington Pike",-80.114914,40.353077
+"651",650,24030662,"Cestone's Pizzeria","Pittsburgh"," 200 Virginia Ave",-80.009666,40.430691
+"652",651,11918682,"From Italy","Springdale"," 1115 Lincoln Avenue",-79.772186,40.543003
+"653",652,743063,"Church Brew Works","Pittsburgh"," 3525 Liberty Ave",-79.964433,40.462031
+"654",653,1385707,"Village Tavern and Trattoria","Pittsburgh"," 424 South Main St",-80.033824,40.441315
+"655",654,9664422,"Mineo's Pizza House","Pittsburgh"," 2128 Murray Avenue",-79.92318,40.432911
+"656",655,8695512,"Grazie Restaurant & Event Center","Wexford"," 100 Village Club Dr",-80.050583,40.633961
+"657",656,24122800,"Pine Creek Golf Center","Pittsburgh"," 2379 Duncan Avenue",-79.971947,40.565361
+"658",657,16800842,"Christina\'s Restaurant","White Oak"," 3017 Jacks Run Road",-79.792244,40.347141
+"659",658,21072182,"Eat\'n Park","Pittsburgh"," 245 East Waterfront Drive Homestead PA 15120",0,0
+"660",659,967422,"North Versailles Bowling Center","North Versailles"," 356 Lincoln Highway",-79.818502,40.381905
+"661",660,1554285,"102 Benedum Hall (Pitt Campus)","Pittsburgh"," O'Hara St",-79.958138,40.44442
+"662",661,7693062,"Dove of Light Healing Ministry","Belle Vernon"," 434 Matty Drive",-79.794983,40.154251
+"663",662,813884,"Getaway Cafe","Pittsburgh"," 3049 Sussex Ave",-80.015935,40.384331
+"664",663,1298604,"West View VFW","West View "," 386 Perry Highway",-80.030284,40.517697
+"665",664,21312402,"Mt. Lebanon Public Library","Mt Lebanon Township"," 16 Castle Shannon Blvd",-80.045219,40.377373
+"666",665,22944652,"Dorothy 6 Blast Furnace Cafe","Homestead"," 224 E Eighth Avenue",-79.909813,40.407272
+"667",666,19036582,"Chatham Village Clubhouse","Pittsburgh"," 655 Pennridge Road",-80.017258,40.428551
+"668",667,24005295,"Unitarian Universalist Church of The South Hills","Pittsburgh"," 1240 Washington Rd",-80.048317,40.365284
+"669",668,24131592,"Monroeville Community Park East","Monroeville"," 100 Airport Drive",-79.763924,40.414619
+"670",669,710425,"Mario's Southside Saloon","Pittsburgh"," 1510 E Carson St",-79.983083,40.428711
+"671",670,23973281,"Spirit","Pittsburgh"," 242 51st St",-79.956619,40.478809
+"672",671,19821872,"DoubleTree by Hilton Hotel and Suites Pittsburgh Downtown","Pittsburgh"," 1 Bigelow Sq",-79.994057,40.44138
+"673",672,22404122,"Summa","Pittsburgh"," 5933 Baum Blvd",-79.926735,40.460442
+"674",673,9480822,"Eat N Park ","Pittsburgh"," 100 Park Manor Dr. Pittsburgh PA",-80.163345,40.4492
+"675",674,17499502,"Cavo","Pittsburgh"," 1916 Smallman St",-79.985107,40.451435
+"676",675,24173562,"Phipps Center for Sustainable Landscapes","Pittsburgh"," One Schenley Park",-79.946205,40.431831
+"677",676,3915832,"Mediterrano","Pittsburgh"," 2193 Babcock Blvd",-79.993324,40.510326
+"678",677,5558282,"Roland's Seafood Grill","Pittsburgh"," 1904 Penn Avenue",-79.984444,40.450714
+"679",678,3526612,"Max\'s Allegheny Tavern","Pittsburgh"," 537 Suismon Street",-79.999817,40.455166
+"680",679,22493332,"North Park Roosevelt Grove ","Pittsburgh"," Walters Road",-79.976982,40.498138
+"681",680,16422752,"Walnut Grill ","Bridgeville"," 1595 Washington Pike",-80.094559,40.382366
+"682",681,23850121,"Myers Coach Lines","Export"," 2001 Ball Park Ct",-79.601257,40.416584
+"683",682,5092312,"Lenzner Coach Lines/Coach USA","Sewickley"," 110 Lenzner Court",-80.107658,40.553963
+"684",683,24060473,"Pittsburgh Botanic Garden","Oakdale"," 798 Pinkerton Run Rd",-80.174637,40.422901
+"685",684,23699006,"Craig's house","Pittsburgh"," 1307 Roosevelt Road",-80.096405,40.54076
+"686",685,23834440,"the big green park on W. North Ave across from Buena Vista Street","Northside Pittsburgh 15212"," W. North Avenue",0,0
+"687",686,23823751,"Beaver Area High School","Beaver"," 1 Gypsy Glen Rd",-80.317322,40.697281
+"688",687,23930415,"North Park Boathouse","Allison Park"," Pierce Mill Road",-80.00731,40.604774
+"689",688,1126022,"Lincoln Park Performing Arts Center","Midland"," One Lincoln Park",-79.87302,40.43785
+"690",689,18212122,"Carnegie Coffee Company","Carnegie"," 132 E Main St",-80.085976,40.407932
+"691",690,24063814,"Looking for Group Pittsburgh","Pittsburgh"," 924 Brookline Boulevard",-80.01865,40.392372
+"692",691,18585502,"Sri Yantra Yoga Studio","Houston"," 10 N. Cherry Ave Floor 2 Suite 200",0,0
+"693",692,15849842,"Penn Hebron Garden Club- Morrow Barn","Penn Hills 15235"," 237 Jefferson Rd.",-79.822182,40.463753
+"694",693,1270951,"Barnes and Noble ","Pittsburgh "," 800 Settlers Ridge Center Drive",-80.157709,40.454458
+"695",694,16805932,"Barnes & Noble","Cranberry Township"," 1000 Cranberry Square Drive",-80.105179,40.690861
+"696",695,1553485,"Carnegie Science Center","Pittsburgh"," 1 Allegheny Square",-80.00345,40.452234
+"697",696,22862182,"TechShop Pittsburgh","Pittsburgh"," 192 Bakery Square Blvd",-79.915764,40.456928
+"698",697,24104204,"King's Restaurant","Wexford"," 105 VIP Drive",-80.094025,40.617184
+"699",698,1486131,"Westmoreland Museum of American Art","Greensburg"," 221 North Main Street",-79.544876,40.305862
+"700",699,12886872,"Penn Area Library","Harrison City"," 2001 Municipal Court",-79.651054,40.357426
+"701",700,420074,"Duff Park","Murrysville"," 4528 School Rd. S.",-79.668866,40.422007
+"702",701,23930204,"Falling Water","Mill Run"," 1491 Mill Run Road Mill Run PA 15464",0,0
+"703",702,14719302,"Omnyx Office","Pittsburgh"," 1251 Waterfront Place Pittsburgh (Seagate Building) 2nd Floor",-79.992393,40.447727
+"704",703,8383092,"Schenley Park Cafe","Pittsburgh"," 101 Panther Hollow Road",-79.946861,40.438229
+"705",704,16071262,"Magee-Womens Hospital Auditorium Level Zero","Pittsburgh"," 300 Halket Street",-79.953354,40.434307
+"706",705,13180942,"Magee-Womens Hospital of UPMC Suite 5600","Pittsburgh"," 300 Halket Street",-79.960396,40.437542
+"707",706,23714193,"Laird Hall","Murrysville"," 3202 North Hills Road",-79.694237,40.428642
+"708",707,13267712,"Home Economics Building South Park","South Park Township "," 3735 Buffalo Drive",-79.995827,40.305035
+"709",708,22252282,"Eastminster Presbyterian Church","Pittsburgh"," 250 N Highland Ave",-79.923729,40.463379
+"710",709,24175456,"Work Hard Pittsburgh","Pittsburgh 15210"," 744 E. Warrington Ave. ",-79.994102,40.421631
+"711",710,24008943,"McCormick & Schmick's Seafood & Steaks","Pittsburgh"," 2667 Sidney St",-79.966484,40.428139
+"712",711,24086891,"PAN RESTAURANT ","Pittsburgh"," 3519 Butler St ",-79.966164,40.464569
+"713",712,1616391,"Steel City Steak House","Monroeville"," 2125 Mosside Boulevard",-79.769241,40.397785
+"714",713,16815882,"Emilia's Garden","Cheswick"," 702 Gulf Lab Road",-79.820549,40.5462
+"715",714,715722,"Cafe on Main","Pittsburgh"," 914 Main St",-79.933078,40.494775
+"716",715,13375122,"PLUM Pan Asian Kitchen","Pittsburgh"," 5996 Penn Circle South",-79.925606,40.459621
+"717",716,23946214,"BJ\'s Restaurant & Brewhouse","Mccandless"," 8970 Covenant Ave",-80.073578,40.37471
+"718",717,24029281,"First United Methodist Church of Pittsburgh","Pittsburgh"," 5401 Centre Ave",-79.938301,40.4561
+"719",718,13391152,"Schenley Oval","Pittsburgh"," Schenley Oval (within Schenley Park)",-79.949791,40.434441
+"720",719,16710822,"Sichuan Gourmet","Pittsburgh"," 1900 Murray Avenue",-79.923264,40.43586
+"721",720,24063400,"Pittsburgh Chinese Church Oakland","Pittsburgh"," 134 N Dithridge St",-79.95067,40.447826
+"722",721,23980769,"Schenley Park Tennis Courts","Pittsburgh"," Overlook Dr Pittsburgh PA 15207",-79.94198,40.43277
+"723",722,8474052,"Altar Bar","Pittsburgh"," 1620 Penn Avenue",-79.866821,40.442959
+"724",723,1525133,"Stage AE","Pittsburgh"," 400 North Shore Drive",-80.01136,40.445915
+"725",724,19520582,"School of Information Sciences University of Pittsburgh","Pittsburgh"," 135 North Bellefield Avenue",-79.952347,40.447372
+"726",725,24086688,"Microsoft Corporation","Pittsburgh"," 30 Isabella St # 202",-80.003136,40.448093
+"727",726,24115582,"Bantha Tea Bar","Pittsburgh"," 5002 Penn Ave",-79.943947,40.464886
+"728",727,15717312,"Tea Pittsburgh Margaret's Fine Imports","Pittsburgh"," 5872 Forbes Avenue",-79.920235,40.437939
+"729",728,24028070,"The Betsy's Shoppe (formerly The Boston Shoppes)","Mckeesport"," 1903 Donner Street",-79.827446,40.310436
+"730",729,14482852,"Margaret's Fine Imports","Pittsburgh"," 5872 Forbes Ave.",-79.920235,40.437939
+"731",730,20727282,"Hartwood Acres","Pittsburgh"," 200 Hartwood Acres 15238",-79.905777,40.565037
+"732",731,765794,"Carnegie Library - East Liberty","Pittsburgh"," 130 S Whitfield St",-79.926158,40.461067
+"733",732,23047182,"social","Pittsburgh"," 6425 penn ave",-79.915756,40.45705
+"734",733,16092122,"Lighthouse Point. 500 Chapel Harbor Drive. O'Hara Twnshp Pa. 15238","Pittsburgh"," 500 Chapel Harbor Drive. O'Hara Twnshp Pa. 15238",-79.886032,40.485355
+"735",734,23715707,"Riverview Community Action Corporation","Oakmont"," 501 Second Street",-79.84634,40.51794
+"736",735,23279162,"Crazy Mocha Next to Adli on Baum Blvd","Pittsburgh"," 5607 Baum Blvd. ",-79.935402,40.458191
+"737",736,23726186,"Dobra Tea","Pittsburgh"," 1937 Murray Ave",-79.922836,40.435524
+"738",737,24085367,"New Light Congregation","Pittsburgh"," 1700 Beechwood Blvd",-79.916138,40.438007
+"739",738,1403760,"Manchester Craftsmen\'s Guild","Pittsburgh"," 1815 Metropolitan Street",-80.03247,40.457307
+"740",739,15280752,"Panera Bread","Pittsburgh"," 3401 Boulevard of the Allies",-79.958191,40.43631
+"741",740,2962941,"Phipps Conservatory and Botanical Gardens","Pittsburgh"," 1 Schenley Park",-79.94738,40.439167
+"742",741,23570158,"Latitude 360 ","Pittsburgh"," 200 Quinn Dr",-80.178238,40.446812
+"743",742,13777322,"Gooski's","Pittsburgh"," 3117 Brereton Street",-79.966461,40.456776
+"744",743,5685902,"Vincent's of Greentree","Pittsburgh"," 333 Mansfield Avenue",-80.050125,40.421078
+"745",744,10850102,"Bado's Pizza Grill & Ale House","Pittsburgh"," 307 Beverly Road",-80.049744,40.388588
+"746",745,4347322,"The Getaway Cafe","Pittsburgh"," 3049 Sussex Avenue at McNeilly Road 15226",-80.015648,40.384632
+"747",746,18440092,"Andrew Carnegie Free Library & Music Hall","Carnegie"," 300 Beechwood Avenue",-80.085823,40.406994
+"748",747,10221962,"Mt. Lebanon Public Library","Mt Lebanon"," 16 Castle Shannon Boulevard Mount Lebanon Pennsylvania 15228-2252 ",-80.045265,40.37701
+"749",748,12484142,"Squirrel Hill Library","15217"," 5801 Forbes Avenue Pittsburgh PA",-79.922546,40.438122
+"750",749,23791252,"Sue's home/studio","Pittsburgh"," 511 Bevington Road",-79.863716,40.423279
+"751",750,23672637,"Mt. Lebanon Municipal Building ","Pittsburgh"," 710 Washington Road / Right next to Citizens Bank",0,0
+"752",751,23592893,"Pittsburgh Supercomputing Center","Pittsburgh"," 300 South Craig St",-79.94915,40.445522
+"753",752,24053369,"Energy Innovation Center","Pittsburgh"," 1435 Bedford Ave",-79.978348,40.448189
+"754",753,23859888,"Perkins Restaurant","Cranberry Twp"," 20013 Rte 19 ",-80.099838,40.67572
+"755",754,24101137,"My House","Cranberry Twp"," 40 Monmouth Drive",-80.136,40.684155
+"756",755,8402532,"New Dimension Comics Pittsburgh Mills","Tarentum"," Pittsburgh Mills Circle",-79.79837,40.570858
+"757",756,23776162,"Sixth Presbyterian Church","Pittsburgh"," 1688 Murray Ave",-79.922989,40.438274
+"758",757,16974432,"DoubleTree by Hilton Hotel Pittsburgh - Green Tree","Pittsburgh"," 500 Mansfield Avenue",-80.055344,40.419453
+"759",758,17049542,"Quantum Counseling Services","Cranberry Twp"," One Landmark North Suite 205A 20399 Route 19 Brandt Drive",-80.105698,40.692699
+"760",759,20092502,"Springdale United Presbyterian","Springdale"," 859 Pittsburgh St",-79.778358,40.541355
+"761",760,985429,"Greater Pittsburgh Masonic Center","Pittsburgh"," 3579 Masonic Way",-80.143122,40.528487
+"762",761,24143533,"pittsburgh steak company ","Pittsburgh"," 1924 E. Carson St Pittsburgh PA 15203",-79.978096,40.428326
+"763",762,15176822,"Shadyside Nursery","Pittsburgh"," 510 Maryland Avenue ",-79.931236,40.456402
+"764",763,24045667,"Pittsburgh Art Car Festival","Pittsburgh"," 5231 Penn Avenue",-79.938965,40.464603
+"765",764,24113373,"Fred Rogers Memorial Statue","Pittsburgh"," North Shore Drive",-80.013557,40.445286
+"766",765,23725524,"Big Dog Coffee","Pittsburgh"," 2717 Sarah St",-79.966797,40.425774
+"767",766,24004962,"Norwin Art League","Irwin"," 306 Main St.",0,0
+"768",767,23573374,"Revv Oakland","Pittsburgh"," 3710 Forbes Ave",-79.957092,40.441185
+"769",768,24184061,"Private Farm - Sewickley Heights","sewickley"," 1551 camp meeting rd",-80.158226,40.593826
+"770",769,18067952,"En Garde Fencing Club ","Pittsburgh"," 352 Butler Street Etna PA 15223",0,0
+"771",770,445926,"Silvioni's Restaurant (North Hills)","Pittsburgh"," 2125 Babcock Blvd",-79.99313,40.510593
+"772",771,3188191,"Butlers Golf Course","Elizabeth"," 800 Rock Run Road",-79.803024,40.273411
+"773",772,604556,"Birmingham Bridge Tavern","Pittsburgh"," 2901 Sarah Street",-79.964493,40.424572
+"774",773,18043902,"Kings Family Restaurant","Canonsburg"," 580 McClelland Rd",-80.150963,40.256481
+"775",774,20983392,"Eat N Park"," Coraopolis"," 9515 University Blvd",-80.221909,40.502056
+"776",775,23682801,"Market District Express","Mcmurray"," 2840 Washington Rd",-80.09745,40.30378
+"777",776,23747047,"West Newton Lyons Field","West Newton"," 511 Pittsburgh St West Newton PA 15089",0,0
+"778",777,15576512,"Cooper-Siegel Community Library","Pittsburgh"," 403 Fox Chapel Road",-79.87912,40.514935
+"779",778,23940269,"Gluten Free Zone","Murrysville"," 4430 William Penn Hwy",-79.67942,40.426567
+"780",779,19507552,"Uno Chicago Grill","Homestead"," 205 E Waterfront Dr",-79.914215,40.410877
+"781",780,24142718,"Bravo! Cucina Italiana","Pittsburgh"," 211 Summit Park Drive",-80.180611,40.448524
+"782",781,737341,"FunFest Entertainment Center","Pittsburgh"," 2525 Freeport Rd",-79.844237,40.534455
+"783",782,18684512,"BNY Mellon","Pittsburgh"," 525 William Penn Pl - 11th Floor",-79.997711,40.440193
+"784",783,23115352,"Summa","Pittsburgh"," 5933 Baum Blvd",-79.926735,40.460442
+"785",784,20791592,"Google Pittsburgh","Pittsburgh"," 6425 Penn Ave",-79.915756,40.45705
+"786",785,24099388,"OpenArc","Wexford"," 109 VIP Drive #200",-80.093971,40.618092
+"787",786,18765232,"Pittsburgh Bujinkan Dojo","Pittsburgh"," 333 East Carson Street Suite 541B",-79.996834,40.430218
+"788",787,23879781,"River Front Park South Side of Pittsburgh 18th Street","Pittsburgh"," End of 18th by river South Side of Pittsburgh ",-79.997467,40.438339
+"789",788,19036712,"Panera","Pittsburgh"," 3401 Boulevard of the Allies",-79.958084,40.436432
+"790",789,24148171,"Datatel Resources Corporation","Monaca"," 1726 Pennsylvania Ave",-80.271156,40.687164
+"791",790,23548667,"The Lake at Bradys Run Park","Monaca"," 526 Bradys Run Road Beaver Falls PA",0,0
+"792",791,1259672,"Walkers Mill Trailhead","Rennerdale"," Walkers Mill Road",-80.131401,40.395653
+"793",792,1371305,"Montour Trail Mile Zero","Coraopolis"," Great Allegheny Passage",-80.187739,40.458123
+"794",793,24040789,"Beaver County Jail","Aliquippa"," 6000 Woodlawn Rd Ste 2",-80.243172,40.644005
+"795",794,24076709,"GrapeCity","Pittsburgh"," 201 S Highland Ave",-79.924599,40.458836
+"796",795,24064042,"Schell Games","Pittsburgh"," 220 W Station Square Dr # 200",-80.005135,40.4338
+"797",796,23583596,"4moms","Pittsburgh"," 912 Fort Duquesne Blvd",-79.998177,40.444901
+"798",797,23920977,"Code & Supply at Uptown","Pittsburgh"," 544 Miltenberger St",-79.9814,40.437489
+"799",798,24130075,"Looking For Group PGH","Pittsburgh"," 924 Brookline Blvd",-80.018646,40.392372
+"800",799,23477578,"The Cloakroom","Pittsburgh"," 5972 Baum Blvd",-79.92588,40.460598
+"801",800,23668599,"StartUpTown","Pittsburgh"," 544 Miltenberger St.",-79.9814,40.437489
+"802",801,14563582,"Omnyx","Pittsburgh"," 1251 Waterfront Place",-79.992393,40.447727
+"803",802,24175524,"UPMC Enterprises","Pittsburgh"," Bakery Square Suite 200 6425 Penn Avenue ",-79.916458,40.45713
+"804",803,23585852,"M*Modal","Pittsburgh"," 1723 Murray Ave",-79.922913,40.437744
+"805",804,24020323,"Union Pig and Chicken","Pittsburgh"," 220 N Highland Ave",-79.924011,40.4632
+"806",805,24178588,"WorkHardPGH","Pittsburgh"," 744 East Warrington Ave",-79.994102,40.421631
+"807",806,24142553,"First Insight","Warrendale"," 2000 Ericsson Drive Suite 200",-80.098335,40.659328
+"808",807,13063412,"Pugliano's Italian Grill","Pittsburgh"," 1808 Golden Mile Highway",-79.71302,40.447395
+"809",808,19365122,"Performance Bicycle","Pittsburgh"," 6401 Penn Ave",-79.917595,40.458889
+"810",809,24024618," Pgh Thelema","Millevale"," 507 1/2 Grant Ave",-79.974312,40.480503
+"811",810,23551230,"Kickback Pinball Cafe","Pittsburgh"," 4326 Butler St",-79.960182,40.470879
+"812",811,12251082,"Allegheny Center Alliance Church","Pittsburgh"," 250 East Ohio Street",-80.003494,40.453106
+"813",812,1684381,"Uno Chicago Grill","Homestead"," 205 Waterfront Drive East",-79.914375,40.411304
+"814",813,2512221,"Bar Louie","Pittsburgh"," 240 Station Square Drive",-80.005089,40.433796
+"815",814,3813472,"Phipps Conservatory","Pittsburgh"," 1 Shenley Park",-79.939697,40.441898
+"816",815,24060864,"Hofbrauhaus Pittsburgh","Pittsburgh"," 2705 S Water St",-79.964912,40.428665
+"817",816,1051762,"Crazy Mocha Coffee Co","Squirrel Hill"," Corner of Murray Ave and Hobart St",-79.922977,40.433716
+"818",817,19023012,"Future Tenant","Pittsburgh"," 819 Penn Ave",-79.881561,40.44268
+"819",818,688927,"Rolands Seafood Grill","Pittsburgh"," 1904 Penn Ave",-79.984238,40.450736
+"820",819,6534082,"La Casa Narcisi Winery","Gibsonia"," 4578 Gibsonia Rd",-79.89447,40.609432
+"821",820,17808052,"Noodlehead","Pittsburgh"," 242 S Highland Ave",-79.925156,40.457733
+"822",821,23028852,"Cathedral of Learning (by the 1st floor Elevators)","Pittsburgh"," 4200 Fifth Avenue",-79.952599,40.444649
+"823",822,9733902,"Steel Cactus Restaurant & Cantina","Pittsburgh"," 5505 Walnut Street",-79.933571,40.45129
+"824",823,15264082,"Meeting area at Schenley Park Oval Shelter","Pittsburgh"," Overlook Dr.",-79.942162,40.43198
+"825",824,23964852,"James Street Gastropub & Speakeasy","Pittsburgh"," 422 Foreland St.",-80.001251,40.454563
+"826",825,24124887,"Mercurio\'s ","Pittsburgh"," 5523 walnut street ",-79.932846,40.451576
+"827",826,23831383,"Saint Agnes Center of Carlow University","Pittsburgh"," 3333 Fifth Avenue Oakland",-79.962051,40.441551
+"828",827,23727242,"Our Lady of the Angels Parish","Lawrenceville Pittsburgh"," 225 37th Street",-79.963943,40.465851
+"829",828,16628452,"North Park Boathouse","Allison Park"," 10301 Pearce Mill Road",-80.005898,40.605122
+"830",829,22685752,"Soergel Orchards","Wexford"," 2573 Brandt School Rd",-80.090485,40.613869
+"831",830,23132172,"Skibo Small Gym","Pittsburgh"," 5098 Tech Street",-79.941551,40.441628
+"832",831,21497382,"Swisshelm Park Community Center","Pittsburgh"," 1050 Windermere Drive",-79.90132,40.424454
+"833",832,23845040,"Saint Nicholas Cathedral","Pittsburgh"," 419 S Dithridge St",-79.950127,40.444675
+"834",833,24046972,"16th street bridge parking lot","Pittsburgh"," 885 Progress Street",-79.993027,40.452621
+"835",834,10191762,"Squirrel Hill Library ","Pittsburgh"," 5801 Forbes Ave.",-79.922531,40.438118
+"836",835,6673642,"Auditorium - Soldiers And Sailors Memorial Hall","Pittsburgh"," 4141 Fifth Ave.",-79.955551,40.443932
+"837",836,22331022,"Eat and Park","Pittsburgh"," 849 Freeport Road",-79.891792,40.487
+"838",837,23805052,"St. John's Lutheran Church of Highland","Pittsburgh"," 311 Cumberland Rd",-80.033859,40.571995
+"839",838,12703662,"Cadillac Ranch","Pittsburgh"," 1060 Settlers Ridge Center Drive",-80.15062,40.442078
+"840",839,838852,"Panera Bread - Robinson","Pittsburgh"," 250 McHolme Drive",-80.173676,40.449253
+"841",840,725985,"Bahama Breeze","Robinson Township"," Center Ave",-80.090848,40.414105
+"842",841,3170301,"Mario's","Pittsburgh"," 5442 Walnut Street",-79.93399,40.45108
+"843",842,3811682,"Green Pepper","Pittsburgh"," 2020 Murray Ave",-79.923019,40.434151
+"844",843,11282242,"Pittsburgh Zoo & PPG Aquarium","Pittsburgh"," 1 Wild Place",-79.920532,40.483517
+"845",844,20293032,"Gateway Clipper Fleet","Pittsburgh"," 350 W Station Square Dr",-80.007401,40.434921
+"846",845,5251462,"David Lawrence Convention Center Pittsburgh PA 15222","Pittsburgh"," David Lawrence Convention Center Pittsburgh PA 15222",-79.996216,40.445057
+"847",846,23979943,"Homewood Cemetery","Pittsburgh"," 1599 South Dallas St",0,0
+"848",847,24029491,"Mullin\'s Diner","Pittsburgh"," 876 Progress St",-79.99366,40.452461
+"849",848,24038739,"Double Wide Grill","Pittsburgh"," 2339 E Carson St",-79.971336,40.428242
+"850",849,23869891,"Depreciation Lands Museum","Allison Park"," 4743 S Pioneer Rd",-79.948814,40.59502
+"851",850,23571659,"St Paul's United Methodist Church","Allison Park"," 1965 Ferguson Rd",-79.989403,40.563572
+"852",851,15268032,"Holy Trinity Greek Orthodox Church","Pittsburgh"," Babcock Boulevard and Cumberland Road",-80.016374,40.57202
+"853",852,23571645,"shaler public library","Glenshaw"," 1822 Mount Royal Boulevard",-79.964287,40.52829
+"854",853,24108125,"The Firepit","Irwin"," 8933 Route 30",-79.691055,40.32016
+"855",854,24126127,"Madero Cantina","15668"," 4462 William Penn Hwy",-79.674431,40.426163
+"856",855,23794982,"White Rabbit Cafe and Patisserie","Greensburg"," 113 N Main St",-79.544754,40.303875
+"857",856,24004423,"J. Corks","Greensburg"," 25 E Pittsburgh St",-79.543488,40.302612
+"858",857,23558994,"Tapped Brick Oven & Pour House","Greensburg"," 6044 State Route 30",-79.576874,40.305054
+"859",858,24153637,"Cafe Barista","Greensburg"," 7 W Otterman St",-79.544891,40.303452
+"860",859,23904208,"Seven Springs","Champion"," 777 Waterwheel Drive",0,0
+"861",860,12366372,"Westmoreland Museum of American Art","Greensburg"," 221 North Main Street",-79.54493,40.306046
+"862",861,23939260,"Acapulco Mexican Restaurant","Irwin"," 8949 State Route 30",-79.690033,40.319733
+"863",862,18864182,"Panera bread water works plaza","Pittsburgh"," 942 freeport rd",-79.89257,40.48912
+"864",863,23816800,"Carnegie Library of Pittsburgh - Brookline","Pittsburgh"," 708 Brookline Blvd",-80.021233,40.394665
+"865",864,23886672,"Just Ducky Tours","Pittsburgh"," 125 W Station Square Dr",-80.004066,40.433167
+"866",865,23953443,"Eat\'n Park","Pittsburgh"," 301 S Hills Village ",-80.053299,40.34198
+"867",866,23918732,"Bob's Diner","Pittsburgh"," 1230 Grove Rd",-80.013763,40.366123
+"868",867,24098385,"Panera Bread ","Wexford"," 12071 Perry Hwy ",-80.059036,40.632847
+"869",868,24036008,"Katie's","McDonald"," 212 North McDonald Street",0,0
+"870",869,6769182,"Cruze Bar","Pittsburgh"," 1600 Smallman Street",-79.987617,40.449604
+"871",870,10350782,"Rex Theater","Pittsburgh"," 1602 East Carson Street",-79.982414,40.428684
+"872",871,23995006,"Robert's","Pittsburgh Mt Lebanon 15228"," 235 Adeline Ave",-80.037315,40.37833
+"873",872,18711172,"Starbucks at the Waterfront","West Homestead"," 270 West Bridge Street",-79.918564,40.407581
+"874",873,24073797,"Scotts house ","Canonsburg"," 219 Arlington Dr.",-80.150002,40.27
+"875",874,24121398,"Bubba s Gourmet Burghers and Beer","Bridgeville"," 3109 Washington Pike ",-80.111488,40.348499
+"876",875,24151469,"SMOQ Pitt","Pittsburgh"," 600 Brookline Blvd",-80.02243,40.395237
+"877",876,23996667,"Brookline neighborhood","Pittsburgh","15226",-80.015862,40.398571
+"878",877,23697967,"Eat'n Park","Bethel Park"," 5220 Library Rd",-80.023544,40.33268
+"879",878,987649,"Kennywood Park","West Mifflin"," Kennywood Drive",-79.870812,40.393505
+"880",879,24195429,"Eat 'N Park - Whitehall ","Pittsburgh"," 5100 Clairton Blvd. 15236",-79.973587,40.34586
+"881",880,23810132,"Chick-Fil-A","Pittsburgh"," 1620 Washington Rd",-80.05072,40.351707
+"882",881,23935791,"Dormont Pool","Pittsburgh"," 1801 Dormont Ave",-80.043083,40.396965
+"883",882,992314,"Northshore River Front Water Steps","Pittsburgh"," 247 North Shore Drive",-80.011673,40.445869
+"884",883,23849046,"Municipal Park in Upper St Clair","Pittsburgh"," 1820 McLaughlin Run Road",-80.076805,40.336601
+"885",884,23888770,"The Clubhouse Playground (USC rec center)","Upper St. Clair"," 1551 Mayview Rd.",-80.111885,40.335289
+"886",885,23819914,"Black and Gold Playground","South Park"," Corrigan Drive",-80.001671,40.30933
+"887",886,296303,"Mt. Lebanon Park","Pittsburgh"," 900 Cedar Blvd",-80.05629,40.375282
+"888",887,951390,"Hamilton Park","Castle Shannon"," Terrace Drive",-80.019729,40.362014
+"889",888,23491338,"Sunnyhill Unitarian Universalist Church","Mt. Lebanon"," 1240 Washington Rd. ",-80.048958,40.365093
+"890",889,23750491,"Harbour Assisted Living of South Hills","Pittsburgh"," 1320 Greentree Rd",-80.056671,40.4039
+"891",890,4029452,"South Hills Village Mall ","Bethel Park"," 301 South Hills Village",-80.056847,40.343731
+"892",891,680153,"Bethel Park Library","Bethel Park"," 5100 W Library Ave",-80.031073,40.332137
+"893",892,674850,"Greentree Library","Pittsburgh"," 10 W Manilla Ave",-80.04676,40.418262
+"894",893,770074,"Fern Hollow Nature Center","Sewickley"," 1901 Glen Mitchell Rd",-80.147957,40.546413
+"895",894,16818692,"Snapology","Pittsburgh"," 1699 Washington Rd",-80.05175,40.349045
+"896",895,1196181,"Round Hill Park","Elizabeth "," 651 Round Hill Road",-79.858582,40.240657
+"897",896,24190441,"See Saw Center","Castle Shannon"," 935 Pine Avenue",-80.02253,40.366272
+"898",897,24113189,"Crafty Jackalope","Bridgeville"," 608 Washington Avenue",-80.113159,40.357193
+"899",898,294173,"Peterswood Park","Venetia"," Meredith Dr",-80.062147,40.278449
+"900",899,15695682,"Uptown Coffee","Mount Lebanon"," 723 Washington Road",-80.044815,40.379456
+"901",900,23992378,"Chatham University Mellon Board Room","Pittsburgh"," 1 Woodland Road",-79.92543,40.451168
+"902",901,948333,"Chatham University Eddy Theater","Pittsburgh"," 102-104 Woodland Rd.",-79.923445,40.447242
+"903",902,23580435,"Carnegie Mellon University 4902 Forbes Avenue","Pittsburgh"," Gates Hillman Center Rashid Auditorium (Room 4401)",-79.997467,40.438339
+"904",903,24101336,"Internet","Sewickley"," 1 Internet Way",-80.184425,40.536484
+"905",904,1483262,"Colonial Grille Restaurant and Taproom","Irwin"," 333 Mian Street",-79.710724,40.332508
+"906",905,14944652,"Quaker Steak & Lube Robinson","Pittsburgh"," 110 Andrew Drive",-80.175659,40.450558
+"907",906,6046812,"Studio for Creative Inquiry College of Fine Arts","Pittsburgh"," Carnegie Mellon University",-79.943054,40.44313
+"908",907,882028,"Carnegie Library Lawrenceville","Pittsburgh"," 279 Fisk Street",-79.959229,40.467636
+"909",908,24028206,"Carnegie Library of Pittsburgh - East Liberty","Pittsburgh"," 130 S Whitfield St",-79.926414,40.460835
+"910",909,23828949,"Carnegie Library Brookline Branch","Pittsburgh"," 708 Brookline Blvd. ",-80.021423,40.394398
+"911",910,23509903,"Los Sabrosos Dance Co","Pittsburgh"," 4909 Penn Ave. ",-79.944786,40.465469
+"912",911,24137872,"Jewish Relief Agency","Pittsburgh"," Chabad of Fox Chapel 1343 Old Freeport Rd",-79.873413,40.488895
+"913",912,24105281,"Valley View Presbyterian Church","Pittsburgh"," 601 N. Aiken Avenue",-79.932785,40.470978
+"914",913,17358422,"Repair The World Workshop","Pittsburgh"," 6022 Broad Street",0,0
+"915",914,24146853,"John Hermann Jr. Memorial Art Museum","Bellevue"," 318 Lincoln Avenue",-80.051003,40.493622
+"916",915,23953556,"Harris Theater","Pittsburgh"," 809 Liberty Ave",-79.998611,40.442883
+"917",916,24013406,"Church of the Redeemer","Pittsburgh"," 5700 Forbes Ave",-79.925186,40.438061
+"918",917,24072727,"Stewart Avenue Lutheran Church","Pittsburgh"," 2810 Brownsville Road",-79.977417,40.383015
+"919",918,23549156,"Josh and Becky\'s House","Pittsburgh"," 3266 Beechdale St",-79.967606,40.377327
+"920",919,23608220,"Repair the World","Pittsburgh"," 6022 Broad St",-79.923538,40.462173
+"921",920,2740061,"Riverplex At Sandcastle","Homestead"," 1000 Sandcastle Drive",-79.929787,40.39653
+"922",921,23816587,"Hollywood Theater","Dormont (15216)"," 1449 Potomac Avenue",-80.03508,40.396019
+"923",922,23639625,"Thunderbird Cafe","Pittsburgh"," 4023 Butler Street Lawrenceville",-79.961594,40.469284
+"924",923,1448819,"Mullen's Bar and Grill","Pittsburgh"," North Shore",-80.01327,40.44542
+"925",924,23583639,"Andys Wine Bar","Pittsburgh"," 510 Market St",-80.002007,40.441521
+"926",925,9522382,"Sharp Edge Bistro","Pittsburgh"," 922 Penn Avenue",-79.997261,40.444038
+"927",926,1340242,"Twin Hi-ways Drive In","Robinson Township"," 5588 Steubenville Pike",-80.137285,40.451304
+"928",927,7656232,"Cinemark","Pittsburgh"," 2100 Settlers Ridge Center Drive",-80.146538,40.438984
+"929",928,687679,"Pittsburgh Zoo","Pittsburgh"," 7340 Butler St",-79.920074,40.487856
+"930",929,19012202,"AMC Loews Waterfront 22","Homestead"," 300 W Waterfront Dr",-79.919579,40.406658
+"931",930,322450,"South Side Works","Pittsburgh"," 445 S 27th St",-79.965805,40.42825
+"932",931,23966026,"Darine Escapes","Pittsburgh"," 5877 Commerce St.",-79.929741,40.459152
+"933",932,18340672,"Phoenix 18","Bridgeville"," 1025 Washington Pike ",-80.106682,40.366787
+"934",933,1161896,"Destina Theaters","Bridgeville"," Chartiers Valley Shopping Center",-80.110056,40.356181
+"935",934,22264822,"Hundred Acres Manor Haunted Attraction","Bethel Park"," 1 Hundred Acres Dr",-80.006821,40.335602
+"936",935,870565,"Carmike 10","Pittsburgh"," 700 Fort Couch Road",-80.060246,40.349517
+"937",936,736900,"Heinz Field","Pittsburgh"," 100 Art Rooney Ave",-80.013533,40.445308
+"938",937,23607152,"Mt Lebanon Pub And Pizza","Mt Lebanon "," 329 Castle Shannon Blvd ",-80.036758,40.376186
+"939",938,23787541,"Biddle\'s Escape","Pittsburgh"," 401 Biddle Avenue",-79.892113,40.438137
+"940",939,23595691,"La Dorita ","Pittsburgh"," 2312 Main Street - REAR ENTRANCE",0,0
+"941",940,24064072,"Schell Games","Pittsburgh"," 220 W Station Square Dr # 200",-80.005135,40.4338
+"942",941,23605356,"Lot 17","Pittsburgh"," 4617 Liberty Avenue",-79.950127,40.46257
+"943",942,18270062,"61B Cafe","Pittsburgh"," 1108 S Braddock Ave",-79.893822,40.432533
+"944",943,18710832,"SouthSide Riverfront Park Entrance","Pittsburgh"," 6 S 18th Street",-79.97449,40.43158
+"945",944,24173715,"Koppers Field ","South Fayette"," Presto-Sygan Road",-80.12388,40.367783
+"946",945,23626281,"Boyce-Mayview Park (Ardolino\'s Pizza parking lot trailhead)","Bridgeville"," 1141 Boyce Road Pittsburgh PA 15241",0,0
+"947",946,24127875,"Next door to Outdoor Classroom","Bridgeville"," 1551 Mayview Road",-80.110336,40.334785
+"948",947,18715002,"LunaMetrics","Pittsburgh"," 24 S. 18th Street",-79.980644,40.431194
+"949",948,23633677,"Regional Learning Alliance at Cranberry Woods","Cranberry Twp"," 850 Cranberry Woods Drive",-80.088402,40.673447
+"950",949,24108636,"4moms","Pittsburgh"," 912 Fort Duquesne Blvd",-79.998177,40.444881
+"951",950,5817072,"Bonnie and Clyde's","Wexford"," 12087 Perry Highway ",-80.058952,40.632542
+"952",951,14335202,"Allegheny HYP Club","Pittsburgh"," 619 William Penn Place",-79.99633,40.441681
+"953",952,11173292,"Double Tree by Hilton Hotel & Suites","Pittsburgh"," 1 Bigelow Square Pittsburgh PA 15219",-79.994278,40.440887
+"954",953,23652384,"The Triplex","Pittsburgh"," 7238 Fleury Way",-79.895767,40.4557
+"955",954,24140617,"Panera Bread","Pittsburgh"," 250 McHolme Drive",-80.174332,40.449413
+"956",955,23653272,"Market District Supermarket","Pittsburgh"," 100 Settlers Ridge Center Dr",-80.151283,40.441742
+"957",956,1356492,"Monroeville Library","Monroeville"," 4000 Mosside Gateway Campus Blvd",-79.75453,40.42786
+"958",957,24004147,"Panera Bread","Monroeville"," 4172 William Penn Hwy",-79.764633,40.438904
+"959",958,14181172,"Squirrel Hill Library Rm. B","Pittsburgh"," 5801 Forbes Avenue Pittsburgh PA 15217 PA",-79.922546,40.438122
+"960",959,18908632,"Legume","Pittsburgh"," 214 N Craig Street",-79.950935,40.450214
+"961",960,24166969,"Squirrel Hill Carnegie Library Room B","Pittsburgh"," 5801 Forbes Avenue",-79.92263,40.438454
+"962",961,24020106,"Croatian Center","Millvale 15209"," 80 Schuetzen Park Road",-79.987,40.501652
+"963",962,19873162,"Regent Square Theater","Pittsburgh"," 1035 S Braddock Ave",-79.894615,40.433617
+"964",963,24167724,"BNY Mellon","Pittsburgh"," 525 William Penn Place 16th floor Conference Room 3",-79.995888,40.440624
+"965",964,24100137,"http://go.cloudera.com/the-future-of-data-warehousing?elq=509ef5488cda4f91a51424f96886490c&elqCampaignId=1001&elqaid=2244&elqat=","Pittsburgh"," Online webinar",-79.995888,40.440624
+"966",965,24100160,"http://go.cloudera.com/insider-threats?elq=509ef5488cda4f91a51424f96886490c&elqCampaignId=1001&elqaid=2244&elqat=1&elqTrackId=da","Pittsburgh"," On line Webinar",-79.995888,40.440624
+"967",966,24100151,"http://go.cloudera.com/OnePlatformInitiative?elq=509ef5488cda4f91a51424f96886490c&elqCampaignId=1001&elqaid=2244&elqat=1&elqTrac","Pittsburgh"," On Line",-80.000191,40.442135
+"968",967,24111986,"Webinar","Pittsburgh"," http://info.atscale.com/webinar-how-yellow-pages-does-bi-on-hadoop?hsCtaTracking=3aa16516-715e-4d05-8332-e730af51774c%7Cf0e9e592",0,0
+"969",968,23867962,"Courtyard by Marriott Pittsburgh Shadyside Hotel","Pittsburgh"," 5308 Liberty Ave",-79.939293,40.456093
+"970",969,23702087,"Swissvale Fire House ","Pittsburgh"," 7400 Irvine Street Pittsburgh 15218",0,0
+"971",970,23987762,"Spiritan","Bethel Park"," 6230 Brushrun Rd",-80.055618,40.294289
+"972",971,23784103,"Giant Eagle Market District Wexford","Wexford"," 155 Town Center Dr",-80.053833,40.623138
+"973",972,14639642,"Panera Bread","Cranberry Township"," 20111 route 19",-80.101275,40.684382
+"974",973,14451612,"Generoasta Coffee","Warrendale"," 901 Warrendale Village Drive",-80.091721,40.655525
+"975",974,23727609,"Courtney Medical Group","Mc Murray"," 3075 Washington Rd Ste 207",-80.104385,40.292255
+"976",975,22138682,"Burkett Recreation and Sports Complex","Mc Kees Rocks"," 5559 Steubenville Pike",-80.128433,40.451164
+"977",976,9005732,"Luke Wholey's Wild Alaskan Grill","Pittsburgh"," 2106 Penn Ave",-79.982841,40.451817
+"978",977,348633,"Monterey Bay Fish Grotto","Pittsburgh"," 1411 Grandview Ave",-80.021259,40.439104
+"979",978,9909332,"Grand Concourse","Pittsburgh"," 100 West Station Square Drive",-80.0037,40.433197
+"980",979,1009923,"Atria's","Wexford"," 12980 Perry Highway",-80.065811,40.640814
+"981",980,15828292,"Crate Cook","Pittsburgh"," 1960 Greentree Road",-80.065971,40.393806
+"982",981,7370702,"Primanti Bros. - Mt Lebanon","Pittsburgh"," 1539 Washington Road (Corner of Rt 19 and Conner Rd)",-79.995888,40.440624
+"983",982,23816662,"Panera Bread- Galleria Mall ","Mount Lebanon "," 1500 Washington Road ",-80.051872,40.357716
+"984",983,23768174,"Point State Park","Pittsburgh"," Point State Park Pittsburgh PA 15222",0,0
+"985",984,14170592,"Hough's","Pittsburgh"," 563 Greenfield Avenue",-79.940178,40.426186
+"986",985,23777050,"Northwood Realty Services","Beaver"," 1071 3rd St",-80.310791,40.692745
+"987",986,24008796,"Riverfront Park Rochester PA","Rochester"," Water Street",-80.27977,40.698479
+"988",987,23791414,"Nancy's East End Diner ","Pittsburgh"," 616 South Avenue",-79.88649,40.44231
+"989",988,17593882,"Blue Line Grille","Pittsburgh"," 1014 5th Ave",-79.990585,40.438812
+"990",989,23811729,"Pittsburgh Technology Council","Pittsburgh"," 2000 Technology Dr",-79.970299,40.434158
+"991",990,23816056,"Absolute Ballroom Dance Center of Pittsburgh","Pittsburgh"," 6617 Hamilton Ave",-79.909981,40.457626
+"992",991,23824880,"WholisticAcupuncture","Fox Chapel"," 1150 Freeport Rd",-79.87941,40.488106
+"993",992,23572877,"Biddles Escape","Pittsburgh"," 401 Biddle Av",-79.892113,40.438137
+"994",993,5876572,"Arsenal Bowling Lanes","Pittsburgh"," 212 44th Street",-79.959724,40.47121
+"995",994,20945062,"Il Tetto: A Rooftop Beer Garden","Pittsburgh"," 942 Penn Ave 3rd Floor",-79.996498,40.444191
+"996",995,24005380,"Jergel's Rhythm Grille","Warrendale"," 103 Slade Ln",-80.08242,40.654671
+"997",996,8351232,"Rivertowne Pour House","Monroeville"," 312 Center Road",-79.764221,40.446445
+"998",997,23845751,"Montour Marina","Coraopolis"," Royal Avenue",-80.14325,40.511669
+"999",998,23875882,"Panera Bread","Pittsburgh"," 1500 Washington Rd",-80.050438,40.356956
+"1000",999,6271962,"Cathedral of Learning University of Pittsburgh Pittsburgh PA 15213","Pittsburgh"," Cathedral of Learning University of Pittsburgh Pittsburgh PA 15213",-79.95311,40.444244
+"1001",1000,23856160,"Sharp Edge Beer Emporium","Pittsburgh"," 302 S Saint Clair St",-79.930611,40.459881
+"1002",1001,23856167,"Panera Bread","Pittsburgh"," 136 Bakery Square Blvd",-79.915154,40.456512
+"1003",1002,22819422,"Heinz Chapel","Pittsburgh"," 4200 Fifth Ave",-79.952599,40.444649
+"1004",1003,22656532,"Perrytowne Draft House","Pittsburgh"," 1002 Perry Hwy",-80.036278,40.539452
+"1005",1004,17576652,"Calvary United Methodist Church","Pittsburgh"," 971 Beech Ave",-80.01844,40.45256
+"1006",1005,23861546,"twitch.tv/cooler09","Pittsburgh"," twitch.tv/cooler09",-79.997467,40.438339
+"1007",1006,23860634,"HackPittsburgh","Pittsburgh"," 1936 5th Ave",-79.97874,40.438244
+"1008",1007,4307832,"Children's Museum of Pittsburgh","Pittsburgh"," 10 Childrens Way Allegheny Square North Side",-79.995888,40.440624
+"1009",1008,23983741,"North Park in McCandless Township","McCandless Township"," Pearce Mill Rd",-80.019211,40.613041
+"1010",1009,24225071,"Conference Room in Alpha Lab Gear","Pittsburgh"," 6024 Broad Street",-79.92347,40.462059
+"1011",1010,23860835,"Meet outside Alpha Lab Gear / Thrill Mill / Repair the World","Pittsburgh"," 6024 Broad Street",-79.923996,40.46228
+"1012",1011,735248,"The National Aviary","Pittsburgh"," 700 Arch Street",-80.008889,40.452368
+"1013",1012,24063307,"Phipps Conservatory","Pittsburgh "," 1 Schneley Drive ",-79.95204,40.43428
+"1014",1013,23881432,"Achieva","Pittsburgh"," 711 BINGHAM St",-79.991997,40.429371
+"1015",1014,23881429,"Jewish Residential Services","Pittsburgh"," 4905 5th Ave # 3",-79.944008,40.447315
+"1016",1015,23997318,"King s Restaurant","Greensburg"," Hempfield Pointe 6297 Route 30",-79.543159,40.29924
+"1017",1016,23627993,"The Livermore","Pittsburgh"," 124 South Highland Avenue Shadyside",-79.925323,40.460354
+"1018",1017,24092941,"Panera Bread South Park","South Park"," Route 88",-80,40.299999
+"1019",1018,17160552,"Panera Bread","Mount Lebanon"," 1500 Washington Road",-80.050377,40.35762
+"1020",1019,24106485,"Hoffstots","Oakmont"," 533 Allegheny Ave.",-79.843369,40.518639
+"1021",1020,24108943,"Boyce Park","Monroeville"," 595 Beatty Rd ",-79.752609,40.454304
+"1022",1021,23993188,"Panera Bread","Oakmont "," 666 Allegheny River Blvd",-79.841774,40.520973
+"1023",1022,23971302,"Oaks Theater","Oakmont"," 310 Allegheny River Blvd",-79.842987,40.515743
+"1024",1023,24006360,"What's Cookin At Casey's","Oakmont"," 608 Allegheny River Blvd",-79.842506,40.519798
+"1025",1024,1126073,"Carnegie Library Allegheny","Pittsburgh"," 1230 Federal Street",-80.006935,40.456447
+"1026",1025,21102912,"Alpha Lab Gear","Pittsburgh"," 6024 Broad Street",-79.923996,40.46228
+"1027",1026,24057356,"Social","Pittsburgh"," 6425 Penn Ave",-79.9161,40.456566
+"1028",1027,23802821,"NoWait","Pittsburgh"," 122 Meyran Ave",-79.95848,40.440636
+"1029",1028,16849332,"Google Pittsburgh","Pittsburgh"," 6425 Penn Avenue 5th Floor",-79.916855,40.457188
+"1030",1029,23994892,"James Street Gastropub & Speakeasy","Pittsburgh"," 422 Foreland St",-80.001198,40.454208
+"1031",1030,24164701,"Bistro to Go ","Pittsburgh"," 415 E Ohio St Suite ",-80.001038,40.453186
+"1032",1031,24048773,"Allegheny Center Alliance Church","Pittsburgh"," 250 E Ohio St",-80.003204,40.453033
+"1033",1032,23973401,"Pittsburgh Leadership Foundation","PITTSBURGH"," 100 West Station Square Drive",-80.003815,40.433418
+"1034",1033,17139572,"The Urban Tap","Pittsburgh"," 1209 East Carson Street",-79.985947,40.428951
+"1035",1034,19450312,"Steel Cactus","Pittsburgh"," 5505 Walnut Street",-79.933632,40.451412
+"1036",1035,17069652,"Allegheny Wine Mixer Inc","Pittsburgh"," 5326 Butler Street",-79.951508,40.482456
+"1037",1036,5109072,"Square Cafe","Pittsburgh"," 1137 S Braddock Ave",-79.893333,40.432049
+"1038",1037,919415,"Frick Park","Pittsburgh"," Forbes Avenue",-79.951054,40.44384
+"1039",1038,12449062,"Spoon","Pittsburgh"," 134 South Highland Avenue",-79.925362,40.45993
+"1040",1039,5892602,"Simmon's Farm","McMurray"," 170 Simmons Road",-80.083084,40.2682
+"1041",1040,23941462,"Panera Bread ","Pittsburgh"," 4899 William Penn Hwy Murrysville PA 15668",0,0
+"1042",1041,9019432,"Gallery Crawl in the Cultural District ","Pittsburgh"," Liberty Ave and 7th St Pittsburgh PA (map) ",-79.999908,40.442432
+"1043",1042,23966612,"Walnut Street","Pittsburgh"," Walnut St",-79.981834,40.41604
+"1044",1043,23943094,"Pastoli's Pizza Pasta & Paisans","Pittsburgh"," 1900 Murray Ave",-79.922844,40.435764
+"1045",1044,24095274,"Doughboy","Pittsburgh"," Butler St. & Penn Ave. (35th St.)",-79.96862,40.464916
+"1046",1045,24162100,"Penn Ave. side of East Liberty Presbyterian Church ","Pittsburgh"," 116 S. Highland Ave. & Penn Ave.",-79.924835,40.461422
+"1047",1046,6071822,"The Federal Building","Pittsburgh"," 1000 Liberty Avenue",-79.994476,40.443539
+"1048",1047,24204796,"bus stop in front of Market District (Giant Eagle)","Pittsburgh"," 5550 Centre Ave.",-79.934433,40.456539
+"1049",1048,24147075,"Tent in Schenley Quad","Pittsburgh"," In Oakland opposite the Cathedral of Learning ",-79.995888,40.440624
+"1050",1049,7042652,"Ryan's Pub & Grill","Pittsburgh"," 607 South Braddock Avenue",-79.897369,40.439384
+"1051",1050,24083026,"In front of McDonalds","Pittsburgh"," 1630 Penn Ave. Strip District",-79.986298,40.449291
+"1052",1051,24054511,"In front of S. Side Library ","Pittsburgh"," 2205 E. Carson",-79.974243,40.428654
+"1053",1052,24062848,"Penn Ave.","Wilkinsburg"," Penn Ave. at Hay St.",-79.88588,40.444061
+"1054",1053,24083285,"PNC Park","Pittsburgh"," 115 Federal St. ",-80.006409,40.447151
+"1055",1054,22919942,"Old Town Buffet","Pittsburgh"," 860 Saw Mill Run Blvd. ",-80.023438,40.427273
+"1056",1055,23958116,"American Legion","McKeesport"," 2813 Capital St. White Oak PA",0,0
+"1057",1056,23955740,"Panera Bread","Monaca"," 100 Wagner Rd",-80.309761,40.680405
+"1058",1057,23979029,"Duke's Upper Deck Cafe","Homestead"," 122 W 8th Ave",-79.912781,40.405552
+"1059",1058,24079617,"Paramount Film Exchange","Pittsburgh"," 544 Miltenberger St.",-79.981567,40.435795
+"1060",1059,24002203,"Paramount Film Exchange","Pittsburgh"," 1727 Blvd of the Allies",-79.982361,40.435711
+"1061",1060,24002582,"Pastoli's Pizza Pasta & Paisans","Pittsburgh"," 1900 Murray Avenue",-79.923141,40.435867
+"1062",1061,6471662,"Highland Park Super Playground","Pittsburgh"," Reservoir Drive 15206",-79.915916,40.482594
+"1063",1062,24032308,"First Unitarian Church","Pittsburgh"," 605 Morewood Ave",-79.942993,40.45068
+"1064",1063,24097200,"Crazy Mocha","Pittsburgh"," 2100 Murray Ave",-79.923302,40.433479
+"1065",1064,24013847,"Coffee Tree Roasters","Pittsburgh"," 5524 Walnut Street",-79.932755,40.451221
+"1066",1065,24009040,"Coco Coffeehouse","Leechburg"," 156 Market St.",-79.606262,40.626801
+"1067",1066,24057893,"Gates Hillman Center room 4301","Pittsburgh"," Carnegie Mellon University",-79.94187,40.44112
+"1068",1067,24207859,"Panera Bread","Pittsburgh"," 3800 Forbes Avenue MPAC Building (Oakland)",-79.962555,40.442013
+"1069",1068,695692,"Old Monroeville Community Park (East)","Municipality of Monroeville"," Tilbrook Rd",-79.763003,40.420027
+"1070",1069,925227,"Panera","Monroeville"," 4172 William Penn Hwy",-79.7652,40.438831
+"1071",1070,12708072,"The Wooden Nickel","Monroeville"," 4006 Berger Lane Monroeville PA",-79.772339,40.437241
+"1072",1071,24037243,"Independance Twp. Community Center ","Aliquippa 15001"," 116 School Rd. ",-80.327858,40.543999
+"1073",1072,19653902,"The Tandem Connection LLC","Canonsburg"," 5 Georgetown Rd",-80.152222,40.299229
+"1074",1073,8768792,"West Newton Bicycle Shop","West Newton"," 106 West Main Street",-79.768684,40.210709
+"1075",1074,24044336,"Primanti Brothers","Mt Lebanon"," 1539 Washington Rd",-80.050323,40.355804
+"1076",1075,24042391,"Millenium Dance Complex Pittsburgh","Pittsburgh"," 2504 E. Carson St.",0,0
+"1077",1076,23652067,"Stinky's Bar and Grill","Pittsburgh"," 4901 Hatfield St",-79.957649,40.477592
+"1078",1077,23767889,"Latitude 360 Pittsburgh","Pittsburgh"," 200 Quinn Drive",-80.178238,40.446812
+"1079",1078,766103,"Schenley Park Visitors Center","Pittsburgh"," Panther Hollow Rd",-79.946985,40.437485
+"1080",1079,23622534,"First Unitarian Church of Pittsburgh","Pittsburgh"," 605 Morewood Ave",-79.94255,40.45064
+"1081",1080,24053881,"Unitarian Universalist Church of the North Hills","Pittsburgh"," 2359 W Ingomar Rd",-80.079445,40.583988
+"1082",1081,24053562,"Allegheny Unitarian Universalist Church","Pittsburgh"," 416 W North Ave",-80.011505,40.45476
+"1083",1082,24055311,"PSN Host Facilities","Pittsburgh"," in and around downtown Pittsburgh",-79.997467,40.438339
+"1084",1083,1205252,"Point Park University","Pittsburgh"," Lawrence Hall",-79.954979,40.44225
+"1085",1084,24073267,"Eat'n Park Restaurant","Pittsburgh"," 245 East Waterfront Drive",-79.913841,40.411831
+"1086",1085,24072751,"CC Mellor Memorial Library","Pittsburgh"," 1 Pennwood Ave",-79.885231,40.432266
+"1087",1086,17263282,"The Center for Women","Pittsburgh"," 1620 Murray Ave.",-79.92337,40.43909
+"1088",1087,24072768,"Eat'n Park Training Center in Eat'n Park Corporate Headquarters","Homestead "," 285 East Waterfront Dr",-79.912811,40.412395
+"1089",1088,24086474,"Adventist Community Services","Carnegie"," 36 East Main St.",-80.086784,40.407387
+"1090",1089,24088725,"Pittsburgh Integrative Mental Health","Pittsburgh"," 160 North Craig Street Suite 212",-79.950111,40.449532
+"1091",1090,24104116,"Panera Bread (The Waterfront)","Pittsburgh"," 210 West Bridge Street",-79.916618,40.40715
+"1092",1091,3473162,"Sharp Edge Bistro","Pittsburgh"," 922 Penn Avenue",-79.997208,40.443962
+"1093",1092,23947017,"Holistic Aging Castle Town Square South","Allison Park"," 4284 Route 8 ",-79.954216,40.575348
+"1094",1093,24158187,"Bulgarian Macedonian National Educational and Cultural Center Art Center","Homestead"," 449 W. 8th Ave",-79.917793,40.40176
+"1095",1094,674826,"Brillobox","Pittsburgh"," 4104 Penn Ave",-79.95517,40.46565
+"1096",1095,24178223,"WorkHardPGH","Pittsburgh"," 744 East Warrington Ave",-79.994102,40.421631
+"1097",1096,24147086,"Ideal Wellness and Weight Loss","Pittsburgh"," 3420 Babcock Blvd",-80.023682,40.539188
+"1098",1097,370414,"Te Cafe","Pittsburgh"," 2000 Murray Ave",-79.92284,40.43475
+"1099",1098,15995962,"Herr\'s Island","Pittsburgh"," Waterfront Drive under 31st St. Bridge",-79.995888,40.440624
+"1100",1099,24171907,"Peggy\'s Harbor","Pittsburgh"," 1 Liverpool St",-80.03386,40.454132
+"1101",1100,24191241,"Looking For Group","Pittsburgh"," 924 Brookline Ave",-80.018646,40.392372
+"1102",1101,24185931,"Google Pittsburgh","Pittsburgh"," 6425 Penn Avenue",-79.916458,40.45713
+"1103",1102,1555249,"Jump Zone Party Play Center","Allison Park"," 4025 Alpha Dr",-79.966255,40.56625
+"1104",1103,23910433,"Bar Louie","Pittsburgh"," 240 W Station Square Dr",-80.005249,40.434055
+"1105",1104,722961,"Heinz Field","Pittsburgh"," Heinz Field",-80.015787,40.446835

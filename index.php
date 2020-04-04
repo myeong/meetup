@@ -52,6 +52,17 @@ else
     echo getEvents($meetup, 'MD', 'Baltimore', 'US');
     echo getEvents($meetup, 'NY', 'New York', 'US');
     echo getEvents($meetup, 'MA', 'Boston', 'US');
+    echo getEvents($meetup, 'CA', 'San Jose', 'US');
+    echo getEvents($meetup, 'CA', 'San Francisco', 'US');
+    echo getEvents($meetup, 'CO', 'Denver', 'US');
+    echo getEvents($meetup, 'NC', 'Raleigh', 'US');
+    echo getEvents($meetup, 'NC', 'Durham', 'US');
+    echo getEvents($meetup, 'CA', 'San Diego', 'US');
+    echo getEvents($meetup, 'TX', 'Austin', 'US');
+    echo getEvents($meetup, 'CA', 'Los Angeles', 'US');
+    echo getEvents($meetup, 'PA', 'Philadelphia', 'US');
+    echo getEvents($meetup, 'DC', 'Washington', 'US');
+
 
 
  // Searching for Groups in each city 
@@ -59,6 +70,16 @@ else
     echo getGroups($meetup, 'MD', 'Baltimore', 'US');
     echo getGroups($meetup, 'NY', 'New York', 'US');
     echo getGroups($meetup, 'MA', 'Boston', 'US');
+    echo getGroups($meetup, 'CA', 'San Jose', 'US');
+    echo getGroups($meetup, 'CA', 'San Francisco', 'US');
+    echo getGroups($meetup, 'CO', 'Denver', 'US');
+    echo getGroups($meetup, 'NC', 'Raleigh', 'US');
+    echo getGroups($meetup, 'NC', 'Durham', 'US');
+    echo getGroups($meetup, 'CA', 'San Diego', 'US');
+    echo getGroups($meetup, 'TX', 'Austin', 'US');
+    echo getGroups($meetup, 'CA', 'Los Angeles', 'US');
+    echo getGroups($meetup, 'PA', 'Philadelphia', 'US');
+    echo getGroups($meetup, 'DC', 'Washington', 'US');
     
     echo getTopicCategory($meetup);
     echo getTopic($meetup);
@@ -146,7 +167,7 @@ function getRSVPs($meetup, $eids, $round){
 
     getMembersReady($meetup, $output, $round);
         
-    $fp = fopen('RSVP_' . date('Y-m-d') . '_' . strval($round) . '.csv', 'w');
+    $fp = fopen('data/RSVP_' . date('Y-m-d') . '_' . strval($round) . '.csv', 'w');
     foreach ($output as $row){        
         fputcsv($fp, $row);  
     }
@@ -205,7 +226,7 @@ function getMembers($meetup, $mids, $round, $rsvpround){
         $output[$item->id][] = $str;            
     }
 
-    $fp = fopen('Members_' . date('Y-m-d') . '_' . strval($rsvpround) . '_' . strval($round) . 
+    $fp = fopen('data/Members_' . date('Y-m-d') . '_' . strval($rsvpround) . '_' . strval($round) . 
             '.csv', 'w');
 
     foreach ($output as $row){        
@@ -227,7 +248,7 @@ function getTopicCategory($meetup){
     $total_count = $response->meta->total_count;
     $json_format = json_encode($response);
 
-    $fp = fopen('TopicsCategory_' . date('Y-m-d') . '.json', 'w');
+    $fp = fopen('data/TopicsCategory_' . date('Y-m-d') . '.json', 'w');
     fwrite($fp, $json_format);
     fclose($fp);
     
@@ -241,7 +262,7 @@ function getTopic($meetup){
     $total_count = $response->meta->total_count;
     $json_format = json_encode($response);
 
-    $fp = fopen('Topics_' . date('Y-m-d') . '.json', 'w');
+    $fp = fopen('data/Topics_' . date('Y-m-d') . '.json', 'w');
     fwrite($fp, $json_format);
     fclose($fp);
     
@@ -261,7 +282,7 @@ function getEvents($meetup, $state, $city, $country){
     $total_count = $response->meta->total_count;
     $json_format = json_encode($response);
 
-    $fp = fopen('Events_' . date('Y-m-d') . '_' . $city . '_' . $file_index .'.json', 'w');
+    $fp = fopen('data/Events_' . date('Y-m-d') . '_' . $city . '_' . $file_index .'.json', 'w');
     fwrite($fp, $json_format);  
     fclose($fp);
     sleep(1);
@@ -271,7 +292,7 @@ function getEvents($meetup, $state, $city, $country){
         $response = $meetup->getNext($response); 
         $json_format = json_encode($response);       
         $file_index += 1;
-        $fp = fopen('Events_' . date('Y-m-d') . '_' . $city . '_' . $file_index .'.json', 'w');
+        $fp = fopen('data/Events_' . date('Y-m-d') . '_' . $city . '_' . $file_index .'.json', 'w');
         fwrite($fp, $json_format);
         fclose($fp);
         sleep(1);
@@ -293,7 +314,7 @@ function getGroups($meetup, $state, $city, $country){
     $total_count = $group_response->meta->total_count;
     $json_format = json_encode($group_response);
        
-    $fp2 = fopen('Group_' . date('Y-m-d') . '_' . $city . '_' . $file_index . '.json', 'w');
+    $fp2 = fopen('data/Group_' . date('Y-m-d') . '_' . $city . '_' . $file_index . '.json', 'w');
     fwrite($fp2, $json_format);
     fclose($fp2);
     sleep(1);
@@ -303,7 +324,7 @@ function getGroups($meetup, $state, $city, $country){
         $group_response = $meetup->getNext($group_response); 
         $json_format = json_encode($group_response); 
         $file_index += 1;
-        $fp2 = fopen('Group_' . date('Y-m-d') . '_' . $city . '_' . $file_index . '.json', 'w');
+        $fp2 = fopen('data/Group_' . date('Y-m-d') . '_' . $city . '_' . $file_index . '.json', 'w');
         fwrite($fp2, $json_format);
         fclose($fp2);
         sleep(1);

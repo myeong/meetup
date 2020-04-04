@@ -1,0 +1,242 @@
+---
+title: "Big Data Groups"
+author: "Myeong Lee"
+date: "12/6/2016"
+output: html_document
+---
+
+```{r, echo=FALSE}
+library(readr)
+library(dplyr)
+library(magrittr)
+library(lubridate)
+library(rgdal)
+require(ggplot2)
+library(utils)
+library(rpart)
+library(stringr)
+library(MASS)
+library(reshape2)
+library(RColorBrewer)
+library(ggmap)
+library(tm)
+library(topicmodels)
+library(ldatuning)
+```
+
+
+
+# Selecting IT/Big-Data-related Groups
+```{r}
+setwd("/Users/myeong/git/meetup/data/cleaned_up_John/")
+groups = read_delim("group_results.csv", delim = ",",col_names = TRUE ) 
+
+# Filtering Groups based on seed terms (that were determined from term-frequency rankings)
+groups %<>% filter(str_detect(groups$tags, "big-data") | str_detect(groups$tags, "data-analytics") | str_detect(groups$tags, "big-data-analytics") | str_detect(groups$tags, "data-science") | str_detect(groups$tags, "data-visualization") | str_detect(groups$tags, "nosql") | str_detect(groups$tags, "machine-learning") | str_detect(groups$tags, "predictive-analytics") | str_detect(groups$tags, "datamanagement")| str_detect(groups$tags, "mapreduce"))
+
+groups$description <- sapply(groups$description, function(x) gsub("<.*?>", "", x))
+groups$date <- paste(groups$year,groups$month,groups$day,sep="")
+
+```
+
+
+# Set A: All the co-occuring tags with seed terms
+```{r}
+tags <- toString(groups$tags)
+tags <- unlist(strsplit(tags, split=", ")) #making all the tags as a list
+unique_tags <- unique(tags)
+
+tag_corpus <- Corpus(VectorSource(tags))
+dtm <- DocumentTermMatrix(tag_corpus)   
+freq <- colSums(as.matrix(dtm))   
+length(freq)
+ord <- order(freq) 
+View(freq[ord])
+
+write.csv(freq[ord], file="/Users/myeong/git/meetup_data/results/tech_term_freq.csv")
+hist(freq[ord])
+
+```
+
+
+# Chi-square test to determine the co-occurreance with the seed tags above the random threshold.
+```{r}
+total_groups = read_delim("group_results.csv", delim = ",",col_names = TRUE ) 
+tgs <- groups[,c("GID","tags")]
+
+df <- data.frame(matrix(ncol = 3, nrow = 0)) 
+
+for (i in 1:nrow(tgs)){
+  gid <- tgs[i, "GID"]
+  tag_list <- unlist(strsplit(tgs[i, "tags"][[1]], split=", "))
+  
+  big_data_list <- c("data-analytics", "big-data", "data-visualization", "big-data-analytics", "machine-learning", "data-science", "predictive-analytics", "datamanagement","mapreduce", "nosql")
+  
+  #change every seed tags to "big data"
+  for (j in 1:length(tag_list)){
+    if (tag_list[j] %in% big_data_list){
+      tag_list[j] = "big-data"
+    }
+  }
+  
+  #get unique list for the tag_list
+  tag_list <- unique(tag_list)
+    
+  tmp <- cbind(gid, tag_list, 1)
+  df <- rbind(df, tmp)
+}
+
+# V: Co-occurrance table
+colnames(df) <- c("gid", "tag", "count")
+V <- crossprod(table(df[1:2]))
+diag(V) <- 0
+V <- as.data.frame(V)
+mt <- apply(V, 1, function(x) x["big-data"])
+mt <- as.data.frame(mt)
+mt$tag <- row.names(mt)
+colnames(mt) <- c("co-occur", "tag")
+mt["non-occur"] <- apply(mt["co-occur"], 1, function(x) nrow(groups) - x)
+mt$ChiSqP = rep(NA,nrow(mt))
+
+# Counting the total number of occurrance for each term
+for (i in 1:nrow(mt)){
+  tmp <- total_groups %>% filter(str_detect(total_groups$tags, mt[i,"tag"]))
+  mt$groups_with_tag[i] <- nrow(tmp)
+}
+
+# Counting variables for Chi-square table
+mt$non_big_cooccur <- apply(mt, 1, function(x) as.numeric(x["groups_with_tag"]) - as.numeric( x["co-occur"]))
+mt$groups_without_tag <- apply(mt, 1, function(x) nrow(total_groups) - as.numeric( x["groups_with_tag"]))
+mt$non_big_no_occur <- apply(mt, 1, function(x) as.numeric(x["groups_without_tag"]) - as.numeric( x["non-occur"]))
+
+# freq = c(nrow(tgs)/nrow(total_groups),(nrow(total_groups) - nrow(tgs))/nrow(total_groups))
+
+for(i in 1:nrow(mt)){
+  x2 = chisq.test(rbind(c(mt[i,"co-occur"],mt[i,"non-occur"]), c(mt[i,"non_big_cooccur"],mt[i,"non_big_no_occur"])))
+	mt[i,"ChiSqP"] = x2$p.value
+}
+
+mt = mt[order(mt$ChiSqP),]
+mt$IsBigData = ifelse(mt$ChiSqP<0.05,1,0)
+write.csv(mt,"/Users/myeong/git/meetup_data/results/BigDataFinal_ds.csv",row.names=F,na="")
+```
+
+
+
+
+```{r}
+# myReader <- readTabular(mapping=list(content="description", id="GID"))
+# tm <- VCorpus(DataframeSource(data_groups), readerControl=list(reader=myReader))
+# tm <-tm_map(tm,content_transformer(tolower))
+# toSpace <- content_transformer(function(x, pattern) { return (gsub(pattern, " ", x))})
+# tm <- tm_map(tm, toSpace, "-")
+# tm <- tm_map(tm, toSpace, "'")
+# tm <- tm_map(tm, toSpace, "\n")
+# tm <- tm_map(tm, removePunctuation)
+# #Strip digits
+# tm <- tm_map(tm, removeNumbers)
+# #remove stopwords
+# tm <- tm_map(tm, removeWords, stopwords("english"))
+# #remove whitespace
+# tm <- tm_map(tm, stripWhitespace)
+# 
+# #custom stopwords
+# myStopwords <- c("nbsp", "amp", "meetup", "http", "can", "get", "will", "join", "like", "group", "event", "events", "people", "new")
+# tm <- tm_map(tm, removeWords, myStopwords)
+# 
+# #writeLines(as.character(tm[[30]]))
+# dtm <- DocumentTermMatrix(tm)
+# dtm <- removeSparseTerms(dtm, sparse=0.98)
+# 
+# rowTotals <- apply(dtm , 1, sum)
+# dtm   <- dtm[rowTotals> 0, ] 
+# 
+# # data("AssociatedPress", package="topicmodels")
+# # dtm1 <- AssociatedPress[1:10, ]
+# 
+# result2 <- FindTopicsNumber(
+#   dtm,
+#   topics = seq(from = 21, to = 40, by = 1),
+#   metrics = c("Griffiths2004", "CaoJuan2009", "Arun2010", "Deveaud2014"),
+#   method = "Gibbs",
+#   control = list(seed = 77),
+#   mc.cores = 2L,
+#   verbose = TRUE
+# )
+# 
+# FindTopicsNumber_plot(result2)
+# 
+# result2
+# 
+# 
+# ##### Topic Models for Optimum K's
+# 
+# burnin <- 4000
+# iter <- 2000
+# thin <- 500
+# seed <-list(2003,5,63,10001,765)
+# nstart <- 5
+# best <- TRUE
+# k <- 31 # number of topic categories on MeetUp.com
+# 
+# # lda_out <- LDA(dtm, k, method="Gibbs", control=list(nstart=nstart, seed = seed, best=best, burnin = burnin, iter = iter, thin=thin))
+# 
+# lda_out <- LDA(dtm, k)
+# lda_out.topics <- as.matrix(topics(lda_out))
+# write.csv(lda_out.topics,file=paste("LDAstop",k,"DocsToTopics.csv"))
+# 
+# #top 10 terms in each topic
+# lda_out.terms <- as.matrix(terms(lda_out,10))
+# write.csv(lda_out.terms,file=paste("LDAstop",k,"TopicToTerms.csv"))
+# 
+# #probabilities associated with each topic assignment
+# topicProbabilities <- as.data.frame(lda_out@gamma)
+# write.csv(topicProbabilities,file=paste("LDAstop",k,"TopicProb.csv"))
+# 
+# 
+# data_reshaped <- melt(data_groups, id=c("group_id","date"))
+# data_reshaped <- data_reshaped[order(data_reshaped$group_id),] 
+# data_reshaped <- data_reshaped[data_reshaped$variable == "GID",] 
+# 
+# lda_out.topics <- as.data.frame(lda_out.topics)
+# lda_out.topics$GID <- rownames(lda_out.topics)
+# data_reshaped = data_reshaped %>% left_join(lda_out.topics, by = c("value" = "GID"))
+# data_reshaped$value <- data_reshaped$V1
+# library(reshape)
+# final <- cast(data_reshaped, group_id~date, value="V1")
+# 
+# for (i in 1:nrow(final)){
+#   prev = 0
+#   add = 0
+#   sub = 0
+#   
+#   seq <- unlist(final[i, 2:13])
+#     
+#   for (j in 1:length(seq)){
+#     if (is.na(seq[j])) next
+#     if (prev == seq[j] || j == 1 ) {
+#       prev <- seq[j]
+#       next
+#     } else if (prev < seq[j] ){
+#       add <- add + 1
+#     } else {
+#       sub <- sub + 1
+#     }
+#     prev <- seq[j]
+#   }
+#   
+#   final$add[i] <- add
+#   final$sub[i] <- sub
+# }
+# 
+# summary(final$add)
+# table(final$add)
+# hist(final$add)
+# 
+# summary(final$sub)
+# table(final$sub)
+# hist(final$sub)
+# 
+
+```
+
