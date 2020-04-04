@@ -1,5 +1,8 @@
+
 .Rhistory
 .RData
 group_results.csv
 IT_cities
 qgis-Baltimore
+
+.DS_Store
