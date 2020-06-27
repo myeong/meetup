@@ -1,0 +1,192 @@
+---
+title: "Regressions for ecological features (meetup)"
+author: "Myeong Lee"
+date: "05/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(readr)
+library(dplyr)
+library(magrittr)
+library(lmerTest)
+library("Hmisc")
+library(jtools)
+library(ggstance)
+library(psych)
+```
+
+## Core variables
+#### IV: Legitimation, Competition, and Category Fuzziness
+#### DV: Entry rate, exit rate, and group performance (events and rsvps)
+
+- Need to combine population data for each city in 2017
+- Need to implement time lags because entry and exit of groups might be affected by the past features of organizations
+
+```{r echo=FALSE}
+setwd("~/git/meetup_analysis/data/")
+
+source("../code/COS-VSE/_lib_regress_helpers.R")
+
+template <- "\n## Time Lag: %s\n"
+model_template <- "\n#### DV: %s, IV: %s \n"
+
+df <- read_delim("fuzziness/meetup2017_percity_permonth.csv", delim = ",", col_names = TRUE,
+                 col_types = "ffnnnnnnnnnnn") 
+df$legitimation <- df$` #Groups`
+df$competition <- df$legitimation * df$legitimation
+cn <- c("city","category", "month", "entryRate", "exitRate"," num_groups",
+                  "eventsCOUNT", "rspvsCOUNT", "eventsPerGroup", "RSVPsPerGroup", "Rao", "Entropy",
+                  "HHI", "legitimation", "competition")
+colnames(df) <- cn
+df <- df[,cn]
+
+df$entryRate <- scale(df$entryRate)
+df$exitRate <- scale(df$exitRate)
+df$eventsPerGroup <- scale(df$eventsPerGroup)
+df$RSVPsPerGroup <- scale(df$RSVPsPerGroup)
+df$Rao <- scale(df$Rao)
+df$Entropy <- scale(df$Entropy)
+df$HHI <- 1- df$HHI # converting from "concentration" to "fuzziness"
+df$HHI <- scale(df$HHI)
+df$legitimation <- scale(df$legitimation)
+df$competition <- scale(df$competition)
+
+df$id <- 1:nrow(df)
+
+cols<- c("time_lag", "dv", "iv", "beta_iv", "p_iv", "beta_legitimation", "p_legit", "beta_competition", "p_comp", 
+           "df", "t", "REML")
+
+# Function that returns a regression model based on the model title.
+regression_modeler <- function(model_title, iv){
+  if (model_title == "rand_city") {
+    model <- paste0(iv, " + legitimation + competition + (1 | city) + category + month")
+  } else if (model_title == "base") {
+    model <- "legitimation + competition + (1 | city) + category + month"
+  } else if (model_title == "rand_city_category") {
+    model <- paste0(iv, " + legitimation + competition + (1 | city) + (1 | category) + month")
+  } else if (model_title == "rand_city_category_month") {
+    model <- paste0(iv, " + legitimation + competition + (1 | city) + (1 | category) + (1 | month)")
+  } else if (model_title == "time_moderator") {
+    model <- paste0(iv, " + legitimation + competition + (", iv, ":time) + (1 | city) + (1 | category) + month")
+  } else {
+    model <- ""
+  }
+  return (model)
+}
+
+final <- ""
+for (model_title in c("base", "rand_city", "rand_city_category", "rand_city_category_month", "time_moderator")){
+  # Regression table
+ 
+  rg <- as.data.frame(matrix(ncol=length(cols), nrow=0))
+  colnames(rg) <- cols
+  
+  # Random Effects on City (entry/exit rates are nested within cities)
+  # Time-lag needed (1,2,3 months?)
+  # 
+  for(window in c(0,1,2,3)){
+  
+    print(sprintf(template, window))
+    
+    operator<-" ~ "
+    
+    ivs <- c("Rao", "HHI", "Entropy")
+    target_variables <- c("entryRate", "exitRate", "eventsPerGroup", "RSVPsPerGroup")
+    
+    
+    tmp <- df[,c("city", "category", "month", target_variables)]
+    tmp$month <- tmp$month - window
+    tmp <- tmp[tmp$month!=0,]
+    
+    
+    data <- df[,c("city", "category", "month", "legitimation", "competition", ivs)] %>%
+      left_join(tmp, by=c("city", "category", "month"))
+    data <- data[complete.cases(data),]
+    data$time <- as.integer(data$month)
+    data$month <-as.factor(data$month) 
+    
+    
+    for (dv in target_variables){
+      for (iv in ivs){
+        model <- paste0(
+            dv,
+            operator,
+            regression_modeler(model_title, iv)
+         ) %>% as.formula
+        
+        fit <- lmer( model , data=data)
+        res <- summary(fit)
+        
+        r <- c(window, dv, iv, res$coefficients[row.names(res$coefficients)==iv,]["Estimate"],
+               res$coefficients[row.names(res$coefficients)==iv,]["Pr(>|t|)"],
+               res$coefficients[row.names(res$coefficients)=="legitimation",]["Estimate"],
+               res$coefficients[row.names(res$coefficients)=="legitimation",]["Pr(>|t|)"],
+               res$coefficients[row.names(res$coefficients)=="competition",]["Estimate"],
+               res$coefficients[row.names(res$coefficients)=="competition",]["Pr(>|t|)"],
+               res$coefficients[row.names(res$coefficients)==iv,]["df"],
+               res$coefficients[row.names(res$coefficients)==iv,]["t value"],
+               res$AICtab
+               )
+        r <- as.character(r)
+        names(r) <- cols
+        rg <- rbind(rg, t(r))
+        rg$time_lag <- as.integer(as.character(rg$time_lag))
+        rg$dv <- as.character(rg$dv)
+        rg$iv <- as.character(rg$iv)
+        rg$beta_iv <- as.numeric(as.character(rg$beta_iv))
+        rg$beta_legitimation <- as.numeric(as.character(rg$beta_legitimation))
+        rg$beta_competition <- as.numeric(as.character(rg$beta_competition))
+        rg$df <- as.integer(as.character(rg$df))
+        rg$t <- as.numeric(as.character(rg$t))
+        rg$p_iv <- as.numeric(as.character(rg$p_iv))
+        rg$p_legit <- as.numeric(as.character(rg$p_legit))
+        rg$p_comp <- as.numeric(as.character(rg$p_comp))
+        rg$REML <- as.numeric(as.character(rg$REML))
+        
+        # print (res)
+      }
+    }
+   
+  }
+  
+  write.table(rg, paste0("fuzziness/regressions_", model_title, ".csv"), row.names = F, sep=",")
+  
+  # Regression table generation
+  # rg <- read_delim(paste0("fuzziness/regressions_", model_title, ".csv"), delim = ",", col_names = TRUE)
+  actual_model <- paste0("group\\_performance $\\sim$ ", regression_modeler(model_title, "fuzziness"))
+  
+  out <- generate_latex_table (model_title, actual_model, rg)
+  
+  final <- paste0(final, out)
+  
+}
+
+writeLines(final, paste0("fuzziness/LaTex_table_final.txt"))
+
+
+
+cts <- corr.test(df[,c("HHI", "Rao", "Entropy")],adjust="holm")
+print(corr.p(cts$r, n=2900))
+  
+  # if (K==5){
+  #   print(interact_plot(fit, pred="legit_companies_5", modx="K5_age"))
+  #   ss <- sim_slopes(fit, pred="legit_companies_5", modx="K5_age", modx.values = c(-2.1, -0.7, 0, 0.8, 1.6), johnson_neyman = FALSE)
+  #   print(ss)
+  #   plot(ss)
+  # } else if(K==7) {
+  #   print(interact_plot(fit, pred="legit_companies_7", modx="K7_age"))
+  #   ss <- sim_slopes(fit, pred="legit_companies_7", modx="K7_age", johnson_neyman = FALSE)
+  #   print(ss)
+  #   plot(ss)
+  # }
+  
+  # print(ss)
+  # plot(ss)
+  
+# }
+
+
+```
+
+
